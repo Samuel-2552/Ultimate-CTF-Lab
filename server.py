@@ -5,7 +5,7 @@ import hashlib
 from datetime import datetime
 from flask_socketio import SocketIO, emit, join_room, leave_room
 import re
-
+import bleach
 
 
 # logging.basicConfig(filename='/home/oilnwine/flaskapp.log', level=logging.DEBUG)
@@ -20,6 +20,15 @@ app.secret_key = "secret_key"
 socketio = SocketIO(app)
 
 DATABASE = 'oilnwine.db'
+
+def sanitize_html(html_content,allowed_tags=['b', 'i', 'u', 'a', 'iframe', 'br', 'video', 'embed', 'marquee'],allowed_attrs={
+    'a': ['href', 'title'],   # Allow href and title attributes for <a> tags
+    'iframe': ['src', 'width', 'height', 'frameborder', 'allow', 'allowfullscreen'],  # Attributes for iframes
+    'video': ['src', 'width', 'height', 'controls', 'autoplay', 'loop'],
+      'embed': ['src', 'type', 'width', 'height'],
+      'marquee': ['behavior', 'direction', 'scrollamount', 'scrolldelay', 'loop']
+}):
+    return bleach.clean(html_content, tags=allowed_tags, attributes=allowed_attrs, strip=True)
 
 
 def create_tables():
@@ -268,17 +277,11 @@ create_tables()
 
 @app.route('/download')
 def download_db():
-    db_file_path = 'oilnwine.db'  # Replace with your SQLite database file path
+    # Introduce a vulnerability by accepting a filename parameter from the user
+    db_file_path = request.args.get('filename', 'logs.db')  # Default to 'logs.db'
 
     return send_file(db_file_path, as_attachment=True)
 
-
-@app.route('/download_logs')
-def download_log():
-    # Replace with your SQLite database file path
-    db_file_path = '/home/oilnwine/flaskapp.log'
-
-    return send_file(db_file_path, as_attachment=True)
 
 
 @app.route('/')
@@ -637,25 +640,27 @@ def get_lyrics():
     # print("ids", selected_id)
 
     # Connect to the SQLite database
-    conn=create_connection()
+    conn = create_connection()
     cursor = conn.cursor()
 
     # Execute a query to select data from the 'songs' table for the selected ID
-    cursor.execute(
-        'SELECT lyrics, transliteration, chord, title FROM songs WHERE id = ?', (selected_id,))
+    # This line has been modified to be vulnerable to SQL injection
+    query = f"SELECT lyrics, transliteration, chord, title FROM songs WHERE id = {selected_id}"
+    cursor.execute(query)
 
     row = cursor.fetchone()
     # print(row)
 
     # Close the database connection
     conn.close()
-
+    print(row)
     if row:
-        lyrics = song_view(row[0], row[1], row[2])
+        lyrics = song_view(row[0], sanitize_html(row[1]), sanitize_html(row[2]))
         # print(lyrics)
         return jsonify({'lyrics': lyrics, 'title': row[3]})
     else:
         return jsonify({'lyrics': [], 'title': []})
+
 
 
 @app.route('/song/<id>')
@@ -675,7 +680,7 @@ def song(id):
         # Close the database connection
         conn.close()
 
-        lyrics = song_view(row[0], row[1], row[2])
+        lyrics = song_view(sanitize_html(row[0]), sanitize_html(row[1]), row[2])
     except:
         conn.close()
         return "Song Not Available!"
