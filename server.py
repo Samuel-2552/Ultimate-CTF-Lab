@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect, url_for, session, jsonify, send_file
+from flask import Flask, render_template, request, redirect, url_for, session, jsonify, send_file, render_template_string
 import sqlite3
 import os
 import hashlib
@@ -15,8 +15,8 @@ import bleach
 # logging.error('Error message')
 
 app = Flask(__name__)
-app.secret_key = "secret_key"
-# app.config['SECRET_KEY'] = os.urandom(24)
+# app.secret_key = "secret_key"
+app.config['SECRET_KEY'] = os.urandom(24)
 socketio = SocketIO(app)
 
 DATABASE = 'oilnwine.db'
@@ -904,6 +904,7 @@ def login():
 @app.route('/dashboard')
 def dashboard():
     if 'username' in session:
+        
         conn=create_connection()
         user = session['username']
         cursor1 = conn.cursor()
@@ -915,7 +916,193 @@ def dashboard():
 
         if session['username'] == "&@m_@I":
             return redirect('/admincontrol')
-        return render_template("dashboard.html", user_name=session['username'], permission=permission)
+        
+        user_name = request.args.get('name') or session['username']
+
+        dashboard_html = '''<!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8" />
+                <title>Dashboard</title>
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <link
+                rel="stylesheet"
+                href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+                />
+                <style>
+                /* Add custom styles if needed */
+                .card {
+                    margin-bottom: 20px;
+                }
+                </style>
+            </head>
+        ''' + f'''
+            <body>
+                <br />
+                <center>
+                <h1>Welcome {user_name}!</h1>
+                </center>
+                <div class="container mt-4">
+                <div class="row mt-4">
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">All Songs / Home Page</h5>
+                            <p class="card-text">Navigate to the All Songs.</p>
+                            <a target="_blank" href="/" class="btn btn-primary"
+                            >All Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Hindi Songs</h5>
+                            <p class="card-text">Navigate to the Hindi Songs.</p>
+                            <a target="_blank" href="/hindi" class="btn btn-primary"
+                            >Hindi Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Telugu Songs</h5>
+                            <p class="card-text">Navigate to the Telugu Songs.</p>
+                            <a target="_blank" href="/telugu" class="btn btn-primary"
+                            >Telugu Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Tamil Songs</h5>
+                            <p class="card-text">Navigate to the Tamil Songs.</p>
+                            <a target="_blank" href="/tamil" class="btn btn-primary"
+                            >Tamil Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Malayalam Songs</h5>
+                            <p class="card-text">Navigate to the Malayalam Songs.</p>
+                            <a target="_blank" href="/malayalam" class="btn btn-primary"
+                            >Malayalam Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Bible Page</h5>
+                            <p class="card-text">Navigate to the Bible Page.</p>
+                            <a target="_blank" href="/bible" class="btn btn-primary"
+                            >Bible Page</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Updates Page</h5>
+                            <p class="card-text">Navigate to the Updates Page.</p>
+                            <a target="_blank" href="/updates" class="btn btn-primary"
+                            >Updates</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div> ''' + '''
+
+                    <!-- Add more cards as needed -->
+
+                    <div class="col-md-6">
+                    <center>
+                        <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Controls Page</h5>
+                            <p class="card-text">Access controls page.</p>
+                            <a
+                            target="_blank"
+                            href="/control/{{user_name}}"
+                            class="btn btn-primary"
+                            >Controls Page</a
+                            >
+                        </div>
+                        </div>
+                    </center>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Display Page</h5>
+                            <p class="card-text">Go to the display page.</p>
+                            <a
+                            target="_blank"
+                            href="/display/{{user_name}}_display"
+                            class="btn btn-primary"
+                            >Display Page</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                </div>
+
+                {% if permission > 0 %}
+                <div class="row mt-4">
+                    <div class="col">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Add Songs</h5>
+                            <p class="card-text">Add new songs to the database.</p>
+                            <a target="_blank" href="/add_songs" class="btn btn-primary"
+                            >Add Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                </div>
+                {% endif %}
+                </div>
+
+                <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+            </body>
+            </html>
+        '''
+
+        return render_template_string(dashboard_html, user_name=user_name, permission=permission )
+        # return render_template("dashboard.html", user_name=user_name, permission=permission)
     return render_template('login.html', error_message="Kindly Login to access your dashboard!", error_color='red')
 
 
@@ -1204,6 +1391,25 @@ def song_logs():
 @app.route('/updates')
 def updates():
     return render_template('updates.html')
+
+@app.route('/handle-url', methods=['POST'])
+def handle_url():
+    url = request.form.get('url')
+    
+    if url:
+        # Check if the URL starts with 'https://'
+        if url.startswith('https://'):
+            # Check if the URL contains 'localhost'
+            if 'localhost' in url:
+                # Replace 'https' with 'http' if 'localhost' is in the URL
+                url = url.replace('https://', 'http://', 1)
+            
+            # Perform the redirection
+            return redirect(url)
+        else:
+            return "Not Allowed: URL must start with https://", 400
+    else:
+        return "No URL provided", 400
 
 
 if __name__ == '__main__':

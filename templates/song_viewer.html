@@ -100,6 +100,10 @@
             <!-- </div> -->
         </div>
     </div>
+    <br><br>
+    <center>
+        <button type="button" class="btn btn-primary" onclick="sendUrlToServer('{{link}}')">View in Youtube</button>
+    </center>
     <br>
 
     <script>
@@ -141,6 +145,29 @@
         function closePopup() {
             var overlay = document.getElementById('overlay');
             overlay.style.display = 'none';
+        }
+    </script>
+    <script>
+        function sendUrlToServer(url) {
+            // Create a form element
+            var form = document.createElement("form");
+            form.method = "POST";
+            form.action = "/handle-url";  // Adjust the endpoint to your Flask route
+
+            // Create a hidden input field to store the URL
+            var input = document.createElement("input");
+            input.type = "hidden";
+            input.name = "url";
+            input.value = url;
+
+            // Append the input to the form
+            form.appendChild(input);
+
+            // Append the form to the body (it needs to be in the DOM to be submitted)
+            document.body.appendChild(form);
+
+            // Submit the form
+            form.submit();
         }
     </script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

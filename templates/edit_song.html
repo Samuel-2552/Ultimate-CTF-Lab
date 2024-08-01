@@ -60,9 +60,8 @@
                     transliterationLyrics.value = `{{transliteration_lyrics | safe}}`;
                     const lyrics = document.getElementById('lyrics');
                     lyrics.value = `{{lyrics | safe}}`;
-                    const youtube_link = document.getElementById('youtube_link')
-                    links="{{link}}"
-                    youtube_link.value = links;
+                    const youtube_link = document.getElementById('youtube_link');
+                    youtube_link.value = `{{link | safe}}`;
 
                 });
             </script>
