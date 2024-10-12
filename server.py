@@ -17,7 +17,7 @@ import subprocess
 
 app = Flask(__name__)
 # app.secret_key = "secret_key"
-secret_key=os.urandom(12)
+secret_key="helllo_kjghkjh"
 app.config['SECRET_KEY'] = secret_key
 print(secret_key)
 socketio = SocketIO(app)
